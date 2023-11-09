@@ -1,0 +1,555 @@
+name,address,avg_rating,zip,categories,city
+Lake Hodges Water Recreation Area,"Lake Hodges Water Recreation Area, Lake Dr, Escondido, CA 92033",4.6,92033,{Park},Escondido
+Apple Country Restaurants,"Apple Country Restaurants, 30270 CA-78, Santa Ysabel, CA 92070",4.1,92070,{American restaurant},Santa Ysabel
+United States Postal Service,"United States Postal Service, 16091 San Dieguito Rd, Rancho Santa Fe, CA 92091",2.7,92091,"{Post office,Logistics service,Money order service,Shipping and mailing service}",Rancho Santa Fe
+SDSU Global Campus,"SDSU Global Campus, 5250 Campanile Dr, San Diego, CA 92182",4.7,92182,"{Educational institution,Adult education school,Business school,College,Distance learning center,Education center,Graduate school,Learning center,School}",San Diego
+Center Bar,"Center Bar, 11154 CA-76, Pala, CA 92059",5,92059,{Bar},Pala
+Chevron,"Chevron, 1071 Imperial Hwy, Ocotillo, CA 92259",2.1,92259,"{Gas station,Convenience store,Diesel fuel supplier,Fuel pump}",Ocotillo
+UCSD Outback Adventures Surf Shop,"UCSD Outback Adventures Surf Shop, 9500 Gilman Dr, La Jolla, CA 92093",4.1,92093,{Surf shop},La Jolla
+Rehner Orchards,"Rehner Orchards, 3022 Pala Mission Rd, Pala, CA 92059",4.5,92059,{Orchard},Pala
+Naval Medical Center San Diego Emergency Room,"Naval Medical Center San Diego Emergency Room, 34800 Bob Wilson Dr, San Diego, CA 92134",2.6,92134,{Emergency room},San Diego
+Tryyn Gallery,"Tryyn Gallery, 27538 Old Hwy 80, Guatay, CA 91931",4.9,91931,{Gourmet grocery store},Guatay
+Swastika Buildings,"Swastika Buildings, Naval Amphibious Base Bldg #33, San Diego, CA 92155",4.1,92155,{Sculpture},San Diego
+USS San Diego Memorial,"USS San Diego Memorial, 750 N Harbor Dr, San Diego, CA 92132",4.7,92132,"{Historical landmark,Memorial park,Tourist attraction}",San Diego
+Jay's Southern Cafe,"Jay's Southern Cafe, 44461 Old Hwy 80, Jacumba Hot Springs, CA 91934",4.8,91934,"{BBQ area,Barbecue restaurant,Restaurant}",Jacumba Hot Springs
+Naval Medical Center,"Naval Medical Center, 34800 Bob Wilson Dr, San Diego, CA 92134",3.7,92134,"{Medical Center,General hospital}",San Diego
+Himalaya Tourmaline Mine Dig,"Himalaya Tourmaline Mine Dig, 26142 CA-76, Santa Ysabel, CA 92070",3.1,92070,{Mine},Santa Ysabel
+Pacific Hall,"Pacific Hall, Scholars Dr S, San Diego, CA 92161",5,92161,{Association or organization},San Diego
+Earl Warren College,"Earl Warren College, 9500 Gilman Dr #0422, La Jolla, CA 92093",4.6,92093,{College},La Jolla
+Fireside Lounge,"Fireside Lounge, 9628-9698 Hopkins Ln, San Diego, CA 92161",4.4,92161,{Lounge},San Diego
+Carrizo Gorge Scenic Railroad,"Carrizo Gorge Scenic Railroad, 44477 Boundary Creek Rd, Jacumba Hot Springs, CA 91934",4.3,91934,{Rail museum},Jacumba Hot Springs
+Basic Riders Course (BRC),"Basic Riders Course (BRC), Miramar Way, San Diego, CA 92145",5,92145,{Driving school},San Diego
+Dirty Birds La Jolla,"Dirty Birds La Jolla, Price Center, 9500 Gilman Dr #1420, La Jolla, CA 92093",4.2,92093,{Chicken wings restaurant},La Jolla
+Twin Lakes Resorts,"Twin Lakes Resorts, 25275 Potrero Valley Rd, Potrero, CA 91963",4,91963,{Resort hotel},Potrero
+Panda Express,"Panda Express, 9500 Gilman Dr, La Jolla, CA 92093",3.5,92093,"{Chinese restaurant,Asian restaurant,Restaurant}",La Jolla
+Bobby D's Ribeye,"Bobby D's Ribeye, 5535 Cancha de Golf, Rancho Santa Fe, CA 92091",4.6,92091,"{Restaurant,Food and drink}",Rancho Santa Fe
+Blue Pepper,"Blue Pepper, 9500 Gilman Dr, La Jolla, CA 92093",3.9,92093,"{Thai restaurant,Asian restaurant,Restaurant,Southeast Asian restaurant}",La Jolla
+Palomar Mountain Real Estate .com,"Palomar Mountain Real Estate .com, 20720 State Park Rd, Palomar Mountain, CA 92060",4.5,92060,"{Real estate consultant,Firewood supplier}",Palomar Mountain
+The Oak Room at Pala Casino Spa & Resort,"The Oak Room at Pala Casino Spa & Resort, 11154 CA-76, Pala, CA 92059",4.4,92059,"{Steak house,Restaurant}",Pala
+Culp Valley Primitive Campground,"Culp Valley Primitive Campground, Montezuma-Borrego Hwy, Ranchita, CA 92066",4.6,92066,{Campground},Ranchita
+Palomar Observatory,"Palomar Observatory, 35899 Canfield Rd, Palomar Mountain, CA 92060",4.6,92060,"{Observatory,Research institute}",Palomar Mountain
+The Red Barn,"The Red Barn, 4355 Julian Hwy, Santa Ysabel, CA 92070",4.8,92070,"{Bar,Live music venue}",Santa Ysabel
+Yogurt World,"Yogurt World, 9500 Gilman Dr, La Jolla, CA 92093",4.7,92093,"{Frozen yogurt shop,Dessert shop,Ice cream shop}",La Jolla
+Aztec Tennis Center,"Aztec Tennis Center, Plaza Deportes, San Diego, CA 92182",4.7,92182,{Tennis court},San Diego
+Julian Pie Company,"Julian Pie Company, 21976 CA-79, Santa Ysabel, CA 92070",4.8,92070,{Bakery},Santa Ysabel
+Smuggler's Den,"Smuggler's Den, Ocotillo, CA 92259",4.8,92259,{Park},Ocotillo
+R L Jones Customhouse Brokers,"R L Jones Customhouse Brokers, 484 Tecate Rd, Tecate, CA 91980",4,91980,{Customs broker},Tecate
+Johnny On The Spot Pest Control,"Johnny On The Spot Pest Control, Spring Valley, CA 91979",4.3,91979,{Pest control service},Spring Valley
+UCSD Career Services Center,"UCSD Career Services Center, San Diego, CA 92161",5,92161,"{Student career counseling office,University}",San Diego
+CNG Clean Energy Station,"CNG Clean Energy Station, 9413 Voigt Dr, La Jolla, CA 92093",4.5,92093,"{Gas station,Alternative fuel station,Compressed natural gas station,Energy supplier}",La Jolla
+Glorietta Canyon Trailhead,"Glorietta Canyon Trailhead, Warner Springs, CA 92066",4.4,92066,{Hiking area},Warner Springs
+Conrad Prebys Aztec Student Union,"Conrad Prebys Aztec Student Union, 6075 Aztec Cir Dr, San Diego, CA 92182",4.6,92182,"{Student union,Association or organization,Community center}",San Diego
+Gus Weber Picnic Area,"Gus Weber Picnic Area, 35899 Canfield Rd, Palomar Mountain, CA 92060",4.6,92060,{Park},Palomar Mountain
+Jamba,"Jamba, 2761 Gonsalves Ave Building B, San Diego, CA 92145",4.3,92145,"{Juice shop,Restaurant}",San Diego
+McGill Hall,"McGill Hall, San Diego, CA 92161",4.1,92161,{Hall},San Diego
+Atkinson Hall,"Atkinson Hall, 9500 Gilman Dr, La Jolla, CA 92093",4.7,92093,{Auditorium},La Jolla
+Ocotillo Bible Church,"Ocotillo Bible Church, 1174 N Imperial Hwy, Ocotillo, CA 92259",4.8,92259,{Church},Ocotillo
+Turner Field Recreational Area,"Turner Field Recreational Area, San Diego, CA 92155",4.3,92155,{Recreation center},San Diego
+GNC,"GNC, 2660 45233, Antares Dr, San Diego, CA 92145",4,92145,{Vitamin & supplements store},San Diego
+UCSD Department of Music,"UCSD Department of Music, La Jolla, CA 92093",4.2,92093,"{Music school,University}",La Jolla
+Guatay Country Store,"Guatay Country Store, 27560 Old Hwy 80, Guatay, CA 91931",4.5,91931,{Grocery store},Guatay
+Shogun of La Jolla,"Shogun of La Jolla, 9500 Gilman Dr, La Jolla, CA 92093",3.4,92093,{Japanese restaurant},La Jolla
+Luis Rey's,"Luis Rey's, 11154 CA-76, Pala, CA 92059",3.8,92059,{Bar},Pala
+Ocotillo Community Park,"Ocotillo Community Park, 266 Imperial Hwy, Ocotillo, CA 92259",4.2,92259,{Park},Ocotillo
+Carrizo Creek,"Carrizo Creek, California 92259",5,92259,{River},
+Mountain Springs County Park,"Mountain Springs County Park, Jacumba Hot Springs, CA 91934",4.7,91934,"{Park,Tourist attraction}",Jacumba Hot Springs
+Parma Payne Goodall Alumni Center,"Parma Payne Goodall Alumni Center, 5250 55th St, San Diego, CA 92182",4.8,92182,{Conference center},San Diego
+Shiley Eye Institute at UC San Diego Health,"Shiley Eye Institute at UC San Diego Health, 9415 Campus Point Dr, La Jolla, CA 92093",3.1,92093,"{Eye care center,Ophthalmologist}",La Jolla
+GameStop Military,"GameStop Military, 5638 Kelso Rd, San Diego, CA 92145",4.5,92145,"{Video game store,Cell phone store,Collectibles store,Electronics store}",San Diego
+UC San Diego Bookstore,"UC San Diego Bookstore, 9500 Gilman Dr, La Jolla, CA 92093",4.4,92093,"{Book store,Gift shop,Office supply store}",La Jolla
+Domino's Pizza,"Domino's Pizza, McAs Air Sta, 5305 Miramar Way, San Diego, CA 92145",3.5,92145,"{Pizza delivery,Delivery Restaurant,Takeout Restaurant,Pizza restaurant,Pizza Takeout}",San Diego
+Fexco Bookkeeping & Tax Services,"Fexco Bookkeeping & Tax Services, 443 Tecate Rd, Tecate, CA 91980",5,91980,{Tax preparation},Tecate
+Santa Ysabel Botanical Facility,"Santa Ysabel Botanical Facility, Santa Ysabel Reservation, Palomar-Julian, Santa Ysabel, CA 92070",4.7,92070,{Farm},Santa Ysabel
+Southern California Tribal,"Southern California Tribal, 10975 Pala Rd, Pala, CA 92059",5,92059,{Association or organization},Pala
+Jamba UCSD,"Jamba UCSD, 9500 Gilman Dr Price Center Rm 1.419, La Jolla, CA 92093",4,92093,"{Juice shop,Restaurant}",La Jolla
+Outpatient Pharmacy,"Outpatient Pharmacy, 3350 La Jolla Village Dr, San Diego, CA 92161",3.7,92161,{Pharmacy},San Diego
+California Commercial Asphalt,"California Commercial Asphalt, 9229 Harris Plant Rd, Asphalt, San Diego, CA 92145",3.9,92145,{Paving materials supplier},San Diego
+Starbucks,"Starbucks, McIntire Dr, San Diego, CA 92134",5,92134,{Coffee shop},San Diego
+Barstow Charles R,"Barstow Charles R, San Diego, CA 92159",5,92159,{Marketing consultant},San Diego
+Pala Shooting Range,"Pala Shooting Range, 35402 Henderson Rd, Pala, CA 92059",4.5,92059,{Shooting range},Pala
+Cupa Cultural Center,"Cupa Cultural Center, 35001 Pala Temecula Rd, Pala, CA 92059",4.7,92059,{Museum},Pala
+Mother's Kitchen,"Mother's Kitchen, 33120 Canfield Rd, Palomar Mountain, CA 92060",4.6,92060,"{Restaurant,Vegetarian restaurant}",Palomar Mountain
+Picnic Lake Park,"Picnic Lake Park, Potrero Park Dr, Potrero, CA 91963",3.8,91963,{Park},Potrero
+Secluded Garden Estate,"Secluded Garden Estate, 38648 Pala Temecula Rd, Pala, CA 92059",4.4,92059,{Garden center},Pala
+MCAS Miramar Veterinary Treatment Facility,"MCAS Miramar Veterinary Treatment Facility, 6360 Bauer Rd, San Diego, CA 92145",4.7,92145,{Veterinary care},San Diego
+Imperial Valley Desert Museum,"Imperial Valley Desert Museum, 11 Frontage Rd, Ocotillo, CA 92259",4.7,92259,"{Museum,Tourist attraction}",Ocotillo
+Julian Farm & Orchard,"Julian Farm & Orchard, 4381 CA-78, Santa Ysabel, CA 92070",4.3,92070,{Pumpkin patch},Santa Ysabel
+Western Marine Dive Service,"Western Marine Dive Service, 2500 Shelter Island Dr, San Diego, CA 92166",4.9,92166,{Boat repair shop},San Diego
+The Vegetable Shop at Chino Farm,"The Vegetable Shop at Chino Farm, 6123 Calzada Del Bosque, Rancho Santa Fe, CA 92091",4.6,92091,{Produce market},Rancho Santa Fe
+Peet's Coffee,"Peet's Coffee, 9500 Gilman Dr, La Jolla, CA 92093",4.2,92093,"{Coffee shop,Cafe,Espresso bar,Tea house}",La Jolla
+Aztec Recreation Center,"Aztec Recreation Center, 5301 55th St, San Diego, CA 92182",4.6,92182,"{Recreation center,Gym,Swimming pool}",San Diego
+WorldMark Oceanside,"WorldMark Oceanside, 1301 Carmelo Dr, Oceanside, CA 92049",4.4,92049,"{Resort hotel,Hotel,Vacation home rental agency}",Oceanside
+Jim's Appollo Septic Services,"Jim's Appollo Septic Services, Escondido, CA 92033",4.6,92033,{Excavating contractor},Escondido
+SDSU Library,"SDSU Library, 5500 Campanile Dr, San Diego, CA 92182",4.1,92182,"{University library,Library,Public university}",San Diego
+Copley International Conference Center,"Copley International Conference Center, La Jolla, CA 92093",4.5,92093,{University},La Jolla
+Main Gymnasium,"Main Gymnasium, San Diego, CA 92161",4.3,92161,{Gym},San Diego
+"Santa Ysabel East Preserve, Hwy 79 Staging","Santa Ysabel East Preserve, Hwy 79 Staging, 22550 CA-79, Santa Ysabel, CA 92070",4.8,92070,{Park},Santa Ysabel
+Santa Ysabel General Store,"Santa Ysabel General Store, 30275 CA-78, Santa Ysabel, CA 92070",4.8,92070,"{Hardware store,Antique store,Garden center,General store,Historical landmark,Sewing shop,Tourist attraction}",Santa Ysabel
+Snake Path,"Snake Path, San Diego, CA 92161",5,92161,{Public library},San Diego
+UCSD la Jolla farmers market,"UCSD la Jolla farmers market, UCSD Town Square, San Diego, CA 92161",5,92161,{Farmers' market},San Diego
+Cafe 94,"Cafe 94, 25275 Potrero Valley Rd, Potrero, CA 91963",4.6,91963,{American restaurant},Potrero
+Navy Gateway Inns & Suites,"Navy Gateway Inns & Suites, 32444 Echo Ln Bldg 82, San Diego, CA 92147",4,92147,{Hotel},San Diego
+Inaja Memorial Park,"Inaja Memorial Park, 30828 Julian Rd, Santa Ysabel, CA 92070",4.7,92070,"{Park,Tourist attraction}",Santa Ysabel
+Mortero Wash (Anza-Borrego State Park®),"Mortero Wash (Anza-Borrego State Park®), Mortero Canyon Rd, Ocotillo, CA 92259",4.8,92259,{State park},Ocotillo
+National Salute to Bob Hope and the Military,"National Salute to Bob Hope and the Military, Tuna Wharf, San Diego, CA 92132",4.7,92132,"{War memorial,Tourist attraction}",San Diego
+Skaggs School of Pharmacy and Pharmaceutical Sciences,"Skaggs School of Pharmacy and Pharmaceutical Sciences, 9500 Gilman Dr, La Jolla, CA 92093",4.7,92093,{University department},La Jolla
+Hofmann Architecture,"Hofmann Architecture, 1221 State St, Suite 12, #92051, Santa Barbara, CA 93103",4.4,92051,"{Architect,Construction company,Custom home builder,Interior designer}",Santa Barbara
+Mandell Weiss Theatre,"Mandell Weiss Theatre, 2910 La Jolla Village Dr, La Jolla, CA 92093",4.8,92093,{Performing arts theater},La Jolla
+"Love Meadow, National Forest","Love Meadow, National Forest, 24935 E Grade Rd, Santa Ysabel, CA 92070",4.3,92070,{Park},Santa Ysabel
+Silvercrest Picnic Grounds at Palomar Mountain State Park,"Silvercrest Picnic Grounds at Palomar Mountain State Park, 19952 State Park Rd, Palomar Mountain, CA 92060",4.7,92060,{Picnic ground},Palomar Mountain
+Robinson Auditorium,"Robinson Auditorium, La Jolla, CA 92093",3.9,92093,{Auditorium},La Jolla
+Café Ventanas,"Café Ventanas, 9500 Gilman Dr, La Jolla, CA 92093",3.1,92093,"{Cafeteria,Restaurant}",La Jolla
+Mark V Agee Inc,"Mark V Agee Inc, 16236 San Dieguito Rd #06, Rancho Santa Fe, CA 92091",5,92091,{Construction company},Rancho Santa Fe
+Big Laguna Trailhead,"Big Laguna Trailhead, Pacific Crest Trail, Mt Laguna, CA 91948",4.9,91948,"{Hiking area,Tourist attraction}",Mt Laguna
+Meadows Information Kiosk Trailhead,"Meadows Information Kiosk Trailhead, Mt Laguna, CA 91948",4.8,91948,{Hiking area},Mt Laguna
+Autoport Naval Amphibious Base,"Autoport Naval Amphibious Base, 1017 Trident Way, San Diego, CA 92155",4.3,92155,{Gas station},San Diego
+Stuart Collection,"Stuart Collection, 9500 Gilman Dr, La Jolla, CA 92093",4,92093,"{Sculpture museum,Tourist attraction}",La Jolla
+Coast Citrus Distributors,"Coast Citrus Distributors, 13855 SW 252nd St, San Diego, CA 92145",4.6,92145,{Distribution service},San Diego
+SDSU Softball Stadium,"SDSU Softball Stadium, Plaza Deportes, San Diego, CA 92182",4.2,92182,{Stadium},San Diego
+Cleveland National Forest,"Cleveland National Forest, Co Hwy S7, Santa Ysabel, CA 92070",4.7,92070,"{National forest,Tourist attraction}",Santa Ysabel
+T.C. Worthy Cash & Carry,"T.C. Worthy Cash & Carry, 405 Tecate Rd, Tecate, CA 91980",3.2,91980,"{Convenience store,Grocery store}",Tecate
+Pacific Crest Outdoor Equipment,"Pacific Crest Outdoor Equipment, 8378 Morris Ranch Rd, Mt Laguna, CA 91948",5,91948,{Outdoor furniture store},Mt Laguna
+Cross Armory,"Cross Armory, San Diego, CA 92166",4.7,92166,{Outdoor sports store},San Diego
+Canines N' Ewe,"Canines N' Ewe, 37825 Montezuma Valley Rd, Ranchita, CA 92066",5,92066,{Dog trainer},Ranchita
+San Diego Spiritual Retreat Center,"San Diego Spiritual Retreat Center, 5049 CA-78, Santa Ysabel, CA 92070",3.5,92070,"{Retreat center,Hotel,Meditation center,Wedding chapel,Wedding service,Wedding venue,Yoga studio}",Santa Ysabel
+Pala Casino RV Resort,"Pala Casino RV Resort, 11042 CA-76, Pala, CA 92059",4.6,92059,{RV park},Pala
+Aztec Athletic Center,"Aztec Athletic Center, 5490 Aztec Walk, San Diego, CA 92182",4.9,92182,"{Sports complex,Association or organization}",San Diego
+Panda Express,"Panda Express, 5500 Campanile Dr, San Diego, CA 92182",3.9,92182,"{Chinese restaurant,Asian restaurant,Restaurant}",San Diego
+Fallen Star,"Fallen Star, 9500 Gilman Dr, La Jolla, CA 92093",4.7,92093,"{Sculpture,Tourist attraction}",La Jolla
+Capacity Construction Inc,"Capacity Construction Inc, San Diego, CA 92142",3,92142,{Janitorial service},San Diego
+K2 Staffing,"K2 Staffing, 1700 Aviara Pkwy Unit 130474, Carlsbad, CA 92013",5,92013,"{Talent agency,Computer security service,Computer support and services,Employment agency,Employment center,Employment consultant,Employment search service,Human resource consulting,Recruiter}",Carlsbad
+Ramco Petroleum,"Ramco Petroleum, 30351 CA-78, Santa Ysabel, CA 92070",4,92070,{Gas station},Santa Ysabel
+Carrizo Stage Station Site,"Carrizo Stage Station Site, Ocotillo, CA 92259",4.8,92259,"{Historical landmark,Tourist attraction}",Ocotillo
+Miramar Fuel Farm,"Miramar Fuel Farm, 8600 Boyington Rd, San Diego, CA 92145",3.9,92145,{Gas station},San Diego
+Margaret L. Sellers Processing and Distribution Center,"Margaret L. Sellers Processing and Distribution Center, 11251 Rancho Carmel Dr, San Diego, CA 92199",3,92199,"{Warehouse,Post office}",San Diego
+Imperial Valley Substation,"Imperial Valley Substation, Ocotillo, CA 92259",5,92259,{Power station},Ocotillo
+Geisel Library,"Geisel Library, 9500 Gilman Dr, La Jolla, CA 92093",4.7,92093,{University library},La Jolla
+Montezuma Valley Market,"Montezuma Valley Market, 37552 Montezuma Valley Rd, Ranchita, CA 92066",4.7,92066,"{Convenience store,Beer garden,Tourist attraction}",Ranchita
+Inspiration Point,"Inspiration Point, Inspiration Point Way, San Diego, CA 92134",4.6,92134,"{Hiking area,Tourist attraction}",San Diego
+SDSU Transit Center,"SDSU Transit Center, Aztec Walk, San Diego, CA 92182",4.3,92182,"{Transit station,Bus stop,Light rail station}",San Diego
+Lake Miramar,"Lake Miramar, San Diego, CA 92093",4.7,92093,{City park},San Diego
+Pala Casino,"Pala Casino, 11154 CA-76, Pala, CA 92059",4.2,92059,{Casino},Pala
+Observatory Campground,"Observatory Campground, Observatory Campground Co Hwy S6, State Park Rd #21485, Palomar Mountain, CA 92060",4.5,92060,{Campground},Palomar Mountain
+Estate Sale Professionals,"Estate Sale Professionals, Seagaze Dr box 141, Oceanside, CA 92049",3,92049,"{Estate appraiser,Business related,Estate liquidator}",Oceanside
+KPBS Public Media,"KPBS Public Media, Copley Telecommunications Center, 5200 Campanile Dr, San Diego, CA 92182",4.3,92182,"{Television station,News service,Non-profit organization,Radio broadcaster}",San Diego
+The Barn,"The Barn, San Diego, CA 92145",4.5,92145,{Gym},San Diego
+Starbucks,"Starbucks, 555 Campus View Dr, San Marcos, CA 92096",2.5,92096,"{Coffee shop,Cafe,Coffee store,Espresso bar}",San Marcos
+Tamarack Apartments,"Tamarack Apartments, San Diego, CA 92161",4.3,92161,{Student dormitory},San Diego
+John Muir Field,"John Muir Field, San Diego, CA 92161",4.6,92161,{Athletic field},San Diego
+Ramco Petroleum,"Ramco Petroleum, 447 Tecate Rd, Tecate, CA 91980",2.9,91980,{Propane supplier},Tecate
+Pala Skate Park,"Pala Skate Park, 12196 Pala Mission Rd Bldg C, Pala, CA 92059",4.2,92059,{Skateboard park},Pala
+Goody's Place and Market,"Goody's Place and Market, 9500 Gilman Dr, La Jolla, CA 92093",4.2,92093,{Restaurant},La Jolla
+Rancho Santa Fe Cosmetic & Family Dentistry,"Rancho Santa Fe Cosmetic & Family Dentistry, 5531 Cancha de Golf #102, Rancho Santa Fe, CA 92091",5,92091,"{Dentist,Cosmetic dentist}",Rancho Santa Fe
+United States Postal Service,"United States Postal Service, 11251 Rancho Carmel Dr, San Diego, CA 92199",3.3,92199,"{Post office,Logistics service,Money order service,Shipping and mailing service}",San Diego
+Desert View Tower,"Desert View Tower, In-Ko-Pah Park Rd, Jacumba Hot Springs, CA 91934",4.5,91934,"{Historical landmark,Gift shop,Tourist attraction,Yoga retreat center}",Jacumba Hot Springs
+Rubio's Coastal Grill,"Rubio's Coastal Grill, Building - SDSU, East Commons, 5500 Campanile Dr, San Diego, CA 92182",3.9,92182,"{Seafood restaurant,Caterer,Family restaurant,Mexican restaurant,Restaurant,Vegan restaurant,Vegetarian restaurant}",San Diego
+SDSU College of Professional Studies & Fine Arts,"SDSU College of Professional Studies & Fine Arts, Campanile Mall, San Diego, CA 92182",5,92182,{University department},San Diego
+Bombay Coast,"Bombay Coast, 9500 Gilman Dr, La Jolla, CA 92093",3.1,92093,"{Indian restaurant,Asian restaurant}",La Jolla
+Taffy 3 Memorial,"Taffy 3 Memorial, 1198 W G St, San Diego, CA 92132",4.7,92132,{War memorial},San Diego
+Kat’s Yarn & Craft Cottage,"Kat’s Yarn & Craft Cottage, 4367 CA-78, Santa Ysabel, CA 92070",4.4,92070,{Craft store},Santa Ysabel
+Coffee Amore,"Coffee Amore, 35008 Pala Temecula Rd, Pala, CA 92059",3.9,92059,{Bistro},Pala
+Wilderness Gardens Preserve,"Wilderness Gardens Preserve, 14209 CA-76, Pala, CA 92059",4.6,92059,"{Nature preserve,Garden,Tourist attraction}",Pala
+Steampunk Farms Rescue Barn 501c3 Farmed Animal Sanctuary,"Steampunk Farms Rescue Barn 501c3 Farmed Animal Sanctuary, 36013 Old Wilson Rd, Ranchita, CA 92066",4.8,92066,"{Animal rescue service,Animal protection organization,Animal shelter}",Ranchita
+Jasper Trail,"Jasper Trail, Ranchita, CA 92066",4.8,92066,"{Hiking area,Tourist attraction}",Ranchita
+Domelands Trailhead,"Domelands Trailhead, Ocotillo, CA 92259",4.7,92259,"{Hiking area,Tourist attraction}",Ocotillo
+Stella Public House,"Stella Public House, 250 N City Dr, San Marcos, CA 92096",4.7,92096,{Pizza restaurant},San Marcos
+Navy Jobs San Diego (NRD San Diego),"Navy Jobs San Diego (NRD San Diego), 33050 Nixie Way Building 17, San Diego, CA 92147",4.1,92147,"{Military recruiting office,Business administration service}",San Diego
+Starbucks,"Starbucks, 5500 Campenile Dr SDSU, Aztec Shops Terrace, San Diego, CA 92182",4.1,92182,"{Coffee shop,Cafe,Coffee store,Espresso bar}",San Diego
+James' Place Prime Seafood Sushi,"James' Place Prime Seafood Sushi, 2910 La Jolla Village Dr, La Jolla, CA 92093",4.5,92093,"{Sushi restaurant,Restaurant}",La Jolla
+Black Hall,"Black Hall, 9500 Gilman Dr, La Jolla, CA 92093",4,92093,{Student dormitory},La Jolla
+64 Degrees,"64 Degrees, 9500 Gilman Dr, La Jolla, CA 92093",3.9,92093,{College},La Jolla
+CSUSM University Bookstore,"CSUSM University Bookstore, 333 S Twin Oaks Valley Rd, San Marcos, CA 92096",4.6,92096,{Book store},San Marcos
+East San Digeo substation,"East San Digeo substation, Jacumba Hot Springs, CA 91934",5,91934,{Electrical substation},Jacumba Hot Springs
+West End Plaza,"West End Plaza, West Commons, Campanile Dr, San Diego, CA 92182",4.7,92182,{Food court},San Diego
+Health IQ,"Health IQ, 3223 Greyling Dr # 231115, San Diego, CA 92193",3.4,92193,{Insurance broker},San Diego
+Consolidated Bachelor Qtrs,"Consolidated Bachelor Qtrs, Schilt Ave, San Diego, CA 92145",3.4,92145,{Lodging},San Diego
+James Property,"James Property, Kumeyaay Hwy, Ocotillo, CA 92259",5,92259,{Wedding venue},Ocotillo
+Marshall Community Garden,"Marshall Community Garden, San Diego, CA 92161",5,92161,{Garden},San Diego
+Baja-Mex Video,"Baja-Mex Video, 433 Tecate Rd, Tecate, CA 91980",3.8,91980,{Mailbox rental service},Tecate
+Carrisito Ranch,"Carrisito Ranch, 25580 CA-79, Santa Ysabel, CA 92070",4.4,92070,{Ranch},Santa Ysabel
+San Diego State University,"San Diego State University, 5500 Campanile Dr, San Diego, CA 92182",4.5,92182,"{Public university,University}",San Diego
+Gilman Dr & Myers Dr,"Gilman Dr & Myers Dr, San Diego, CA 92161",4.6,92161,{Bus stop},San Diego
+Oggi's Pizza Express,"Oggi's Pizza Express, 5550 Campanile Dr #150, San Diego, CA 92182",4.1,92182,"{Pizza restaurant,Bar,Brewery,Brewpub,Family restaurant,Pizza Takeout,Restaurant,Sports bar}",San Diego
+Himalaya Mine,"Himalaya Mine, California 92070",3.4,92070,{Natural feature},
+UCSD Visual Arts Facility,"UCSD Visual Arts Facility, 252 Russell Ln, La Jolla, CA 92093",4.7,92093,{Art school},La Jolla
+Horizon Christian Fellowship,"Horizon Christian Fellowship, 6365 El Apajo Rd, Rancho Santa Fe, CA 92091",4.7,92091,{Church},Rancho Santa Fe
+Natural Sciences Building,"Natural Sciences Building, 9500 Gilman Dr, La Jolla, CA 92093",4.4,92093,{University department},La Jolla
+Pine Valley Trailer Park,"Pine Valley Trailer Park, 27521 Old Hwy 80, Guatay, CA 91931",3.1,91931,{Lodging},Guatay
+Thyme In the Ranch,"Thyme In the Ranch, 16905 Avenida De Acacias, Rancho Santa Fe, CA 92091",4.7,92091,"{American restaurant,Bakery,Cafe,Restaurant}",Rancho Santa Fe
+Subway,"Subway, Naval Amphibious Base Bldg #33, Coronado, CA 92155",4,92155,"{Sandwich shop,Caterer,Fast food restaurant,Takeout Restaurant,Restaurant}",Coronado
+VA Medical Center-San Diego: Krupnak Michael A DDS,"VA Medical Center-San Diego: Krupnak Michael A DDS, 3350 La Jolla Village Dr, San Diego, CA 92161",5,92161,{Dentist},San Diego
+Pepper Canyon Market,"Pepper Canyon Market, 742 Eleanor Roosevelt Lane, La Jolla, CA 92093",5,92093,{Grocery store},La Jolla
+Lake Henshaw Resort,"Lake Henshaw Resort, 26439 CA-76, Santa Ysabel, CA 92070",4.1,92070,{Resort hotel},Santa Ysabel
+Dunkin',"Dunkin', 8635 Obregon Ave, San Diego, CA 92145",3.6,92145,"{Coffee shop,Bagel shop,Bakery,Breakfast restaurant,Donut shop,Fast food restaurant,Takeout Restaurant}",San Diego
+Corte Madera Valley,"Corte Madera Valley, California 91931",5,91931,{Ravine},
+Foodworx,"Foodworx, 9500 Gilman Dr, La Jolla, CA 92093",3.5,92093,{Restaurant},La Jolla
+The Halal Shack,"The Halal Shack, East Commons, Campanile Dr, San Diego, CA 92182",4.3,92182,{Restaurant},San Diego
+John Muir College,"John Muir College, 9500 Gilman Dr, La Jolla, CA 92093",4.4,92093,"{College,University}",La Jolla
+College of Education,"College of Education, 5500 Campanile Dr, San Diego, CA 92182",4,92182,{University},San Diego
+Jackson's Hideaway RV Park,"Jackson's Hideaway RV Park, 121 Vía De Coyote, Ocotillo, CA 92259",4.6,92259,{Campground},Ocotillo
+Miramar CBQ,"Miramar CBQ, 19920 Schilt Ave, San Diego, CA 92145",4,92145,{Lodging},San Diego
+Guatay Mountain,"Guatay Mountain, California 91931",5,91931,{Mountain peak},
+Nano3 Cleanroom,"Nano3 Cleanroom, Engineer Ln, La Jolla, CA 92093",5,92093,{Laboratory},La Jolla
+Subway,"Subway, Price Center, 9500 Gilman Dr #1327, La Jolla, CA 92093",3.9,92093,"{Sandwich shop,Caterer,Fast food restaurant,Takeout Restaurant,Restaurant}",La Jolla
+Chipotle Mexican Grill,"Chipotle Mexican Grill, 5500 Campanile Dr, San Diego, CA 92182",4.1,92182,"{Mexican restaurant,Caterer,Fast food restaurant}",San Diego
+Coral Stone,"Coral Stone, 440 Tecate Rd, Tecate, CA 91980",3.3,91980,{Stone supplier},Tecate
+Subway,"Subway, Balboa Hospital, 34800 Bob Wilson Dr, San Diego, CA 92134",4,92134,"{Sandwich shop,Caterer,Fast food restaurant,Takeout Restaurant,Restaurant}",San Diego
+Pala Rey Ranch Produce,"Pala Rey Ranch Produce, 9461 CA-76, Pala, CA 92059",4.9,92059,{Fruit and vegetable store},Pala
+Art of Espresso,"Art of Espresso, Mandeville Center, 9500 Gilman Dr, La Jolla, CA 92093",4.8,92093,{Coffee shop},La Jolla
+Tony Gwynn Stadium,"Tony Gwynn Stadium, Plaza Deportes, San Diego, CA 92182",4.8,92182,{Stadium},San Diego
+Palm Canyon Wash,"Palm Canyon Wash, California 92259",5,92259,{River},
+Monument Peak,"Monument Peak, Mt Laguna, CA 91948",4.9,91948,{Hiking area},Mt Laguna
+Kevin Viner Productions LLC,"Kevin Viner Productions LLC, Carlsbad, CA 92018",5,92018,{Magician},Carlsbad
+Pala Casino Spa Resort,"Pala Casino Spa Resort, 11154 CA-76, Pala, CA 92059",4.2,92059,"{Casino,Resort hotel}",Pala
+Marshall Upper Apartments G,"Marshall Upper Apartments G, San Diego, CA 92161",4.2,92161,{Student dormitory},San Diego
+De Anza Springs Resort,"De Anza Springs Resort, 1951 Carrizo Gorge Rd, Jacumba Hot Springs, CA 91934",4.4,91934,{Resort hotel},Jacumba Hot Springs
+Rubio's,"Rubio's, Price Center, 9500 Gilman Dr, Food Ct, La Jolla, CA 92093",4,92093,"{Seafood restaurant,Caterer,Family restaurant,Mexican restaurant,Restaurant,Vegan restaurant,Vegetarian restaurant}",La Jolla
+Pierside Market,"Pierside Market, Tuna Ln, San Diego, CA 92132",5,92132,{Farmers' market},San Diego
+OptumRx Mail Order Pharmacy,"OptumRx Mail Order Pharmacy, San Diego, CA 92150",1.4,92150,{Pharmacy},San Diego
+University of California San Diego,"University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093",4.5,92093,{University},La Jolla
+Pala Resort Clubhouse and Pool,"Pala Resort Clubhouse and Pool, 11042 CA-76, Pala, CA 92059",5,92059,{Club},Pala
+The house of Worker's Compensation,"The house of Worker's Compensation, 2515 Camino del Rio S #240, San Diego, CA 92198",4.7,92198,{Law firm},San Diego
+Lemongrass Southeast Asian Cuisine,"Lemongrass Southeast Asian Cuisine, 9700 Gilman Dr, La Jolla, CA 92093",3.9,92093,{Thai restaurant},La Jolla
+Pacific Sotheby's International Realty,"Pacific Sotheby's International Realty, 16915 Avenida De Acacias, Rancho Santa Fe, CA 92091",5,92091,{Real estate agency},Rancho Santa Fe
+Palomar Observatory educational center,"Palomar Observatory educational center, 35899 Canfield Rd, Palomar Mountain, CA 92060",5,92060,{Museum},Palomar Mountain
+Richard J. Donovan Correctional Facility,"Richard J. Donovan Correctional Facility, 480 Alta Rd, San Diego, CA 92179",3,92179,{Prison},San Diego
+United States Postal Service,"United States Postal Service, 441 Tecate Rd, Tecate, CA 91980",3.7,91980,"{Post office,Logistics service,Money order service,Passport office,Shipping and mailing service}",Tecate
+Seed & Sprout,"Seed & Sprout, University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093",3.7,92093,{Restaurant},La Jolla
+UC San Diego Police Department,"UC San Diego Police Department, 2 Greenhouse Ln, La Jolla, CA 92093, United States",3.4,92093,{Police department},La Jolla
+067 Eatery,"067 Eatery, 16236 San Dieguito Rd, Rancho Santa Fe, CA 92091",4.8,92091,{Restaurant},Rancho Santa Fe
+ACE Parking,"ACE Parking, 960 The, San Diego, CA 92132",4.4,92132,{Parking lot},San Diego
+Del Rayo Village Shopping Center,"Del Rayo Village Shopping Center, 16077 - 16091, San Dieguito Rd, Rancho Santa Fe, CA 92091",4.6,92091,{Shopping mall},Rancho Santa Fe
+"Dr. Charles H. Choe, MD","Dr. Charles H. Choe, MD, 3350 La Jolla Village Dr, San Diego, CA 92161",5,92161,{Doctor},San Diego
+Bonner Hall,"Bonner Hall, Eucalyptus Grove Ln, San Diego, CA 92161",3,92161,{Research foundation},San Diego
+"Osterkamp Trucking, Inc.","Osterkamp Trucking, Inc., 3810 W Evan Hewes Hwy, Ocotillo, CA 92259",3.7,92259,{Trucking company},Ocotillo
+Naval Hospital Pharmacy,"Naval Hospital Pharmacy, 34800 Bob Wilson Dr, San Diego, CA 92134",1.9,92134,{Pharmacy},San Diego
+Julian Wellness Center,"Julian Wellness Center, 21979 CA-79, Santa Ysabel, CA 92070",4.9,92070,"{Wellness center,Acupuncturist,Facial spa,Massage spa,Massage therapist,Sauna,Skin care clinic}",Santa Ysabel
+The Bridges at Rancho Santa Fe,"The Bridges at Rancho Santa Fe, 18550 Seven Bridges Road, Rancho Santa Fe, CA 92091",4.7,92091,{Golf club},Rancho Santa Fe
+Pala Transfer Station and Recycling,"Pala Transfer Station and Recycling, 12802 CA-76, Pala, CA 92059",4,92059,{Recycling center},Pala
+El Prado Group Campground,"El Prado Group Campground, Sunrise Hwy, Mt Laguna, CA 91948",4.6,91948,{Campground},Mt Laguna
+Judith A Bassett Canid Education & Conservation Center,"Judith A Bassett Canid Education & Conservation Center, Santa Ysabel, CA 92070",5,92070,{Animal park},Santa Ysabel
+Laguna Campground,"Laguna Campground, 468-470 Los Huecos Rd, Mt Laguna, CA 91948",4.7,91948,{Campground},Mt Laguna
+Pala Casino Parking Lot,"Pala Casino Parking Lot, California 92059",4.5,92059,{Bus stop},
+Inaja Memorial Picnic Site,"Inaja Memorial Picnic Site, 30828 Julian Rd, Santa Ysabel, CA 92070",4.6,92070,{Picnic ground},Santa Ysabel
+California Mountain Bakery,"California Mountain Bakery, 4367 CA-78, Santa Ysabel, CA 92070",4.9,92070,{Bakery},Santa Ysabel
+Rhino Sports of San Diego,"Rhino Sports of San Diego, Escondido, CA 92030",3,92030,{Batting cage center},Escondido
+L&L Hawaiian Barbecue,"L&L Hawaiian Barbecue, 2660 Antares Dr #B, San Diego, CA 92145",3.8,92145,"{Hawaiian restaurant,Barbecue restaurant}",San Diego
+Imperial Valley Aggregates,"Imperial Valley Aggregates, 1952 Shell Canyon Rd, Ocotillo, CA 92259",3.8,92259,{Rock shop},Ocotillo
+Price Center at UCSD,"Price Center at UCSD, Price Center, La Jolla, CA 92093",4.8,92093,{School center},La Jolla
+Santa Ysabel Mission,"Santa Ysabel Mission, 23013 CA-79, Santa Ysabel, CA 92070",4.7,92070,{Religious organization},Santa Ysabel
+THX Transport LLC,"THX Transport LLC, 468 Alta Rd suite b, San Diego, CA 92179",4,92179,"{Trucking company,Logistics service,Transportation service}",San Diego
+Coyote Mountains Wilderness,"Coyote Mountains Wilderness, California 92259",3.7,92259,,
+Pro Air Mechanical,"Pro Air Mechanical, Spring Valley, CA 91979",3.7,91979,{Air conditioning contractor},Spring Valley
+Doane Valley Natural Preserve,"Doane Valley Natural Preserve, Palomar Mountain, CA 92060",5,92060,{Park},Palomar Mountain
+Laguna Mountain Visitor Center,"Laguna Mountain Visitor Center, Los Huecos Rd, Mt Laguna, CA 91948",4.6,91948,{Tourist information center},Mt Laguna
+The Bistro at the Strand,"The Bistro at the Strand, 9500 Gilman Dr, La Jolla, CA 92093",3.8,92093,"{Asian fusion restaurant,Asian restaurant,Sushi restaurant}",La Jolla
+San Diego County Library – Potrero Branch,"San Diego County Library – Potrero Branch, 24883 Potrero Valley Rd, Potrero, CA 91963",4.3,91963,{Public library},Potrero
+T. Denny Sanford Medical Education and Telemedicine Center,"T. Denny Sanford Medical Education and Telemedicine Center, La Jolla, CA 92093",5,92093,{University},La Jolla
+Rancho Del Lago,"Rancho Del Lago, 6606 El Camino Del N, Rancho Santa Fe, CA 92091",4,92091,{Association or organization},Rancho Santa Fe
+Raney Ranch Retrievers,"Raney Ranch Retrievers, 26352 Eagle Gap Rd, Santa Ysabel, CA 92070",5,92070,"{Dog trainer,Dog breeder,Kennel,Pet boarding service,Ranch}",Santa Ysabel
+Coyote's Flying Saucer Retrieval and Repair Service,"Coyote's Flying Saucer Retrieval and Repair Service, 5 In-Ko-Pah Park Rd, Ocotillo, CA 92259",4.6,92259,{Tourist attraction},Ocotillo
+Country Squire Gifts & Linens,"Country Squire Gifts & Linens, 6009 Paseo Delicias C, Rancho Santa Fe, CA 92091",5,92091,{Gift shop},Rancho Santa Fe
+Fry Creek Campground,"Fry Creek Campground, Co Hwy S6, Palomar Mountain, CA 92060",4.2,92060,{Campground},Palomar Mountain
+All Star Gen Insurance,"All Star Gen Insurance, San Diego, CA 92150",2.2,92150,{Insurance agency},San Diego
+San Luis Rey Picnic Area,"San Luis Rey Picnic Area, CA-76, Santa Ysabel, CA 92070",4.7,92070,{Picnic ground},Santa Ysabel
+J J Septic Services,"J J Septic Services, 2576, Vista, CA 92085",2.1,92085,"{Septic system service,Plumber,Sewage disposal service}",Vista
+Horse Heaven Group Campground,"Horse Heaven Group Campground, Pacific Crest Trail, Mt Laguna, CA 91948",4.9,91948,{Campground},Mt Laguna
+Auto Skills Center,"Auto Skills Center, 6673, Miramar Ct, San Diego, CA 92145",4.3,92145,{Auto repair shop},San Diego
+Rita Atkinson Residences,"Rita Atkinson Residences, 9450 Gilman Dr, La Jolla, CA 92092",4.4,92092,{Student dormitory},La Jolla
+SPAWAR Systems Center Pacific,"SPAWAR Systems Center Pacific, 53560 Hull St, San Diego, CA 92152",4.5,92152,{Research foundation},San Diego
+Pacific Soul,"Pacific Soul, San Diego, CA 92132",5,92132,{Sculpture},San Diego
+The Zone,"The Zone, 9500 Gilman Dr, La Jolla, CA 92093",4.2,92093,{Community health centre},La Jolla
+Mind Magick Creations (artisan),"Mind Magick Creations (artisan), San Diego, CA 92132",5,92132,"{Artist,Graphic designer}",San Diego
+PCT Water Cache,"PCT Water Cache, Ranchita, CA 92066",5,92066,{Grocery store},Ranchita
+Miramar International Airport,"Miramar International Airport, MCAS Miramar (NKX, Sparrow Rd, San Diego, CA 92145",5,92145,{Airport},San Diego
+Challenge Course,"Challenge Course, 9931-, 10199 Hopkins Dr, La Jolla, CA 92093",4.9,92093,{Park},La Jolla
+Inns of The Marine Corps,"Inns of The Marine Corps, 2515, Bauer Rd, San Diego, CA 92145",4.6,92145,{Hotel},San Diego
+Gilman Parking Structure,"Gilman Parking Structure, 252 Russell Ln, La Jolla, CA 92093",3.9,92093,{Parking garage},La Jolla
+Pala Band Of Mission Indians,"Pala Band Of Mission Indians, 12196 Pala Mission Rd, Pala, CA 92059",1.8,92059,{Tribal headquarters},Pala
+Rice Canyon,"Rice Canyon, California 92059",5,92059,{Ravine},
+Navy Marine Corps Relief Society Thrift Shop,"Navy Marine Corps Relief Society Thrift Shop, 6360 Bauer Rd, San Diego, CA 92145",4.4,92145,"{Thrift store,Army & navy surplus shop,Marines facility}",San Diego
+Tapioca Express,"Tapioca Express, 9500 Gilman Dr, La Jolla, CA 92093",3.8,92093,"{Bubble tea store,Restaurant,Tea house}",La Jolla
+GROVES CAPITAL INC,"GROVES CAPITAL INC, 4025 Stonebridge Ln, Rancho Santa Fe, CA 92091",4.9,92091,{Mortgage lender},Rancho Santa Fe
+Yuha Well,"Yuha Well, California 92259",4,92259,{Natural feature},
+Navy Exchange,"Navy Exchange, 1017 Trident Way, San Diego, CA 92155",4.6,92155,{Supermarket},San Diego
+"Robbins Research International, Inc.","Robbins Research International, Inc., 9051 Mira Mesa Blvd, San Diego, CA 92196",3.6,92196,"{Business management consultant,Event ticket seller}",San Diego
+Salon 101,"Salon 101, 9500 Gilman Dr, La Jolla, CA 92093",4.1,92093,"{Beauty salon,Hair salon,Nail salon}",La Jolla
+Goat Canyon Trestle,"Goat Canyon Trestle, Jacumba Hot Springs, CA 91934",4.9,91934,{Historical landmark},Jacumba Hot Springs
+Mandeville Auditorium,"Mandeville Auditorium, 9500 Gilman Dr, La Jolla, CA 92093",3.9,92093,{Auditorium},La Jolla
+Brown Hall,"Brown Hall, Justice Ln, La Jolla, CA 92093",3.9,92093,{University},La Jolla
+Pines,"Pines, 9500 Gilman Dr, La Jolla, CA 92093",3.8,92093,{Restaurant},La Jolla
+Firestone Complete Auto Care,"Firestone Complete Auto Care, Bldg 6214, Miramar Rd, San Diego, CA 92145",4.1,92145,"{Tire shop,Brake shop,Car battery store,Oil change service,Wheel alignment service}",San Diego
+Brennan Hall,"Brennan Hall, Justice Ln, La Jolla, CA 92093",4.3,92093,"{University,Hall}",La Jolla
+Heavenly Oaks Residential,"Heavenly Oaks Residential, 26835 Old Hwy 80, Guatay, CA 91931",4.1,91931,{Mobile home park},Guatay
+Revelle College,"Revelle College, 9500 Gilman Dr, La Jolla, CA 92093",4.2,92093,{College},La Jolla
+Miramar Nail Spa,"Miramar Nail Spa, inside Miramar Base, 2257 Elrod Ave, San Diego, CA 92145",4.1,92145,{Nail salon},San Diego
+Veladora Coastal Ranch,"Veladora Coastal Ranch, 5921 Valencia Cir, Rancho Santa Fe, CA 92091",4.6,92091,"{Californian restaurant,Restaurant}",Rancho Santa Fe
+The Loft at UC San Diego,"The Loft at UC San Diego, Lyman Ln, La Jolla, CA 92093",4.6,92093,{Live music venue},La Jolla
+Dezert Adventures,"Dezert Adventures, 1182 N Imperial Hwy, Ocotillo, CA 92259",4.8,92259,{ATV rental service},Ocotillo
+Price Center Theater,"Price Center Theater, 9500 Gilman Dr, La Jolla, CA 92093",4.2,92093,{Movie theater},La Jolla
+Pala Learning Center,"Pala Learning Center, 2003 Pala Mission Cir, Pala, CA 92059",5,92059,{Business administration service},Pala
+Donovan's Cafe,"Donovan's Cafe, 480 Alta Rd, San Diego, CA 92179",4.7,92179,"{Mexican restaurant,Delivery Restaurant}",San Diego
+The InfoDome,"The InfoDome, 70 Centennial Plaza, San Diego, CA 92182",1,92182,{Public library},San Diego
+Goldberg Hall,"Goldberg Hall, 9500 Gilman Dr, La Jolla, CA 92093",4,92093,{Student housing center},La Jolla
+"Jamie M. Sorenson, NP","Jamie M. Sorenson, NP, 34800 Bob Wilson Dr, San Diego, CA 92134",5,92134,{Doctor},San Diego
+NEX Navy Exchange,"NEX Navy Exchange, 32444 Echo Ln, San Diego, CA 92147",4.4,92147,{Grocery store},San Diego
+Audrey's Café,"Audrey's Café, Geisel Library, San Diego, CA 92161",4.3,92161,{Cafe},San Diego
+Aztec Aquaplex,"Aztec Aquaplex, 5375 Remington Rd, San Diego, CA 92182",4.7,92182,"{Swimming pool,Public swimming pool,Recreation center,Tennis court}",San Diego
+AMERI MEX GROCERY,"AMERI MEX GROCERY, 447 Tecate Rd, Tecate, CA 91980",2.9,91980,{Gas station},Tecate
+Warren Mall,"Warren Mall, San Diego, CA 92161",4.3,92161,{Park},San Diego
+College Area Community Garden,"College Area Community Garden, Zura Way, San Diego, CA 92182",4.8,92182,{Community garden},San Diego
+Canyon Vista,"Canyon Vista, 9500 Gilman Dr, La Jolla, CA 92093",3.4,92093,{Diner},La Jolla
+Target,"Target, 9500 Gilman Dr, La Jolla, CA 92093",2.6,92093,"{Department store,Baby store,Clothing store,Electronics store,Furniture store,Grocery store,Toy store}",La Jolla
+Palomar Christian Conference Center,"Palomar Christian Conference Center, 34764 Doane Valley Rd, Palomar Mountain, CA 92060",4.8,92060,{Camp},Palomar Mountain
+"University of California, San Diego Graduate Division","University of California, San Diego Graduate Division, Student Services Center, 9500 Gilman Dr, La Jolla, CA 92093",5,92093,{Education center},La Jolla
+Sun God Lounge,"Sun God Lounge, 9500 Gilman Dr, San Diego, CA 92161",4.3,92161,{Lounge},San Diego
+Bench Depot™,"Bench Depot™, 23949 Tecate Mission Rd, Tecate, CA 91980",4.7,91980,"{Industrial equipment supplier,Manufacturer}",Tecate
+MCX Autoport Gas Station,"MCX Autoport Gas Station, Schilt Ave, San Diego, CA 92145",5,92145,{Gas station},San Diego
+Peterson Gym,"Peterson Gym, Plaza Deportes, San Diego, CA 92182",4.2,92182,{Arena},San Diego
+Birch Hill,"Birch Hill, California 92070",5,92070,{Mountain peak},
+Sunset Trailhead,"Sunset Trailhead, Sunrise Hwy, Mt Laguna, CA 91948",4.8,91948,{Park},Mt Laguna
+Payless ShoeSource,"Payless ShoeSource, 406 Tecate Rd, Tecate, CA 91980",4.2,91980,"{Shoe store,Fashion accessories store,Fashion designer}",Tecate
+Ranch Market & Deli,"Ranch Market & Deli, 16236 San Dieguito Rd # 213, Rancho Santa Fe, CA 92091",4.2,92091,"{Deli,Beer hall,Takeout Restaurant,Restaurant,Wine bar}",Rancho Santa Fe
+Concord Equestrian Center,"Concord Equestrian Center, 18547 Aliso Canyon Rd, Rancho Santa Fe, CA 92091",4.5,92091,{Horse trainer},Rancho Santa Fe
+Event and Conference Services at CSUSM,"Event and Conference Services at CSUSM, 333 S Twin Oaks Valley Rd, San Marcos, CA 92096",3,92096,"{Wedding venue,Conference center,Event planner,Event venue,Meeting room,Retreat center}",San Marcos
+Vinnie’s Pizza & Pasta Bar,"Vinnie’s Pizza & Pasta Bar, San Diego, CA 92182",3.8,92182,{Restaurant},San Diego
+Rancho Cielo Estates,"Rancho Cielo Estates, 18029 Calle Ambiente, Rancho Santa Fe, CA 92091",4.1,92091,"{Real estate agency,Real estate developer}",Rancho Santa Fe
+Imperial Highway Monument,"Imperial Hwy Monument, Ocotillo, CA 92259",3.8,92259,,Ocotillo
+Fairbanks Coffee,"Fairbanks Coffee, Gilman Dr, San Diego, CA 92161",3.3,92161,{Cafe},San Diego
+Hubbell Studios / Ilan-Lael Foundation,"Hubbell Studios / Ilan-Lael Foundation, 930 Orchard Ln, Santa Ysabel, CA 92070",5,92070,"{Non-profit organization,Historical landmark}",Santa Ysabel
+Aladdin Wireless,"Aladdin Wireless, 6822 El Cajon Blvd, San Diego, CA 92155",3,92155,{Computer repair service},San Diego
+Navy Federal Credit Union - ATM,"Navy Federal Credit Union - ATM, Matthew Ave Bldg 2660, San Diego, CA 92145",5,92145,"{ATM,Loan agency}",San Diego
+Morgan Run Club & Resort,"Morgan Run Club & Resort, 5690 Cancha de Golf, Rancho Santa Fe, CA 92091",4.2,92091,"{Golf course,Event venue,Fitness center,Gym,Swimming pool,Tennis court,Wedding venue}",Rancho Santa Fe
+MC Miramar Veterinary Clinic,"MC Miramar Veterinary Clinic, 6360 Bauer Rd, San Diego, CA 92145",4.4,92145,{Veterinary care},San Diego
+Aztec Racing,"Aztec Racing, Campanile Mall, San Diego, CA 92182",3.7,92182,"{Engineering school,Association or organization,Club}",San Diego
+SDSU Recreational Turf Field,"SDSU Recreational Turf Field, San Diego, CA 92182",4.8,92182,{Soccer field},San Diego
+Potrero County Park,"Potrero County Park, 24800 Potrero Park Dr, Potrero, CA 91963",4.8,91963,"{Park,Cabin rental agency,Camp,RV park}",Potrero
+Chase ATM,"Chase ATM, 5300 Campanile Dr, San Diego, CA 92182",2.3,92182,{ATM},San Diego
+A1 Soils,"A1 Soils, 9229 Harris Plant Rd, San Diego, CA 92145",4.5,92145,{Landscaping supply store},San Diego
+Hardy Tower,"Hardy Tower, 5799 Campanile Mall, San Diego, CA 92182",4.6,92182,{Historical landmark},San Diego
+Rehner Orchards,"Rehner Orchards, 3022 Pala Mission Rd, Pala, CA 92059",4.5,92059,{Orchard},Pala
+The Bridges at Rancho Santa Fe,"The Bridges at Rancho Santa Fe, 18550 Seven Bridges Road, Rancho Santa Fe, CA 92091",4.7,92091,{Golf course},Rancho Santa Fe
+Julian Weaving Works,"Julian Weaving Works, 30352 CA-78, Santa Ysabel, CA 92070",5,92070,"{Store,Clothing store,Monogramming service,Rug store}",Santa Ysabel
+Muir Woods Coffee House,"Muir Woods Coffee House, 9500 Gilman Dr, La Jolla, CA 92093",4.6,92093,{Coffee shop},La Jolla
+UCSD Mail Services,"UCSD Mail Services, Greenhouse Ln, La Jolla, CA 92093",3.4,92093,{University},La Jolla
+Emerald's Lighthouse,"Emerald's Lighthouse, 946 Donax Ave, Imperial Beach, CA 91933",3,91933,{Association or organization},Imperial Beach
+T3,"T3, 1017A, Building, Trident Way, San Diego, CA 92155",4.3,92155,{Outdoor sports store},San Diego
+Pala Cafe,"Pala Cafe, Casino Spa & Resort, 11154 CA-76, Pala, CA 92059",3,92059,{Cafe},Pala
+Starbucks,"Starbucks, 2760 Gonsalves Ave, San Diego, CA 92145",3.4,92145,"{Coffee shop,Cafe,Coffee store,Espresso bar}",San Diego
+Sunshine Market,"Sunshine Market, 9500 Gilman Dr, La Jolla, CA 92093",4.2,92093,{Convenience store},La Jolla
+Croutons,"Croutons, 400 Rupertus Ln, La Jolla, CA 92093",4.4,92093,"{Salad shop,Restaurant}",La Jolla
+Hopkins Parking Structure,"Hopkins Parking Structure, Voigt Dr, La Jolla, CA 92093",3.8,92093,{Parking garage},La Jolla
+Lucky Pup Dog Rescue of San DIego,"Lucky Pup Dog Rescue of San DIego, Box 3484, San Diego, CA 92163",4.2,92163,{Animal rescue service},San Diego
+Miramar Gas Station,"Miramar Gas Station, San Diego, CA 92145",4.5,92145,{Gas station},San Diego
+SDSU Bookstore,"SDSU Bookstore, East Commons, Campanile Dr, San Diego, CA 92182",4.5,92182,{Book store},San Diego
+UC San Diego Imprints Main Production Center,"UC San Diego Imprints Main Production Center, Campus Services Complex - Building A, 1 Greenhouse Ln Ste 120, La Jolla, CA 92093",4.7,92093,{Digital printing service},La Jolla
+Amazon Hub Locker+ (La Jolla Campus),"Amazon Hub Locker+ (La Jolla Campus), 9500 Gilman Dr #0102, La Jolla, CA 92093",2.5,92093,{Shipping service},La Jolla
+Pala Tribal Tanf,"Pala Tribal Tanf, 36146 Pala Temecula Rd, Pala, CA 92059",4.6,92059,{Social services organization},Pala
+Al Bahr Shrine Camp,"Al Bahr Shrine Camp, 11670 Sunrise Hwy, Mt Laguna, CA 91948",4.6,91948,{Campground},Mt Laguna
+Jacumba United Methodist Church,"Jacumba United Methodist Church, 1242 Heber St, Jacumba Hot Springs, CA 91934",5,91934,{Methodist church},Jacumba Hot Springs
+Dunkin,"Dunkin, 34800 Bob Wilson Dr Bldg 1, San Diego, CA 92134",3.9,92134,"{Coffee shop,Bagel shop,Bakery,Breakfast restaurant,Donut shop,Fast food restaurant,Takeout Restaurant}",San Diego
+Desert View Trail,"Desert View Trail, Pacific Crest Trail, Mt Laguna, CA 91948",4.8,91948,"{Hiking area,Tourist attraction}",Mt Laguna
+Hayes Peak,"Hayes Peak, Mt Laguna, CA 91948",5,91948,{Hiking area},Mt Laguna
+Navy Federal Credit Union,"Navy Federal Credit Union, 200 Catalina Blvd, San Diego, CA 92152",4,92152,"{Credit union,ATM,Bank,Mortgage lender}",San Diego
+Raku Potteryworks,"Raku Potteryworks, 24024 Humphries Rd, Tecate, CA 91980",4.4,91980,{Wholesaler},Tecate
+Northview Tennis Courts,"Northview Tennis Courts, North Point Ln, La Jolla, CA 92093",4.6,92093,"{Tennis court,Entertainment}",La Jolla
+Rancho Santa Fe Farmers Market,"Rancho Santa Fe Farmers Market, 16079 San Dieguito Rd Suite A3, Rancho Santa Fe, CA 92091",4.6,92091,{Farmers' market},Rancho Santa Fe
+Doane Valley Campground,"Doane Valley Campground, Palomar Mountain, CA 92060",4.5,92060,{Campground},Palomar Mountain
+The Round Up Grill,"The Round Up Grill, 26439 CA-76, Santa Ysabel, CA 92070",4.3,92070,"{American restaurant,Barbecue restaurant,Hamburger restaurant}",Santa Ysabel
+Dlush,"Dlush, 9500 Gilman Dr, La Jolla, CA 92093",3.5,92093,{Restaurant},La Jolla
+Laguna Recreation Area,"Laguna Recreation Area, Mt Laguna, CA 91948",4.5,91948,"{Park,Tourist attraction}",Mt Laguna
+Silver Horse Retreat,"Silver Horse Retreat, 28091 Old Mine Rd, Ranchita, CA 92066",5,92066,"{Equestrian facility,Alternative medicine practitioner,Retreat center}",Ranchita
+Cabin Fever Views,"Cabin Fever Views, 22119 Crestline Rd, Palomar Mountain, CA 92060",4.7,92060,{Mountain cabin},Palomar Mountain
+Lilac's Cabin,"Lilac's Cabin, 33574 Cold Springs Trail, Palomar Mountain, CA 92060",4.6,92060,{Lodging},Palomar Mountain
+Pine Creek Trailhead,"Pine Creek Trailhead, Secret Canyon Trail, Pine Valley-Las Bancas Rd, Guatay, CA 91931",4.7,91931,{Hiking area},Guatay
+Fairbanks Village Plaza,"Fairbanks Village Plaza, 16236 San Dieguito Rd Suite 4-25, Rancho Santa Fe, CA 92091",4.4,92091,"{Property management company,Business center,Business park}",Rancho Santa Fe
+Redtailed Roost Trailhead,"Redtailed Roost Trailhead, Red Tail Roost Trail, 10403 County Rte S1, Mt Laguna, CA 91948",4.8,91948,{Hiking area},Mt Laguna
+Myers Creek,"Myers Creek, Kumeyaay Hwy, Ocotillo, CA 92259",4.1,92259,{Historical landmark},Ocotillo
+Mountain Sage Market,"Mountain Sage Market, 44475 Old Hwy 80, Jacumba Hot Springs, CA 91934",4.1,91934,{Grocery store},Jacumba Hot Springs
+Kat's Yarn and Craft Cottage,"Kat's Yarn and Craft Cottage, 4367 CA-78, Santa Ysabel, CA 92070",5,92070,{Store},Santa Ysabel
+Parking Jacumba,"Parking Jacumba, Unnamed Road, Jacumba Hot Springs, CA 91934",4.4,91934,{Parking lot},Jacumba Hot Springs
+SDSU Parking Structure 12,"SDSU Parking Structure 12, Aztec Bowl, San Diego, CA 92182",3.8,92182,{Parking garage},San Diego
+Water Of The Woods,"Water Of The Woods, Mt Laguna, CA 91948",4.9,91948,{Hiking area},Mt Laguna
+Mataguay Scout Ranch,"Mataguay Scout Ranch, 27955 CA-79, Santa Ysabel, CA 92070",4.6,92070,"{Camp,Youth organization}",Santa Ysabel
+The Lodge on Palomar Mountain,"The Lodge on Palomar Mountain, 22228 Crestline Rd, Palomar Mountain, CA 92060",4.8,92060,"{Lodge,Mountain cabin,Vacation home rental agency}",Palomar Mountain
+Red Feather Off-Road Market & Cafe,"Red Feather Off-Road Market & Cafe, 1182 N Imperial Hwy, Ocotillo, CA 92259",4.6,92259,"{Market,Cafe,Coffee shop,Firewood supplier,Gift shop,Ice cream shop,Motorcycle parts store,Off roading area,Parking lot for bicycles,Restaurant}",Ocotillo
+Palomar Mountain State Park,"Palomar Mountain State Park, 19952 State Park Drive, Palomar Mountain, CA 92060",4.7,92060,"{State park,Tourist attraction}",Palomar Mountain
+Palomar County Park,"Palomar County Park, 21820 Crestline Rd, Palomar Mountain, CA 92060",4.6,92060,"{Park,Tourist attraction}",Palomar Mountain
+Tekate JR Border Wall Art,"Tekate JR Border Wall Art, Humphries Rd, Tecate, CA 91980",4.1,91980,{Historical landmark},Tecate
+Admiral Kidd Catering & Conference Center,"Admiral Kidd Catering & Conference Center, 33050 Mc Donough Rd, San Diego, CA 92147",4.4,92147,"{Conference center,Wedding venue}",San Diego
+Wooded Hill Nature Trail,"Wooded Hill Nature Trail, Wooded Hill Rd, Mt Laguna, CA 91948",4.8,91948,"{Hiking area,Tourist attraction}",Mt Laguna
+Fort Cross Old Timey Adventures,"Fort Cross Old Timey Adventures, 4425 CA-78, Santa Ysabel, CA 92070",4.8,92070,"{Farm household tour,Event venue,Farm,Tourist attraction}",Santa Ysabel
+Zanzibar Cafe At the Loft,"Zanzibar Cafe At the Loft, 9500 Gilman Dr, La Jolla, CA 92093",4.3,92093,"{Gastropub,American restaurant,Cafe,Deli,Espresso bar,Restaurant,Wine bar}",La Jolla
+Goat Canyon Trestle Trailhead,"Goat Canyon Trestle Trailhead, Unnamed Road, Jacumba Hot Springs, CA 91934",4.8,91934,{Hiking area},Jacumba Hot Springs
+Great Hall,"Great Hall, 9500 Gilman Dr, La Jolla, CA 92093",4.5,92093,{Event venue},La Jolla
+Pine House Cafe & Tavern,"Pine House Cafe & Tavern, 9849 Sunrise Hwy, Mt Laguna, CA 91948",4.2,91948,"{Cafe,Beer hall,Restaurant}",Mt Laguna
+Electric Vehicle Charging Station,"Electric Vehicle Charging Station, Osler Ln, La Jolla, CA 92093",4,92093,{Electrician},La Jolla
+Campus Services Complex,"Campus Services Complex, La Jolla, CA 92093",4.9,92093,{Construction and maintenance office},La Jolla
+Chevron Jacumba,"Chevron Jacumba, 1496 Carrizo Gorge Rd, Jacumba Hot Springs, CA 91934",3.6,91934,"{Gas station,Auto repair shop,Convenience store,Diesel fuel supplier,Fuel pump,Truck stop}",Jacumba Hot Springs
+Burger King,"Burger King, 9500 Gilman Dr, San Diego, CA 92093",3.3,92093,"{Restaurant,Fast food restaurant}",San Diego
+Porter's Pub,"Porter's Pub, San Diego, CA 92161",3.7,92161,{Pub},San Diego
+"Henry A. Ferreyra, MD","Henry A. Ferreyra, MD, 9415 Campus Point Dr, La Jolla, CA 92093",3.3,92093,{Ophthalmologist},La Jolla
+Denny's,"Denny's, 3750 Anderson Ave Bldg 3750, San Diego, CA 92145",4.3,92145,"{Diner,American restaurant,Breakfast restaurant}",San Diego
+Observatory Trailhead,"Observatory Trailhead, 1121301800, Palomar Mountain, CA 92060",4.5,92060,{Hiking area},Palomar Mountain
+Blick Art Materials,"Blick Art Materials, 5500 Campanile Dr, San Diego, CA 92182",3.9,92182,"{Art supply store,Craft store}",San Diego
+Price Center Loop,"Price Center Loop, Matthews Ln, La Jolla, CA 92093",4.3,92093,{School bus service},La Jolla
+Rhapsody Hall (M113),"Rhapsody Hall (M113), Campanile Mall, San Diego, CA 92182",4.3,92182,{Concert hall},San Diego
+United States Postal Service,"United States Postal Service, 45482 Elrod Ave Ste 3, San Diego, CA 92145",3.1,92145,"{Post office,Logistics service,Money order service,Shipping and mailing service}",San Diego
+Storm Canyon Vista Trailhead,"Storm Canyon Vista Trailhead, 11631-11737, County Rte S1, Mt Laguna, CA 91948",4.8,91948,{Hiking area},Mt Laguna
+Raceway Electric & Solar,"Raceway Electric & Solar, Santee, CA 92072",5,92072,"{Electrician,Solar energy contractor}",Santee
+Pala Casino Gas Station,"Pala Casino Gas Station, 11154 CA-76, Pala, CA 92059",4.2,92059,{Gas station},Pala
+Paroli Homesite Campground,"Paroli Homesite Campground, Ranchita, CA 92066",5,92066,{Campground},Ranchita
+Chico Ravine,"Chico Ravine, California 91948",5,91948,{Ravine},
+In-Ko-Pah Co Park,"In-Ko-Pah Co Park, Jacumba Hot Springs, CA 91934",4.6,91934,{Park},Jacumba Hot Springs
+Veterans Memorial Garden Air Section,"Veterans Memorial Garden Air Section, San Diego, CA 92134",4.7,92134,{Veterans organization},San Diego
+SDSU Sports Deck,"SDSU Sports Deck, 5200 55th St, San Diego, CA 92182",4.8,92182,{Stadium},San Diego
+Montezuma Hall,"Montezuma Hall, Aztec Student Union, San Diego, CA 92182",4.7,92182,"{Live music venue,Conference center}",San Diego
+Art South,"Art South, 5500 Campanile Dr, San Diego, CA 92182",3,92182,{University},San Diego
+Broadway Pier,"Broadway Pier, 1000, The Embarcadero, San Diego, CA 92132",4.6,92132,{Tourist attraction},San Diego
+NMCSD Laboratory,"NMCSD Laboratory, 34800 Bob Wilson Dr, San Diego, CA 92134",4.3,92134,{Laboratory},San Diego
+El Prado Group Campground - Big Sage,"El Prado Group Campground - Big Sage, Laguna Meadow Rd, Mt Laguna, CA 91948",4.6,91948,{Campground},Mt Laguna
+Diva Nails,"Diva Nails, 5533 Cancha de Golf, Rancho Santa Fe, CA 92091",5,92091,{Beauty salon},Rancho Santa Fe
+Farmhouse 78,"Farmhouse 78, 30270 CA-78, Santa Ysabel, CA 92070",4.3,92070,{Restaurant},Santa Ysabel
+UCSD-RIMAC ARENA,"UCSD-RIMAC ARENA, 9730 Hopkins Dr, La Jolla, CA 92093",4.6,92093,{Arena},La Jolla
+Blue Jay Lodge,"Blue Jay Lodge, 10600 Sunrise Hwy, Mt Laguna, CA 91948",3.4,91948,"{Lodge,Cabin rental agency}",Mt Laguna
+Naval Mine & Anti-Submarine Warfare Command Complex,"Naval Mine & Anti-Submarine Warfare Command Complex, 32444 Echo Ln, San Diego, CA 92147",4.5,92147,{Naval base},San Diego
+Mountain Valley Retreat,"Mountain Valley Retreat, 35690 Montezuma Valley Rd, Ranchita, CA 92066",5,92066,"{Hiking area,Massage therapist,Yoga instructor}",Ranchita
+Conrad Prebys Music Center Experimental Theater,"Conrad Prebys Music Center Experimental Theater, 9500 Gilman Dr, San Diego, CA 92161",5,92161,{University},San Diego
+Chico Ravine,"Chico Ravine, California 91948",5,91948,{Ravine},
+Natatorium,"Natatorium, San Diego, CA 92161",4.4,92161,"{Swimming pool,Swimming}",San Diego
+Old Bathhouse,"Old Bathhouse, 44450 Old Hwy 80, Jacumba Hot Springs, CA 91934",4,91934,{Historical landmark},Jacumba Hot Springs
+Wilson Peak Trailhead,"Wilson Peak Trailhead, Unnamed Road, Ranchita, CA 92066",4,92066,{Hiking area},Ranchita
+The Habit Burger Grill,"The Habit Burger Grill, 5500 Campanile Dr STE 120, San Diego, CA 92182",4.4,92182,"{Hamburger restaurant,Fast food restaurant,Takeout Restaurant}",San Diego
+MoneyGram,"MoneyGram, 875 E H St, Chula Vista, CA 91909",1,91909,{Money transfer service},Chula Vista
+Broadway Pier,"Broadway Pier, San Diego, CA 92132",4.7,92132,{Pedestrian zone},San Diego
+Henshaw Scenic Vista Observation Site,"Henshaw Scenic Vista Observation Site, Forest Rte 10S05 - Henshaw Scenic Vista, 27475 E Grade Rd, Santa Ysabel, CA 92070",4.7,92070,{Scenic spot},Santa Ysabel
+Dudley's Famous Bakery and Deli,"Dudley's Famous Bakery and Deli, 30218 CA-78, Santa Ysabel, CA 92070",4.6,92070,"{Bakery,Sandwich shop}",Santa Ysabel
+Smith Recital Hall,"Smith Recital Hall, San Diego State University, 5500 Campanile Dr, San Diego, CA 92182",4.7,92182,"{Performing arts theater,Live music venue,Musician}",San Diego
+DJ's Pizza Express,"DJ's Pizza Express, Pala, CA 92059",4.7,92059,{Pizza restaurant},Pala
+Marshall College Field,"Marshall College Field, 9500 Gilman Dr, La Jolla, CA 92093",4.6,92093,{Athletic field},La Jolla
+Fool's Errand Films,"Fool's Errand Films, 9051 Mira Mesa Blvd unit 262262, San Diego, CA 92196",5,92196,"{Video production service,Business to business service,Film production company}",San Diego
+Passport Acceptance Office,"Passport Acceptance Office, 1 Greenhouse Ln, La Jolla, CA 92093",4.6,92093,{Passport office},La Jolla
+Aztec Shops Terrace,"Aztec Shops Terrace, Scripps Terrace, San Diego, CA 92182",4,92182,{Breakfast restaurant},San Diego
+Jacumba Hot Springs Resort,"Jacumba Hot Springs Resort, 44500 Old Hwy 80, Jacumba Hot Springs, CA 91934",4.2,91934,"{Resort hotel,Massage spa}",Jacumba Hot Springs
+Taco Villa,"Taco Villa, Eucalyptus Grove Ln, San Diego, CA 92161",4,92161,"{Mexican restaurant,Restaurant}",San Diego
+Panda Express,"Panda Express, 4472 Anderson Ave, San Diego, CA 92145",4,92145,"{Chinese restaurant,Restaurant}",San Diego
+Center for U.S.-Mexican Studies,"Center for U.S.-Mexican Studies, 9500 Gilman Dr, La Jolla, CA 92093",5,92093,{Research institute},La Jolla
+JULIAN WEDDING VENUE,"JULIAN WEDDING VENUE, 5049 CA-78, Santa Ysabel, CA 92070",4.2,92070,{Wedding venue},Santa Ysabel
+Lolitas Mexican Food,"Lolitas Mexican Food, College Ave, San Diego, CA 92182",4.4,92182,{Restaurant},San Diego
+Indian Health Council Santa Ysabel Clinic,"Indian Health Council Santa Ysabel Clinic, 110 1/2 School House Canyon Rd, Santa Ysabel, CA 92070",4.7,92070,{Doctor},Santa Ysabel
+Pioneer Mail Picnic Site,"Pioneer Mail Picnic Site, Mile Marker 29, Sunrise Hwy, Mt Laguna, CA 91948",4.5,91948,{Picnic ground},Mt Laguna
+Price Center Plaza,"Price Center Plaza, University Of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093",4.4,92093,"{Business center,Plaza}",La Jolla
+Fiddler's Cove Marina & RV Park (Navy MWR),"Fiddler's Cove Marina & RV Park (Navy MWR), 3205 CA-75, San Diego, CA 92155",4.6,92155,"{Marina,RV park}",San Diego
+CHP San Onofre Inspection Facility,"CHP San Onofre Inspection Facility, I-5, Oceanside, CA 92051",3.4,92051,"{Weigh station,Car inspection station,Police department}",Oceanside
+Lemongrass Fresh Farm Plates,"Lemongrass Fresh Farm Plates, 9500 Gilman Dr, La Jolla, CA 92093",5,92093,"{Restaurant,Restaurant supply store}",La Jolla
+Chipotle Mexican Grill,"Chipotle Mexican Grill, 2750 Bauer Rd, San Diego, CA 92145",4.3,92145,"{Mexican restaurant,Caterer,Fast food restaurant}",San Diego
+Whispering Oaks Terrace,"Whispering Oaks Terrace, 39417 Pala Temecula Rd, Pala, CA 92059",4.6,92059,{Wedding venue},Pala
+"VA Medical [WEST DIV] Center: La Jolla, California","VA Medical [WEST DIV] Center: La Jolla, California, 3350 La Jolla Village Dr, San Diego, CA 92161",3.5,92161,{Hospital},San Diego
+Navy Gateway Inn,"Navy Gateway Inn, 3628 Tulagi Rd bldg 504, San Diego, CA 92155",3.9,92155,{Hotel},San Diego
+Shell,"Shell, 1494 Carrizo Gorge Rd, Jacumba Hot Springs, CA 91934",3.8,91934,"{Gas station,ATM,Convenience store,Restaurant}",Jacumba Hot Springs
+Rose Quartz Mine,"Rose Quartz Mine, California 92070",4.8,92070,{Natural feature},
+Arco Car Wash,"Arco Car Wash, 2130921700, Carlsbad, CA 92011",3.2,92170,{Car wash},Carlsbad
+Potrero Campground,"Potrero Campground, 24800 Potrero Park Dr, Potrero, CA 91963",4.6,91963,{Campground},Potrero
+Lake Henshaw,"Lake Henshaw, California 92070",4.5,92070,{Lake},
+Northpoint Visitor Information Center,"Northpoint Visitor Information Center, 2 John Jay Hopkins Dr, La Jolla, CA 92093",4.1,92093,{Visitor center},La Jolla
+Earl’s Place and Market,"Earl’s Place and Market, 9500 Gilman Drive 0981, Above Canyon Vista in Earl Warren College, La Jolla, CA 92093",4.1,92093,"{Market,Grocery store}",La Jolla
+The Great Escape Food & Spirits,"The Great Escape Food & Spirits, 1147 N Imperial Hwy, Ocotillo, CA 92259",4.7,92259,{Cocktail bar},Ocotillo
+RIMAC Complex,"RIMAC Complex, La Jolla, CA 92093",4.2,92093,{Gym},La Jolla
+UCSD Canyonview Aquatic and Climbing Wall Facility,"UCSD Canyonview Aquatic and Climbing Wall Facility, La Jolla, CA 92093",4.9,92093,{Sports activity location},La Jolla
+La Orilla Trailhead,"La Orilla Trailhead, 16398 El Camino Real, Rancho Santa Fe, CA 92091",4.5,92091,"{Park,Tourist attraction}",Rancho Santa Fe
+Pacific Crest Trail - Barrel Spring trailhead,"Pacific Crest Trail - Barrel Spring trailhead, 34387 Co Hwy S22, Ranchita, CA 92066",4.6,92066,{Hiking area},Ranchita
+Pala Store and Deli,"Pala Store and Deli, 3000 Pala Mission Rd, Pala, CA 92059",4.7,92059,{Grocery store},Pala
+Rancho Santa Fe Field,"Rancho Santa Fe Field, Rambla De Las Flores, Rancho Santa Fe, CA 92091",4.2,92091,{Park},Rancho Santa Fe
+Fairbanks Ranch Association Security,"Fairbanks Ranch Association Security, 16567 Circa Del N # B, Rancho Santa Fe, CA 92091",5,92091,{Security service},Rancho Santa Fe
+United States Postal Service,"United States Postal Service, 16956 Via De Santa Fe, Rancho Santa Fe, CA 92091",2.8,92091,"{Post office,Logistics service,Money order service,Shipping and mailing service}",Rancho Santa Fe
+"Sandip P. Patel, MD","Sandip P. Patel, MD, 3855 Health Sciences Dr, La Jolla, CA 92093",5,92093,{Oncologist},La Jolla
+Josie's Hideout Saloon,"Josie's Hideout Saloon, 27413 CA-76, Santa Ysabel, CA 92070",4.7,92070,{Bar & grill},Santa Ysabel
+Specialties Café and Bakery,"Specialties Café and Bakery, 4330 La Jolla Village Dr, San Diego, CA 92112",4.2,92112,"{Coffee shop,Cafe,Espresso bar,Tea house}",San Diego
+Starbucks,"Starbucks, 9500 Gilman Dr, La Jolla, CA 92093",3.8,92093,"{Cafe,Coffee shop}",La Jolla
+Gems of Pala Inc,"Gems of Pala Inc, 35940 Magee Rd, Pala, CA 92059",4.8,92059,"{Mining company,Rock shop}",Pala
+Mountain Source Dispensary,"Mountain Source Dispensary, 25575 CA-79, Santa Ysabel, CA 92070",4.7,92070,{Cannabis store},Santa Ysabel
+Balboa Athletic Complex Pool,"Balboa Athletic Complex Pool, San Diego, CA 92134",4.5,92134,{Swimming pool},San Diego
+Mataguay Scout Ranch Trading Post,"Mataguay Scout Ranch Trading Post, Mataguay Rd, Santa Ysabel, CA 92070",4.4,92070,{General store},Santa Ysabel
+Lazy Lizard Saloon,"Lazy Lizard Saloon, 1194 N Imperial Hwy, Ocotillo, CA 92259",4.7,92259,"{Night club,Bar}",Ocotillo
+Manzanita Supply,"Manzanita Supply, 30275 CA-78, Santa Ysabel, CA 92070",4.8,92070,"{Hardware store,Antique store,Garden center,General store,Historical landmark,Sewing shop,Tourist attraction}",Santa Ysabel
+Fox Raceway,"Fox Raceway, 12799 CA-76, Pala, CA 92059",4.7,92059,{Off-road race track},Pala
+Leucadia Pizzeria Rancho Sante Fe,"Leucadia Pizzeria Rancho Sante Fe, 16085 San Dieguito Rd, Rancho Santa Fe, CA 92091",4.4,92091,"{Pizza restaurant,Catering food and drink supplier,Italian restaurant,Pizza delivery,Pizza Takeout}",Rancho Santa Fe
+"Choices, The Buffet","Choices, The Buffet, 11154 CA-76, Pala, CA 92059",4.3,92059,"{Buffet restaurant,American restaurant,Seafood restaurant}",Pala
+Bar Meets Grill,"Bar Meets Grill, 11154 CA-76, Pala, CA 92059",3.5,92059,"{Restaurant,Bar}",Pala
+MCAS Miramar,"MCAS Miramar, Miramar Way, San Diego, CA 92145",4.7,92145,"{Military base,Air force base,United States Armed Forces Base}",San Diego
+Happy Spa Dogs Mobile Grooming,"Happy Spa Dogs Mobile Grooming, 16236 San Dieguito Rd Suite 8476, Rancho Santa Fe, CA 92091",4.9,92091,{Pet groomer},Rancho Santa Fe
+PC Campsite,"PC Campsite, Ocotillo, CA 92259",4.7,92259,{Hotel},Ocotillo
+Bel Mondo Condominiums,"Bel Mondo Condominiums, 5533 Cancha de Golf #102, Rancho Santa Fe, CA 92091",3.8,92091,{Condominium complex},Rancho Santa Fe
+Palomar Mountain,"Palomar Mountain, CA 92060",4.7,92060,{Mountain peak},
+Aztec Lanes,"Aztec Lanes, 6075 Aztec Cir Dr, San Diego, CA 92182",4.6,92182,{Bowling alley},San Diego
+George F Bailey Detention,"George F Bailey Detention, 446 Alta Rd #5300, San Diego, CA 92158",3.1,92158,"{Detention center,Prison}",San Diego
+Cal Coast Credit Union Amphitheater,"Cal Coast Credit Union Amphitheater, 5500 Campanile Dr, San Diego, CA 92182",4.6,92182,"{Amphitheater,Event ticket seller,Live music venue,Performing arts theater}",San Diego
+Pala Tubs,"Pala Tubs, 2992 Pala Mission Rd, Pala, CA 92059",3.3,92059,{Laundromat},Pala
+The HUB,"The HUB, 5305 Miramar Way, San Diego, CA 92145",4.6,92145,{Educational consultant},San Diego
+Soda & Swine,"Soda & Swine, 105 Eucalyptus Grove Ln, San Diego, CA 92161",4.1,92161,"{American restaurant,Restaurant}",San Diego
+Potrero County Park,"Potrero County Park, 24800 Potrero Park Dr, Potrero, CA 91963",4.5,91963,{Park},Potrero
+Coronado Navy Exchange,"Coronado Navy Exchange, 3238 Guadalcanal Rd Building No. 18, San Diego, CA 92155",4.6,92155,"{Department store,Military base,Shopping mall,Store}",San Diego
+Highland Farms Quarter Horses,"Highland Farms Quarter Horses, 6685 Lago Lindo, Rancho Santa Fe, CA 92091",4,92091,{Horse breeder},Rancho Santa Fe
+Lemon Grove Historical Society,"Lemon Grove Historical Society, 3185 Olive St, Lemon Grove, CA 91946",4.9,91946,"{Historical society,Local history museum,Tourist attraction}",Lemon Grove
+parking area,"parking area, Jacumba Hot Springs, CA 91934",4.2,91934,{Parking lot},Jacumba Hot Springs
+UCSD Cross Cultural Center,"UCSD Cross Cultural Center, 9500 Gilman Dr, La Jolla, CA 92093",4.8,92093,{Cultural center},La Jolla
+McDonald's,"McDonald's, 511 Hercules Rd, San Diego, CA 92145",3.8,92145,"{Fast food restaurant,Breakfast restaurant,Coffee shop,Hamburger restaurant,Restaurant,Sandwich shop}",San Diego
+Hanson,"Hanson, 9229 Harris Plant Rd Miramar RMC, San Diego, CA 92145",4.3,92145,"{Ready mix concrete supplier,Sand & gravel supplier}",San Diego
+School of Global Policy and Strategy,"School of Global Policy and Strategy, La Jolla, CA 92093",4.4,92093,{University department},La Jolla
+The Basement,"The Basement, 9500 Gilman Dr, La Jolla, CA 92093",4.5,92093,{Consultant},La Jolla
+Chase Bank,"Chase Bank, 9700 Gilman Dr PMB 275, La Jolla, CA 92093",3,92093,"{Bank,ATM}",La Jolla
+Mount Laguna,"Mount Laguna, Monument Peak Rd, Mt Laguna, CA 91948",4.8,91948,{Landmark},Mt Laguna
+Harbor Drive Annex Fitness Center,"Harbor Drive Annex Fitness Center, Bldg 30, NBPL, Harbor Drive Annex, San Diego, CA 92147",4.4,92147,{Gym},San Diego
+Big Laguna Lake,"Big Laguna Lake, California 91948",4.9,91948,{Lake},
+Jewel Valley Ranch,"Jewel Valley Ranch, Jacumba Hot Springs, CA 91934",4.5,91934,{Hotel},Jacumba Hot Springs
+ATV Rentals and Tours,"ATV Rentals and Tours, 1070 N Imperial Hwy, Ocotillo, CA 92259",4.7,92259,{ATV rental service},Ocotillo
+International Student Center,"International Student Center, 5500 Canyon Crest Dr, San Diego, CA 92182",4.1,92182,{University department},San Diego
+Don's Market,"Don's Market, 30250 CA-79, Santa Ysabel, CA 92070",4.4,92070,"{Shopping mall,Grocery store}",Santa Ysabel
+J's Southern Cafe,"J's Southern Cafe, 44475 Old Hwy 80, Jacumba Hot Springs, CA 91934",4.5,91934,{Soul food restaurant},Jacumba Hot Springs
+Mis Cuates Taco Shop,"Mis Cuates Taco Shop, 1777 Pala Mission Rd, Pala, CA 92059",4.2,92059,"{Mexican restaurant,Restaurant}",Pala
+Viejas Arena,"Viejas Arena, 5500 Canyon Crest Dr, San Diego, CA 92182",4.5,92182,"{Arena,Event venue}",San Diego
+Mission San Antonio De Pala,"Mission San Antonio De Pala, 3015 Pala Mission Rd, Pala, CA 92059",4.7,92059,"{Catholic church,Mission,Pilgrimage place,Tourist attraction}",Pala
+Palomar Mtn. General Store,"Palomar Mtn. General Store, 33120 Canfield Rd, Palomar Mountain, CA 92060",4.5,92060,{General store},Palomar Mountain
+Laguna Campground,"Laguna Campground, Meadow Trailer Loop, Mt Laguna, CA 91948",5,91948,{Campground},Mt Laguna
+Gonzales Mess Hall,"Gonzales Mess Hall, 5500 Miramar Way, San Diego, CA 92145",3.4,92145,{Restaurant},San Diego
+Foster Point,"Foster Point, Mt Laguna, CA 91948",4.8,91948,"{Hiking area,Tourist attraction}",Mt Laguna
+Parker Pool,"Parker Pool, Mataguay Rd, Santa Ysabel, CA 92070",4.3,92070,"{Swimming pool,Swimming}",Santa Ysabel
+University House SDSU,"University House SDSU, 4545 Yerba Santa Dr, San Diego, CA 92182",1,92182,"{Event venue,Guest house,Manor house}",San Diego
+Oceanview Gem Mine & Pala Chief Mine,"Oceanview Gem Mine & Pala Chief Mine, Palomar-Julian, Reservation, 37304 Magee Rd, Pala, CA 92059",4.5,92059,{Tourist attraction},Pala
+Flying Leatherneck Aviation Museum,"Flying Leatherneck Aviation Museum, 4203 Anderson Ave, San Diego, CA 92145",4.7,92145,"{Museum,Heritage museum,History museum,Tourist attraction}",San Diego
+Rancho Cielo Estates,"Rancho Cielo Estates, 18029 Calle Ambiente, Rancho Santa Fe, CA 92091",4.1,92091,"{Real estate agency,Real estate developer}",Rancho Santa Fe
+Hellhole Palms,"Hellhole Palms, Anza-Borrego Desert State Park, Palm Canyon Dr, Ranchita, CA 92066",4.7,92066,{State park},Ranchita
+Panda Express,"Panda Express, 333 S Twin Oaks Valley Rd, San Marcos, CA 92096",3.4,92096,"{Chinese restaurant,Asian restaurant,Restaurant}",San Marcos
+Ida and Cecil Green Faculty Club,"Ida and Cecil Green Faculty Club, 9500 Gilman Drive MC 0121, La Jolla, CA 92093",4.2,92093,"{Event venue,Caterer}",La Jolla
+Valley of the Moon Trailhead,"Valley of the Moon Trailhead, 48549 Old Hwy 80, Jacumba Hot Springs, CA 91934",4.7,91934,{Hiking area},Jacumba Hot Springs
+Crestline Group Campground,"Crestline Group Campground, Summit Cir, E Grade Rd, Palomar Mountain, CA 92060",4.5,92060,{Campground},Palomar Mountain
+Structural and Materials Engineering,"Structural and Materials Engineering, Matthews Ln, La Jolla, CA 92093",4.8,92093,"{University department,University}",La Jolla
+California State University San Marcos,"California State University San Marcos, 333 S Twin Oaks Valley Rd, San Marcos, CA 92096",3.9,92096,"{Public university,University}",San Marcos
+Maya Residence Hall,"Maya Residence Hall, San Diego State University, San Diego, CA 92182",3.3,92182,"{Student dormitory,Apartment building}",San Diego
+Harrison Serenity Ranch,"Harrison Serenity Ranch, 18187 Nate Harrison Rd, Palomar Mountain, CA 92060",4.9,92060,{Lodging},Palomar Mountain
+Santa Ysabel Nature Center,"Santa Ysabel Nature Center, 22135 CA-79, Santa Ysabel, CA 92070",4.8,92070,{Visitor center},Santa Ysabel
+Noodles - Authentic Asian Cuisine,"Noodles - Authentic Asian Cuisine, 11154 CA-76, Pala, CA 92059",4,92059,{Restaurant},Pala
+Stan's Carpet Care & Cleaning,"Stan's Carpet Care & Cleaning, 27454 Old Hwy 80, Guatay, CA 91931",5,91931,{Carpet cleaning service},Guatay
+Rancho Roasters,"Rancho Roasters, 16950 Via De Santa Fe, Rancho Santa Fe, CA 92091",4.8,92091,{Cafe},Rancho Santa Fe
+Potrero General Store,"Potrero General Store, 25125 CA-94, Potrero, CA 91963",4.1,91963,{Grocery store},Potrero
+Laguna Mountain Sports & Supply,"Laguna Mountain Sports & Supply, 10545 Sunrise Hwy, Mt Laguna, CA 91948",4.4,91948,{Sporting goods store},Mt Laguna
+Starlight Theater,"Starlight Theater, 11154 CA-76, Pala, CA 92059",4.6,92059,{Performing arts theater},Pala
+Starbucks,"Starbucks, 910 N Harbor Dr, San Diego, CA 92132",3.7,92132,{Coffee store},San Diego
+Devils Canyon,"Devils Canyon, California 92259",4.7,92259,{Ravine},
+3rd MAW Band,"3rd MAW Band, 3379 Anderson Ave, San Diego, CA 92145",5,92145,{Federal government office},San Diego
+Round Mountain,"Round Mountain, Jacumba Hot Springs, CA 91934",5,91934,{Mountain peak},Jacumba Hot Springs
+San Diego Hospital Navy Exchange Gift Store,"San Diego Hospital Navy Exchange Gift Store, 34800 Bob Wilson Dr, San Diego, CA 92134",4.6,92134,{Department store},San Diego
+Experimental Theatre,"Experimental Theatre, Drama Building, School of Theatre, Television, and Film,, 5500 Campanile Dr, San Diego, CA 92182",4.3,92182,{Performing arts theater},San Diego
+Jewel Valley Campground,"Jewel Valley Campground, 1519 Jewel Valley Rd, Jacumba Hot Springs, CA 91934",3.6,91934,{Campground},Jacumba Hot Springs
+San Diego Dune Tours,"San Diego Dune Tours, 6 W Evan Hewes Hwy, Ocotillo, CA 92259",4.7,92259,{Tour operator},Ocotillo
+VMFAT-101,"VMFAT-101, San Diego, CA 92145",4.4,92145,{Corporate office},San Diego
+Hepner Hall,"Hepner Hall, Campanile Mall, San Diego, CA 92182",4.6,92182,{Historical landmark},San Diego
+Three Sisters Falls Trailhead,"Three Sisters Falls Trailhead, Boulder Creek Rd, Santa Ysabel, CA 92070",4.7,92070,"{Hiking area,Tourist attraction}",Santa Ysabel
+UC San Diego Imprints Main Production Center,"UC San Diego Imprints Main Production Center, Campus Services Complex - Building A, 1 Greenhouse Ln Ste 120, La Jolla, CA 92093",4.7,92093,{Digital printing service},La Jolla
+International House,"International House, 9500 Gilman Dr, La Jolla, CA 92093",4.2,92093,{Student housing center},La Jolla
+Silent Tree,"Silent Tree, University of California San Diego, San Diego, CA 92161",5,92161,{Sculpture},San Diego
+Susan Tapert,"Susan Tapert, 9500 Gilman Dr, La Jolla, CA 92093",5,92093,{Psychiatrist},La Jolla
+Dept of Homeland Security,"Dept of Homeland Security, San Diego, CA 92155",5,92155,{Military base},San Diego
+Don Powell Theatre,"Don Powell Theatre, 5400 Campanile Mall, San Diego, CA 92182",4.3,92182,{Performing arts theater},San Diego
+De Anza Spring Resort - Goat Canyon Trestle Trailhead,"De Anza Spring Resort - Goat Canyon Trestle Trailhead, 1945-1999 Carrizo Gorge Rd, Jacumba Hot Springs, CA 91934",4.3,91934,{Hiking area},Jacumba Hot Springs
+Round Table Pizza,"Round Table Pizza, University of California San Diego, Price Center, La Jolla, CA 92093",4,92093,"{Pizza restaurant,Caterer,Chicken wings restaurant,Family restaurant,Italian restaurant,Pizza Takeout}",La Jolla
