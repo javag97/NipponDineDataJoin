@@ -1,4 +1,4 @@
-Create table in SQL
+# Create table in SQL
 
 ```SQL
 CREATE TABLE restaurants (
@@ -22,24 +22,27 @@ CSV HEADER;
 ```
 
 
-Exploration Japanese query
+# Exploration Japanese query
+
+
+### JSON path
+
+#### Query 1: Zip codes within Poway 
 
 ```
-SELECT *
-FROM restaurants
-WHERE 
-	(zip IN ('92064', '92074', '92145', '92131', '92126', '92129', '92128', '92065', '92040', '92071'))
-	AND (
-		'Japan' = ANY(categories) 
-        OR 'Sushi' = ANY(categories)
-	);
+$.Cities[?(@['City Name'] == 'Poway')]['ZIP Codes']
+```
+
+Result
+
+```
+[
+  "92025, 92064, 92065, 92131"
+]
 ```
 
 
-JSON path
-
-
-Query 1
+#### Query 2: Zip codes of cities around Poway
 
 ```
 $.Cities[?(@['City Name'] == 'Poway')].Neighborhoods[*].['ZIP Codes']
@@ -56,16 +59,18 @@ Result
 ]
 ```
 
-Query 2
+Using these zip codes, I want to look for Japanese restaurants. Within the dataset, I found instances of "Sushi" or "Japan". In reality, we should expand this to include inclusionary terms that could singify cuisines within Japan. I will refer to all of these inclusionary terms as Nippon (any term to designate Japanese in origin).
+
 
 ```
-$.Cities[?(@['City Name'] == 'Poway')]['ZIP Codes']
+SELECT *
+FROM restaurants
+WHERE 
+	(zip IN ('92128', '92129', '92025', '92029', '92064','92067', '92127', '92128', '92064', '92131', '92145', '92128', '92129', '92131', '92025', '92064', '92065', '92131'))
+	AND (
+		'Japan' = ANY(categories) 
+        OR 'Sushi' = ANY(categories)
+	);
 ```
 
-Result
-
-```
-[
-  "92025, 92064, 92065, 92131"
-]
-```
+Should fusion food of Japanese origin be considered Japanese? 
