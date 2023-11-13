@@ -1,0 +1,4 @@
+"id","name","address","avg_rating","zip","categories","city"
+50,"Shogun of La Jolla","Shogun of La Jolla, 9500 Gilman Dr, La Jolla, CA 92093",3.4,"92093","{""Japanese restaurant""}","La Jolla"
+157,"James' Place Prime Seafood Sushi","James' Place Prime Seafood Sushi, 2910 La Jolla Village Dr, La Jolla, CA 92093",4.5,"92093","{""Sushi restaurant"",Restaurant}","La Jolla"
+244,"The Bistro at the Strand","The Bistro at the Strand, 9500 Gilman Dr, La Jolla, CA 92093",3.8,"92093","{""Asian fusion restaurant"",""Asian restaurant"",""Sushi restaurant""}","La Jolla"

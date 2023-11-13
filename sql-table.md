@@ -73,4 +73,14 @@ WHERE
 	);
 ```
 
-Should fusion food of Japanese origin be considered Japanese? 
+```
+SELECT *
+FROM restaurants
+WHERE EXISTS (
+    SELECT *
+    FROM unnest(categories) AS category
+    WHERE category ILIKE '%sushi%'
+       OR category ILIKE '%japan%'
+       OR category ILIKE '%ramen%'
+);
+```
