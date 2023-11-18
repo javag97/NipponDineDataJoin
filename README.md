@@ -1,6 +1,6 @@
 # Group 4: List the Japanese restaurants in cities near Poway.
 
-1. write the corresponding SQL and JSONPath queries for their respective questions.
+## **PART A** write the corresponding SQL and JSONPath queries for their respective questions.
 
 Poway zip codes: 92064, 92074.
 
@@ -111,8 +111,8 @@ Result: Query complete 00:00:00.152
 |244|The Bistro at the Strand        |The Bistro at the Strand, 9500 Gilman Dr, La Jolla, CA 92093                  |3.8       |92093|{"Asian fusion restaurant","Asian restaurant","Sushi restaurant"}|La Jolla|
 
 
-2. write Python code to implement the "join" operation in the query. We will expect your code to be "generic" in the sense that we should be able to use it to join the outputs of any JSONPath and SQL queries. Your code should make use of data structures like hash tables (or something comparable) and operations like sorting, probing, merging. However, the specific choice of data structures and operations is up to you.
+## **PART B** write Python code to implement the "join" operation in the query. We will expect your code to be "generic" in the sense that we should be able to use it to join the outputs of any JSONPath and SQL queries. Your code should make use of data structures like hash tables (or something comparable) and operations like sorting, probing, merging. However, the specific choice of data structures and operations is up to you.
 
-So far, the exploration for that question will be found within the `explore.ipynb` file. 
+So far, the exploration for that question will be found within the `explore.ipynb` file. This is currently being merged as a list then printed out. We will need to expand this to be scalable.
 
-3. write code to generate the output the result to the user as a Python list. Notice that for group 3, each list item will have a pair of values
+## **PART C** write code to generate the output the result to the user as a Python list. Notice that for group 3, each list item will have a pair of values
