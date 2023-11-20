@@ -33,7 +33,12 @@ CSV HEADER;
 
 ### JSON path
 
-#### Query 1: Zip codes within Poway 
+For these queries, they were evaluated with this tool: https://jsonpath.com/
+
+This means that running time could not be evaluated. This could be been done with `jsonpath_ng` in a python notebook, but this was discovered shortly into turn in. 
+
+
+#### Query 1: Zip codes within Poway: Exploratory
 
 ```
 $.Cities[?(@['City Name'] == 'Poway')]['ZIP Codes']
@@ -47,7 +52,7 @@ Result
 ]
 ```
 
-#### Query 2: Zip codes of cities around Poway
+#### Query 2: Zip codes of cities around Poway: Final query
 
 ```
 $.Cities[?(@['City Name'] == 'Poway')].Neighborhoods[*].['ZIP Codes']
@@ -63,10 +68,12 @@ Result
   "92128, 92129, 92131"
 ]
 ```
-*Note that this should logically equivalent as looking for cities near Poway.* Using these zip codes, I want to look for Japanese restaurants. Within the dataset, I found instances of "Sushi" or "Japan". In reality, we should expand this to include inclusionary terms that could singify cuisines within Japan. I will refer to all of these inclusionary terms as Nippon (any term to designate Japanese in origin).
+*Note that this should logically equivalent as looking for cities near Poway.* Using these zip codes, I want to look for Japanese restaurants. Within the dataset, We found instances of "Sushi" or "Japan". In reality, we should expand this to include inclusionary terms that could singify cuisines within Japan. We will refer to all of these inclusionary terms as Nippon (any term to designate Japanese in origin).
 
 
-#### Query 3: Look for Japenese restaurants in nearby zip codes. 
+#### Query 3: Look for Japenese restaurants in nearby zip codes. Exploratory
+
+Using the Zip codes 
 
 
 ```
@@ -87,7 +94,9 @@ Result: Query complete 00:00:00.151
 
 This produces an empty set, so I will expand this.
 
-#### Query 4: Look for Japenese restaurants in entire database. 
+#### Query 4: Look for Japenese restaurants in entire database. Final Query
+
+Note that this is not filtering by Zip code.
 
 ```
 SELECT *
@@ -112,7 +121,8 @@ Result: Query complete 00:00:00.152
 
 ## **PART B** write Python code to implement the "join" operation in the query. We will expect your code to be "generic" in the sense that we should be able to use it to join the outputs of any JSONPath and SQL queries. Your code should make use of data structures like hash tables (or something comparable) and operations like sorting, probing, merging. However, the specific choice of data structures and operations is up to you.
 
-
+Refer to `explore.ipynb`
 
 ## **PART C** write code to generate the output the result to the user as a Python list. Notice that for group 3, each list item will have a pair of values
 
+Refer to `explore.ipynb`
