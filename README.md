@@ -24,7 +24,7 @@ Copy file into Postgres
 
 ```SQL
 COPY restaurants (name, address, avg_rating, zip, categories, city)
-FROM '/Users/javi/projects/school/assignment-3/nourish_public_ca_business.csv'
+FROM 'INSERT/PATH/TO/PROJECT/assignment-3/nourish_public_ca_business.csv'
 DELIMITER ','
 CSV HEADER;
 ```
@@ -63,8 +63,7 @@ Result
   "92128, 92129, 92131"
 ]
 ```
-
-Using these zip codes, I want to look for Japanese restaurants. Within the dataset, I found instances of "Sushi" or "Japan". In reality, we should expand this to include inclusionary terms that could singify cuisines within Japan. I will refer to all of these inclusionary terms as Nippon (any term to designate Japanese in origin).
+*Note that this should logically equivalent as looking for cities near Poway.* Using these zip codes, I want to look for Japanese restaurants. Within the dataset, I found instances of "Sushi" or "Japan". In reality, we should expand this to include inclusionary terms that could singify cuisines within Japan. I will refer to all of these inclusionary terms as Nippon (any term to designate Japanese in origin).
 
 
 #### Query 3: Look for Japenese restaurants in nearby zip codes. 
@@ -113,6 +112,7 @@ Result: Query complete 00:00:00.152
 
 ## **PART B** write Python code to implement the "join" operation in the query. We will expect your code to be "generic" in the sense that we should be able to use it to join the outputs of any JSONPath and SQL queries. Your code should make use of data structures like hash tables (or something comparable) and operations like sorting, probing, merging. However, the specific choice of data structures and operations is up to you.
 
-So far, the exploration for that question will be found within the `explore.ipynb` file. This is currently being merged as a list then printed out. We will need to expand this to be scalable.
+
 
 ## **PART C** write code to generate the output the result to the user as a Python list. Notice that for group 3, each list item will have a pair of values
+

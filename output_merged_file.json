@@ -1,0 +1,3747 @@
+{
+    "Lake Hodges Water Recreation Area": {
+        "address": "Lake Hodges Water Recreation Area, Lake Dr, Escondido, CA 92033",
+        "avg_rating": "4.6",
+        "zip": "92033",
+        "categories": "{Park}",
+        "city": "Escondido"
+    },
+    "Apple Country Restaurants": {
+        "address": "Apple Country Restaurants, 30270 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "4.1",
+        "zip": "92070",
+        "categories": "{American restaurant}",
+        "city": "Santa Ysabel"
+    },
+    "United States Postal Service": {
+        "address": "United States Postal Service, 16956 Via De Santa Fe, Rancho Santa Fe, CA 92091",
+        "avg_rating": "2.8",
+        "zip": "92091",
+        "categories": "{Post office,Logistics service,Money order service,Shipping and mailing service}",
+        "city": "Rancho Santa Fe"
+    },
+    "SDSU Global Campus": {
+        "address": "SDSU Global Campus, 5250 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "4.7",
+        "zip": "92182",
+        "categories": "{Educational institution,Adult education school,Business school,College,Distance learning center,Education center,Graduate school,Learning center,School}",
+        "city": "San Diego"
+    },
+    "Center Bar": {
+        "address": "Center Bar, 11154 CA-76, Pala, CA 92059",
+        "avg_rating": "5",
+        "zip": "92059",
+        "categories": "{Bar}",
+        "city": "Pala"
+    },
+    "Chevron": {
+        "address": "Chevron, 1071 Imperial Hwy, Ocotillo, CA 92259",
+        "avg_rating": "2.1",
+        "zip": "92259",
+        "categories": "{Gas station,Convenience store,Diesel fuel supplier,Fuel pump}",
+        "city": "Ocotillo"
+    },
+    "UCSD Outback Adventures Surf Shop": {
+        "address": "UCSD Outback Adventures Surf Shop, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.1",
+        "zip": "92093",
+        "categories": "{Surf shop}",
+        "city": "La Jolla"
+    },
+    "Rehner Orchards": {
+        "address": "Rehner Orchards, 3022 Pala Mission Rd, Pala, CA 92059",
+        "avg_rating": "4.5",
+        "zip": "92059",
+        "categories": "{Orchard}",
+        "city": "Pala"
+    },
+    "Naval Medical Center San Diego Emergency Room": {
+        "address": "Naval Medical Center San Diego Emergency Room, 34800 Bob Wilson Dr, San Diego, CA 92134",
+        "avg_rating": "2.6",
+        "zip": "92134",
+        "categories": "{Emergency room}",
+        "city": "San Diego"
+    },
+    "Tryyn Gallery": {
+        "address": "Tryyn Gallery, 27538 Old Hwy 80, Guatay, CA 91931",
+        "avg_rating": "4.9",
+        "zip": "91931",
+        "categories": "{Gourmet grocery store}",
+        "city": "Guatay"
+    },
+    "Swastika Buildings": {
+        "address": "Swastika Buildings, Naval Amphibious Base Bldg #33, San Diego, CA 92155",
+        "avg_rating": "4.1",
+        "zip": "92155",
+        "categories": "{Sculpture}",
+        "city": "San Diego"
+    },
+    "USS San Diego Memorial": {
+        "address": "USS San Diego Memorial, 750 N Harbor Dr, San Diego, CA 92132",
+        "avg_rating": "4.7",
+        "zip": "92132",
+        "categories": "{Historical landmark,Memorial park,Tourist attraction}",
+        "city": "San Diego"
+    },
+    "Jay's Southern Cafe": {
+        "address": "Jay's Southern Cafe, 44461 Old Hwy 80, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.8",
+        "zip": "91934",
+        "categories": "{BBQ area,Barbecue restaurant,Restaurant}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Naval Medical Center": {
+        "address": "Naval Medical Center, 34800 Bob Wilson Dr, San Diego, CA 92134",
+        "avg_rating": "3.7",
+        "zip": "92134",
+        "categories": "{Medical Center,General hospital}",
+        "city": "San Diego"
+    },
+    "Himalaya Tourmaline Mine Dig": {
+        "address": "Himalaya Tourmaline Mine Dig, 26142 CA-76, Santa Ysabel, CA 92070",
+        "avg_rating": "3.1",
+        "zip": "92070",
+        "categories": "{Mine}",
+        "city": "Santa Ysabel"
+    },
+    "Pacific Hall": {
+        "address": "Pacific Hall, Scholars Dr S, San Diego, CA 92161",
+        "avg_rating": "5",
+        "zip": "92161",
+        "categories": "{Association or organization}",
+        "city": "San Diego"
+    },
+    "Earl Warren College": {
+        "address": "Earl Warren College, 9500 Gilman Dr #0422, La Jolla, CA 92093",
+        "avg_rating": "4.6",
+        "zip": "92093",
+        "categories": "{College}",
+        "city": "La Jolla"
+    },
+    "Fireside Lounge": {
+        "address": "Fireside Lounge, 9628-9698 Hopkins Ln, San Diego, CA 92161",
+        "avg_rating": "4.4",
+        "zip": "92161",
+        "categories": "{Lounge}",
+        "city": "San Diego"
+    },
+    "Carrizo Gorge Scenic Railroad": {
+        "address": "Carrizo Gorge Scenic Railroad, 44477 Boundary Creek Rd, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.3",
+        "zip": "91934",
+        "categories": "{Rail museum}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Basic Riders Course (BRC)": {
+        "address": "Basic Riders Course (BRC), Miramar Way, San Diego, CA 92145",
+        "avg_rating": "5",
+        "zip": "92145",
+        "categories": "{Driving school}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Dirty Birds La Jolla": {
+        "address": "Dirty Birds La Jolla, Price Center, 9500 Gilman Dr #1420, La Jolla, CA 92093",
+        "avg_rating": "4.2",
+        "zip": "92093",
+        "categories": "{Chicken wings restaurant}",
+        "city": "La Jolla"
+    },
+    "Twin Lakes Resorts": {
+        "address": "Twin Lakes Resorts, 25275 Potrero Valley Rd, Potrero, CA 91963",
+        "avg_rating": "4",
+        "zip": "91963",
+        "categories": "{Resort hotel}",
+        "city": "Potrero"
+    },
+    "Panda Express": {
+        "address": "Panda Express, 333 S Twin Oaks Valley Rd, San Marcos, CA 92096",
+        "avg_rating": "3.4",
+        "zip": "92096",
+        "categories": "{Chinese restaurant,Asian restaurant,Restaurant}",
+        "city": "San Marcos"
+    },
+    "Bobby D's Ribeye": {
+        "address": "Bobby D's Ribeye, 5535 Cancha de Golf, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.6",
+        "zip": "92091",
+        "categories": "{Restaurant,Food and drink}",
+        "city": "Rancho Santa Fe"
+    },
+    "Blue Pepper": {
+        "address": "Blue Pepper, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.9",
+        "zip": "92093",
+        "categories": "{Thai restaurant,Asian restaurant,Restaurant,Southeast Asian restaurant}",
+        "city": "La Jolla"
+    },
+    "Palomar Mountain Real Estate .com": {
+        "address": "Palomar Mountain Real Estate .com, 20720 State Park Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.5",
+        "zip": "92060",
+        "categories": "{Real estate consultant,Firewood supplier}",
+        "city": "Palomar Mountain"
+    },
+    "The Oak Room at Pala Casino Spa & Resort": {
+        "address": "The Oak Room at Pala Casino Spa & Resort, 11154 CA-76, Pala, CA 92059",
+        "avg_rating": "4.4",
+        "zip": "92059",
+        "categories": "{Steak house,Restaurant}",
+        "city": "Pala"
+    },
+    "Culp Valley Primitive Campground": {
+        "address": "Culp Valley Primitive Campground, Montezuma-Borrego Hwy, Ranchita, CA 92066",
+        "avg_rating": "4.6",
+        "zip": "92066",
+        "categories": "{Campground}",
+        "city": "Ranchita"
+    },
+    "Palomar Observatory": {
+        "address": "Palomar Observatory, 35899 Canfield Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.6",
+        "zip": "92060",
+        "categories": "{Observatory,Research institute}",
+        "city": "Palomar Mountain"
+    },
+    "The Red Barn": {
+        "address": "The Red Barn, 4355 Julian Hwy, Santa Ysabel, CA 92070",
+        "avg_rating": "4.8",
+        "zip": "92070",
+        "categories": "{Bar,Live music venue}",
+        "city": "Santa Ysabel"
+    },
+    "Yogurt World": {
+        "address": "Yogurt World, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.7",
+        "zip": "92093",
+        "categories": "{Frozen yogurt shop,Dessert shop,Ice cream shop}",
+        "city": "La Jolla"
+    },
+    "Aztec Tennis Center": {
+        "address": "Aztec Tennis Center, Plaza Deportes, San Diego, CA 92182",
+        "avg_rating": "4.7",
+        "zip": "92182",
+        "categories": "{Tennis court}",
+        "city": "San Diego"
+    },
+    "Julian Pie Company": {
+        "address": "Julian Pie Company, 21976 CA-79, Santa Ysabel, CA 92070",
+        "avg_rating": "4.8",
+        "zip": "92070",
+        "categories": "{Bakery}",
+        "city": "Santa Ysabel"
+    },
+    "Smuggler's Den": {
+        "address": "Smuggler's Den, Ocotillo, CA 92259",
+        "avg_rating": "4.8",
+        "zip": "92259",
+        "categories": "{Park}",
+        "city": "Ocotillo"
+    },
+    "R L Jones Customhouse Brokers": {
+        "address": "R L Jones Customhouse Brokers, 484 Tecate Rd, Tecate, CA 91980",
+        "avg_rating": "4",
+        "zip": "91980",
+        "categories": "{Customs broker}",
+        "city": "Tecate"
+    },
+    "Johnny On The Spot Pest Control": {
+        "address": "Johnny On The Spot Pest Control, Spring Valley, CA 91979",
+        "avg_rating": "4.3",
+        "zip": "91979",
+        "categories": "{Pest control service}",
+        "city": "Spring Valley"
+    },
+    "UCSD Career Services Center": {
+        "address": "UCSD Career Services Center, San Diego, CA 92161",
+        "avg_rating": "5",
+        "zip": "92161",
+        "categories": "{Student career counseling office,University}",
+        "city": "San Diego"
+    },
+    "CNG Clean Energy Station": {
+        "address": "CNG Clean Energy Station, 9413 Voigt Dr, La Jolla, CA 92093",
+        "avg_rating": "4.5",
+        "zip": "92093",
+        "categories": "{Gas station,Alternative fuel station,Compressed natural gas station,Energy supplier}",
+        "city": "La Jolla"
+    },
+    "Glorietta Canyon Trailhead": {
+        "address": "Glorietta Canyon Trailhead, Warner Springs, CA 92066",
+        "avg_rating": "4.4",
+        "zip": "92066",
+        "categories": "{Hiking area}",
+        "city": "Warner Springs"
+    },
+    "Conrad Prebys Aztec Student Union": {
+        "address": "Conrad Prebys Aztec Student Union, 6075 Aztec Cir Dr, San Diego, CA 92182",
+        "avg_rating": "4.6",
+        "zip": "92182",
+        "categories": "{Student union,Association or organization,Community center}",
+        "city": "San Diego"
+    },
+    "Gus Weber Picnic Area": {
+        "address": "Gus Weber Picnic Area, 35899 Canfield Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.6",
+        "zip": "92060",
+        "categories": "{Park}",
+        "city": "Palomar Mountain"
+    },
+    "Jamba": {
+        "address": "Jamba, 2761 Gonsalves Ave Building B, San Diego, CA 92145",
+        "avg_rating": "4.3",
+        "zip": "92145",
+        "categories": "{Juice shop,Restaurant}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "McGill Hall": {
+        "address": "McGill Hall, San Diego, CA 92161",
+        "avg_rating": "4.1",
+        "zip": "92161",
+        "categories": "{Hall}",
+        "city": "San Diego"
+    },
+    "Atkinson Hall": {
+        "address": "Atkinson Hall, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.7",
+        "zip": "92093",
+        "categories": "{Auditorium}",
+        "city": "La Jolla"
+    },
+    "Ocotillo Bible Church": {
+        "address": "Ocotillo Bible Church, 1174 N Imperial Hwy, Ocotillo, CA 92259",
+        "avg_rating": "4.8",
+        "zip": "92259",
+        "categories": "{Church}",
+        "city": "Ocotillo"
+    },
+    "Turner Field Recreational Area": {
+        "address": "Turner Field Recreational Area, San Diego, CA 92155",
+        "avg_rating": "4.3",
+        "zip": "92155",
+        "categories": "{Recreation center}",
+        "city": "San Diego"
+    },
+    "GNC": {
+        "address": "GNC, 2660 45233, Antares Dr, San Diego, CA 92145",
+        "avg_rating": "4",
+        "zip": "92145",
+        "categories": "{Vitamin & supplements store}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "UCSD Department of Music": {
+        "address": "UCSD Department of Music, La Jolla, CA 92093",
+        "avg_rating": "4.2",
+        "zip": "92093",
+        "categories": "{Music school,University}",
+        "city": "La Jolla"
+    },
+    "Guatay Country Store": {
+        "address": "Guatay Country Store, 27560 Old Hwy 80, Guatay, CA 91931",
+        "avg_rating": "4.5",
+        "zip": "91931",
+        "categories": "{Grocery store}",
+        "city": "Guatay"
+    },
+    "Shogun of La Jolla": {
+        "address": "Shogun of La Jolla, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.4",
+        "zip": "92093",
+        "categories": "{Japanese restaurant}",
+        "city": "La Jolla"
+    },
+    "Luis Rey's": {
+        "address": "Luis Rey's, 11154 CA-76, Pala, CA 92059",
+        "avg_rating": "3.8",
+        "zip": "92059",
+        "categories": "{Bar}",
+        "city": "Pala"
+    },
+    "Ocotillo Community Park": {
+        "address": "Ocotillo Community Park, 266 Imperial Hwy, Ocotillo, CA 92259",
+        "avg_rating": "4.2",
+        "zip": "92259",
+        "categories": "{Park}",
+        "city": "Ocotillo"
+    },
+    "Carrizo Creek": {
+        "address": "Carrizo Creek, California 92259",
+        "avg_rating": "5",
+        "zip": "92259",
+        "categories": "{River}",
+        "city": ""
+    },
+    "Mountain Springs County Park": {
+        "address": "Mountain Springs County Park, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.7",
+        "zip": "91934",
+        "categories": "{Park,Tourist attraction}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Parma Payne Goodall Alumni Center": {
+        "address": "Parma Payne Goodall Alumni Center, 5250 55th St, San Diego, CA 92182",
+        "avg_rating": "4.8",
+        "zip": "92182",
+        "categories": "{Conference center}",
+        "city": "San Diego"
+    },
+    "Shiley Eye Institute at UC San Diego Health": {
+        "address": "Shiley Eye Institute at UC San Diego Health, 9415 Campus Point Dr, La Jolla, CA 92093",
+        "avg_rating": "3.1",
+        "zip": "92093",
+        "categories": "{Eye care center,Ophthalmologist}",
+        "city": "La Jolla"
+    },
+    "GameStop Military": {
+        "address": "GameStop Military, 5638 Kelso Rd, San Diego, CA 92145",
+        "avg_rating": "4.5",
+        "zip": "92145",
+        "categories": "{Video game store,Cell phone store,Collectibles store,Electronics store}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "UC San Diego Bookstore": {
+        "address": "UC San Diego Bookstore, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.4",
+        "zip": "92093",
+        "categories": "{Book store,Gift shop,Office supply store}",
+        "city": "La Jolla"
+    },
+    "Domino's Pizza": {
+        "address": "Domino's Pizza, McAs Air Sta, 5305 Miramar Way, San Diego, CA 92145",
+        "avg_rating": "3.5",
+        "zip": "92145",
+        "categories": "{Pizza delivery,Delivery Restaurant,Takeout Restaurant,Pizza restaurant,Pizza Takeout}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Fexco Bookkeeping & Tax Services": {
+        "address": "Fexco Bookkeeping & Tax Services, 443 Tecate Rd, Tecate, CA 91980",
+        "avg_rating": "5",
+        "zip": "91980",
+        "categories": "{Tax preparation}",
+        "city": "Tecate"
+    },
+    "Santa Ysabel Botanical Facility": {
+        "address": "Santa Ysabel Botanical Facility, Santa Ysabel Reservation, Palomar-Julian, Santa Ysabel, CA 92070",
+        "avg_rating": "4.7",
+        "zip": "92070",
+        "categories": "{Farm}",
+        "city": "Santa Ysabel"
+    },
+    "Southern California Tribal": {
+        "address": "Southern California Tribal, 10975 Pala Rd, Pala, CA 92059",
+        "avg_rating": "5",
+        "zip": "92059",
+        "categories": "{Association or organization}",
+        "city": "Pala"
+    },
+    "Jamba UCSD": {
+        "address": "Jamba UCSD, 9500 Gilman Dr Price Center Rm 1.419, La Jolla, CA 92093",
+        "avg_rating": "4",
+        "zip": "92093",
+        "categories": "{Juice shop,Restaurant}",
+        "city": "La Jolla"
+    },
+    "Outpatient Pharmacy": {
+        "address": "Outpatient Pharmacy, 3350 La Jolla Village Dr, San Diego, CA 92161",
+        "avg_rating": "3.7",
+        "zip": "92161",
+        "categories": "{Pharmacy}",
+        "city": "San Diego"
+    },
+    "California Commercial Asphalt": {
+        "address": "California Commercial Asphalt, 9229 Harris Plant Rd, Asphalt, San Diego, CA 92145",
+        "avg_rating": "3.9",
+        "zip": "92145",
+        "categories": "{Paving materials supplier}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Starbucks": {
+        "address": "Starbucks, 910 N Harbor Dr, San Diego, CA 92132",
+        "avg_rating": "3.7",
+        "zip": "92132",
+        "categories": "{Coffee store}",
+        "city": "San Diego"
+    },
+    "Barstow Charles R": {
+        "address": "Barstow Charles R, San Diego, CA 92159",
+        "avg_rating": "5",
+        "zip": "92159",
+        "categories": "{Marketing consultant}",
+        "city": "San Diego"
+    },
+    "Pala Shooting Range": {
+        "address": "Pala Shooting Range, 35402 Henderson Rd, Pala, CA 92059",
+        "avg_rating": "4.5",
+        "zip": "92059",
+        "categories": "{Shooting range}",
+        "city": "Pala"
+    },
+    "Cupa Cultural Center": {
+        "address": "Cupa Cultural Center, 35001 Pala Temecula Rd, Pala, CA 92059",
+        "avg_rating": "4.7",
+        "zip": "92059",
+        "categories": "{Museum}",
+        "city": "Pala"
+    },
+    "Mother's Kitchen": {
+        "address": "Mother's Kitchen, 33120 Canfield Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.6",
+        "zip": "92060",
+        "categories": "{Restaurant,Vegetarian restaurant}",
+        "city": "Palomar Mountain"
+    },
+    "Picnic Lake Park": {
+        "address": "Picnic Lake Park, Potrero Park Dr, Potrero, CA 91963",
+        "avg_rating": "3.8",
+        "zip": "91963",
+        "categories": "{Park}",
+        "city": "Potrero"
+    },
+    "Secluded Garden Estate": {
+        "address": "Secluded Garden Estate, 38648 Pala Temecula Rd, Pala, CA 92059",
+        "avg_rating": "4.4",
+        "zip": "92059",
+        "categories": "{Garden center}",
+        "city": "Pala"
+    },
+    "MCAS Miramar Veterinary Treatment Facility": {
+        "address": "MCAS Miramar Veterinary Treatment Facility, 6360 Bauer Rd, San Diego, CA 92145",
+        "avg_rating": "4.7",
+        "zip": "92145",
+        "categories": "{Veterinary care}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Imperial Valley Desert Museum": {
+        "address": "Imperial Valley Desert Museum, 11 Frontage Rd, Ocotillo, CA 92259",
+        "avg_rating": "4.7",
+        "zip": "92259",
+        "categories": "{Museum,Tourist attraction}",
+        "city": "Ocotillo"
+    },
+    "Julian Farm & Orchard": {
+        "address": "Julian Farm & Orchard, 4381 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "4.3",
+        "zip": "92070",
+        "categories": "{Pumpkin patch}",
+        "city": "Santa Ysabel"
+    },
+    "Western Marine Dive Service": {
+        "address": "Western Marine Dive Service, 2500 Shelter Island Dr, San Diego, CA 92166",
+        "avg_rating": "4.9",
+        "zip": "92166",
+        "categories": "{Boat repair shop}",
+        "city": "San Diego"
+    },
+    "The Vegetable Shop at Chino Farm": {
+        "address": "The Vegetable Shop at Chino Farm, 6123 Calzada Del Bosque, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.6",
+        "zip": "92091",
+        "categories": "{Produce market}",
+        "city": "Rancho Santa Fe"
+    },
+    "Peet's Coffee": {
+        "address": "Peet's Coffee, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.2",
+        "zip": "92093",
+        "categories": "{Coffee shop,Cafe,Espresso bar,Tea house}",
+        "city": "La Jolla"
+    },
+    "Aztec Recreation Center": {
+        "address": "Aztec Recreation Center, 5301 55th St, San Diego, CA 92182",
+        "avg_rating": "4.6",
+        "zip": "92182",
+        "categories": "{Recreation center,Gym,Swimming pool}",
+        "city": "San Diego"
+    },
+    "WorldMark Oceanside": {
+        "address": "WorldMark Oceanside, 1301 Carmelo Dr, Oceanside, CA 92049",
+        "avg_rating": "4.4",
+        "zip": "92049",
+        "categories": "{Resort hotel,Hotel,Vacation home rental agency}",
+        "city": "Oceanside"
+    },
+    "Jim's Appollo Septic Services": {
+        "address": "Jim's Appollo Septic Services, Escondido, CA 92033",
+        "avg_rating": "4.6",
+        "zip": "92033",
+        "categories": "{Excavating contractor}",
+        "city": "Escondido"
+    },
+    "SDSU Library": {
+        "address": "SDSU Library, 5500 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "4.1",
+        "zip": "92182",
+        "categories": "{University library,Library,Public university}",
+        "city": "San Diego"
+    },
+    "Copley International Conference Center": {
+        "address": "Copley International Conference Center, La Jolla, CA 92093",
+        "avg_rating": "4.5",
+        "zip": "92093",
+        "categories": "{University}",
+        "city": "La Jolla"
+    },
+    "Main Gymnasium": {
+        "address": "Main Gymnasium, San Diego, CA 92161",
+        "avg_rating": "4.3",
+        "zip": "92161",
+        "categories": "{Gym}",
+        "city": "San Diego"
+    },
+    "Santa Ysabel East Preserve, Hwy 79 Staging": {
+        "address": "Santa Ysabel East Preserve, Hwy 79 Staging, 22550 CA-79, Santa Ysabel, CA 92070",
+        "avg_rating": "4.8",
+        "zip": "92070",
+        "categories": "{Park}",
+        "city": "Santa Ysabel"
+    },
+    "Santa Ysabel General Store": {
+        "address": "Santa Ysabel General Store, 30275 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "4.8",
+        "zip": "92070",
+        "categories": "{Hardware store,Antique store,Garden center,General store,Historical landmark,Sewing shop,Tourist attraction}",
+        "city": "Santa Ysabel"
+    },
+    "Snake Path": {
+        "address": "Snake Path, San Diego, CA 92161",
+        "avg_rating": "5",
+        "zip": "92161",
+        "categories": "{Public library}",
+        "city": "San Diego"
+    },
+    "UCSD la Jolla farmers market": {
+        "address": "UCSD la Jolla farmers market, UCSD Town Square, San Diego, CA 92161",
+        "avg_rating": "5",
+        "zip": "92161",
+        "categories": "{Farmers' market}",
+        "city": "San Diego"
+    },
+    "Cafe 94": {
+        "address": "Cafe 94, 25275 Potrero Valley Rd, Potrero, CA 91963",
+        "avg_rating": "4.6",
+        "zip": "91963",
+        "categories": "{American restaurant}",
+        "city": "Potrero"
+    },
+    "Navy Gateway Inns & Suites": {
+        "address": "Navy Gateway Inns & Suites, 32444 Echo Ln Bldg 82, San Diego, CA 92147",
+        "avg_rating": "4",
+        "zip": "92147",
+        "categories": "{Hotel}",
+        "city": "San Diego"
+    },
+    "Inaja Memorial Park": {
+        "address": "Inaja Memorial Park, 30828 Julian Rd, Santa Ysabel, CA 92070",
+        "avg_rating": "4.7",
+        "zip": "92070",
+        "categories": "{Park,Tourist attraction}",
+        "city": "Santa Ysabel"
+    },
+    "Mortero Wash (Anza-Borrego State Park\u00ae)": {
+        "address": "Mortero Wash (Anza-Borrego State Park\u00ae), Mortero Canyon Rd, Ocotillo, CA 92259",
+        "avg_rating": "4.8",
+        "zip": "92259",
+        "categories": "{State park}",
+        "city": "Ocotillo"
+    },
+    "National Salute to Bob Hope and the Military": {
+        "address": "National Salute to Bob Hope and the Military, Tuna Wharf, San Diego, CA 92132",
+        "avg_rating": "4.7",
+        "zip": "92132",
+        "categories": "{War memorial,Tourist attraction}",
+        "city": "San Diego"
+    },
+    "Skaggs School of Pharmacy and Pharmaceutical Sciences": {
+        "address": "Skaggs School of Pharmacy and Pharmaceutical Sciences, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.7",
+        "zip": "92093",
+        "categories": "{University department}",
+        "city": "La Jolla"
+    },
+    "Hofmann Architecture": {
+        "address": "Hofmann Architecture, 1221 State St, Suite 12, #92051, Santa Barbara, CA 93103",
+        "avg_rating": "4.4",
+        "zip": "92051",
+        "categories": "{Architect,Construction company,Custom home builder,Interior designer}",
+        "city": "Santa Barbara"
+    },
+    "Mandell Weiss Theatre": {
+        "address": "Mandell Weiss Theatre, 2910 La Jolla Village Dr, La Jolla, CA 92093",
+        "avg_rating": "4.8",
+        "zip": "92093",
+        "categories": "{Performing arts theater}",
+        "city": "La Jolla"
+    },
+    "Love Meadow, National Forest": {
+        "address": "Love Meadow, National Forest, 24935 E Grade Rd, Santa Ysabel, CA 92070",
+        "avg_rating": "4.3",
+        "zip": "92070",
+        "categories": "{Park}",
+        "city": "Santa Ysabel"
+    },
+    "Silvercrest Picnic Grounds at Palomar Mountain State Park": {
+        "address": "Silvercrest Picnic Grounds at Palomar Mountain State Park, 19952 State Park Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.7",
+        "zip": "92060",
+        "categories": "{Picnic ground}",
+        "city": "Palomar Mountain"
+    },
+    "Robinson Auditorium": {
+        "address": "Robinson Auditorium, La Jolla, CA 92093",
+        "avg_rating": "3.9",
+        "zip": "92093",
+        "categories": "{Auditorium}",
+        "city": "La Jolla"
+    },
+    "Caf\u00e9 Ventanas": {
+        "address": "Caf\u00e9 Ventanas, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.1",
+        "zip": "92093",
+        "categories": "{Cafeteria,Restaurant}",
+        "city": "La Jolla"
+    },
+    "Mark V Agee Inc": {
+        "address": "Mark V Agee Inc, 16236 San Dieguito Rd #06, Rancho Santa Fe, CA 92091",
+        "avg_rating": "5",
+        "zip": "92091",
+        "categories": "{Construction company}",
+        "city": "Rancho Santa Fe"
+    },
+    "Big Laguna Trailhead": {
+        "address": "Big Laguna Trailhead, Pacific Crest Trail, Mt Laguna, CA 91948",
+        "avg_rating": "4.9",
+        "zip": "91948",
+        "categories": "{Hiking area,Tourist attraction}",
+        "city": "Mt Laguna"
+    },
+    "Meadows Information Kiosk Trailhead": {
+        "address": "Meadows Information Kiosk Trailhead, Mt Laguna, CA 91948",
+        "avg_rating": "4.8",
+        "zip": "91948",
+        "categories": "{Hiking area}",
+        "city": "Mt Laguna"
+    },
+    "Autoport Naval Amphibious Base": {
+        "address": "Autoport Naval Amphibious Base, 1017 Trident Way, San Diego, CA 92155",
+        "avg_rating": "4.3",
+        "zip": "92155",
+        "categories": "{Gas station}",
+        "city": "San Diego"
+    },
+    "Stuart Collection": {
+        "address": "Stuart Collection, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4",
+        "zip": "92093",
+        "categories": "{Sculpture museum,Tourist attraction}",
+        "city": "La Jolla"
+    },
+    "Coast Citrus Distributors": {
+        "address": "Coast Citrus Distributors, 13855 SW 252nd St, San Diego, CA 92145",
+        "avg_rating": "4.6",
+        "zip": "92145",
+        "categories": "{Distribution service}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "SDSU Softball Stadium": {
+        "address": "SDSU Softball Stadium, Plaza Deportes, San Diego, CA 92182",
+        "avg_rating": "4.2",
+        "zip": "92182",
+        "categories": "{Stadium}",
+        "city": "San Diego"
+    },
+    "Cleveland National Forest": {
+        "address": "Cleveland National Forest, Co Hwy S7, Santa Ysabel, CA 92070",
+        "avg_rating": "4.7",
+        "zip": "92070",
+        "categories": "{National forest,Tourist attraction}",
+        "city": "Santa Ysabel"
+    },
+    "T.C. Worthy Cash & Carry": {
+        "address": "T.C. Worthy Cash & Carry, 405 Tecate Rd, Tecate, CA 91980",
+        "avg_rating": "3.2",
+        "zip": "91980",
+        "categories": "{Convenience store,Grocery store}",
+        "city": "Tecate"
+    },
+    "Pacific Crest Outdoor Equipment": {
+        "address": "Pacific Crest Outdoor Equipment, 8378 Morris Ranch Rd, Mt Laguna, CA 91948",
+        "avg_rating": "5",
+        "zip": "91948",
+        "categories": "{Outdoor furniture store}",
+        "city": "Mt Laguna"
+    },
+    "Cross Armory": {
+        "address": "Cross Armory, San Diego, CA 92166",
+        "avg_rating": "4.7",
+        "zip": "92166",
+        "categories": "{Outdoor sports store}",
+        "city": "San Diego"
+    },
+    "Canines N' Ewe": {
+        "address": "Canines N' Ewe, 37825 Montezuma Valley Rd, Ranchita, CA 92066",
+        "avg_rating": "5",
+        "zip": "92066",
+        "categories": "{Dog trainer}",
+        "city": "Ranchita"
+    },
+    "San Diego Spiritual Retreat Center": {
+        "address": "San Diego Spiritual Retreat Center, 5049 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "3.5",
+        "zip": "92070",
+        "categories": "{Retreat center,Hotel,Meditation center,Wedding chapel,Wedding service,Wedding venue,Yoga studio}",
+        "city": "Santa Ysabel"
+    },
+    "Pala Casino RV Resort": {
+        "address": "Pala Casino RV Resort, 11042 CA-76, Pala, CA 92059",
+        "avg_rating": "4.6",
+        "zip": "92059",
+        "categories": "{RV park}",
+        "city": "Pala"
+    },
+    "Aztec Athletic Center": {
+        "address": "Aztec Athletic Center, 5490 Aztec Walk, San Diego, CA 92182",
+        "avg_rating": "4.9",
+        "zip": "92182",
+        "categories": "{Sports complex,Association or organization}",
+        "city": "San Diego"
+    },
+    "Fallen Star": {
+        "address": "Fallen Star, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.7",
+        "zip": "92093",
+        "categories": "{Sculpture,Tourist attraction}",
+        "city": "La Jolla"
+    },
+    "Capacity Construction Inc": {
+        "address": "Capacity Construction Inc, San Diego, CA 92142",
+        "avg_rating": "3",
+        "zip": "92142",
+        "categories": "{Janitorial service}",
+        "city": "San Diego"
+    },
+    "K2 Staffing": {
+        "address": "K2 Staffing, 1700 Aviara Pkwy Unit 130474, Carlsbad, CA 92013",
+        "avg_rating": "5",
+        "zip": "92013",
+        "categories": "{Talent agency,Computer security service,Computer support and services,Employment agency,Employment center,Employment consultant,Employment search service,Human resource consulting,Recruiter}",
+        "city": "Carlsbad"
+    },
+    "Ramco Petroleum": {
+        "address": "Ramco Petroleum, 447 Tecate Rd, Tecate, CA 91980",
+        "avg_rating": "2.9",
+        "zip": "91980",
+        "categories": "{Propane supplier}",
+        "city": "Tecate"
+    },
+    "Carrizo Stage Station Site": {
+        "address": "Carrizo Stage Station Site, Ocotillo, CA 92259",
+        "avg_rating": "4.8",
+        "zip": "92259",
+        "categories": "{Historical landmark,Tourist attraction}",
+        "city": "Ocotillo"
+    },
+    "Miramar Fuel Farm": {
+        "address": "Miramar Fuel Farm, 8600 Boyington Rd, San Diego, CA 92145",
+        "avg_rating": "3.9",
+        "zip": "92145",
+        "categories": "{Gas station}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Margaret L. Sellers Processing and Distribution Center": {
+        "address": "Margaret L. Sellers Processing and Distribution Center, 11251 Rancho Carmel Dr, San Diego, CA 92199",
+        "avg_rating": "3",
+        "zip": "92199",
+        "categories": "{Warehouse,Post office}",
+        "city": "San Diego"
+    },
+    "Imperial Valley Substation": {
+        "address": "Imperial Valley Substation, Ocotillo, CA 92259",
+        "avg_rating": "5",
+        "zip": "92259",
+        "categories": "{Power station}",
+        "city": "Ocotillo"
+    },
+    "Geisel Library": {
+        "address": "Geisel Library, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.7",
+        "zip": "92093",
+        "categories": "{University library}",
+        "city": "La Jolla"
+    },
+    "Montezuma Valley Market": {
+        "address": "Montezuma Valley Market, 37552 Montezuma Valley Rd, Ranchita, CA 92066",
+        "avg_rating": "4.7",
+        "zip": "92066",
+        "categories": "{Convenience store,Beer garden,Tourist attraction}",
+        "city": "Ranchita"
+    },
+    "Inspiration Point": {
+        "address": "Inspiration Point, Inspiration Point Way, San Diego, CA 92134",
+        "avg_rating": "4.6",
+        "zip": "92134",
+        "categories": "{Hiking area,Tourist attraction}",
+        "city": "San Diego"
+    },
+    "SDSU Transit Center": {
+        "address": "SDSU Transit Center, Aztec Walk, San Diego, CA 92182",
+        "avg_rating": "4.3",
+        "zip": "92182",
+        "categories": "{Transit station,Bus stop,Light rail station}",
+        "city": "San Diego"
+    },
+    "Lake Miramar": {
+        "address": "Lake Miramar, San Diego, CA 92093",
+        "avg_rating": "4.7",
+        "zip": "92093",
+        "categories": "{City park}",
+        "city": "San Diego"
+    },
+    "Pala Casino": {
+        "address": "Pala Casino, 11154 CA-76, Pala, CA 92059",
+        "avg_rating": "4.2",
+        "zip": "92059",
+        "categories": "{Casino}",
+        "city": "Pala"
+    },
+    "Observatory Campground": {
+        "address": "Observatory Campground, Observatory Campground Co Hwy S6, State Park Rd #21485, Palomar Mountain, CA 92060",
+        "avg_rating": "4.5",
+        "zip": "92060",
+        "categories": "{Campground}",
+        "city": "Palomar Mountain"
+    },
+    "Estate Sale Professionals": {
+        "address": "Estate Sale Professionals, Seagaze Dr box 141, Oceanside, CA 92049",
+        "avg_rating": "3",
+        "zip": "92049",
+        "categories": "{Estate appraiser,Business related,Estate liquidator}",
+        "city": "Oceanside"
+    },
+    "KPBS Public Media": {
+        "address": "KPBS Public Media, Copley Telecommunications Center, 5200 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "4.3",
+        "zip": "92182",
+        "categories": "{Television station,News service,Non-profit organization,Radio broadcaster}",
+        "city": "San Diego"
+    },
+    "The Barn": {
+        "address": "The Barn, San Diego, CA 92145",
+        "avg_rating": "4.5",
+        "zip": "92145",
+        "categories": "{Gym}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Tamarack Apartments": {
+        "address": "Tamarack Apartments, San Diego, CA 92161",
+        "avg_rating": "4.3",
+        "zip": "92161",
+        "categories": "{Student dormitory}",
+        "city": "San Diego"
+    },
+    "John Muir Field": {
+        "address": "John Muir Field, San Diego, CA 92161",
+        "avg_rating": "4.6",
+        "zip": "92161",
+        "categories": "{Athletic field}",
+        "city": "San Diego"
+    },
+    "Pala Skate Park": {
+        "address": "Pala Skate Park, 12196 Pala Mission Rd Bldg C, Pala, CA 92059",
+        "avg_rating": "4.2",
+        "zip": "92059",
+        "categories": "{Skateboard park}",
+        "city": "Pala"
+    },
+    "Goody's Place and Market": {
+        "address": "Goody's Place and Market, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.2",
+        "zip": "92093",
+        "categories": "{Restaurant}",
+        "city": "La Jolla"
+    },
+    "Rancho Santa Fe Cosmetic & Family Dentistry": {
+        "address": "Rancho Santa Fe Cosmetic & Family Dentistry, 5531 Cancha de Golf #102, Rancho Santa Fe, CA 92091",
+        "avg_rating": "5",
+        "zip": "92091",
+        "categories": "{Dentist,Cosmetic dentist}",
+        "city": "Rancho Santa Fe"
+    },
+    "Desert View Tower": {
+        "address": "Desert View Tower, In-Ko-Pah Park Rd, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.5",
+        "zip": "91934",
+        "categories": "{Historical landmark,Gift shop,Tourist attraction,Yoga retreat center}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Rubio's Coastal Grill": {
+        "address": "Rubio's Coastal Grill, Building - SDSU, East Commons, 5500 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "3.9",
+        "zip": "92182",
+        "categories": "{Seafood restaurant,Caterer,Family restaurant,Mexican restaurant,Restaurant,Vegan restaurant,Vegetarian restaurant}",
+        "city": "San Diego"
+    },
+    "SDSU College of Professional Studies & Fine Arts": {
+        "address": "SDSU College of Professional Studies & Fine Arts, Campanile Mall, San Diego, CA 92182",
+        "avg_rating": "5",
+        "zip": "92182",
+        "categories": "{University department}",
+        "city": "San Diego"
+    },
+    "Bombay Coast": {
+        "address": "Bombay Coast, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.1",
+        "zip": "92093",
+        "categories": "{Indian restaurant,Asian restaurant}",
+        "city": "La Jolla"
+    },
+    "Taffy 3 Memorial": {
+        "address": "Taffy 3 Memorial, 1198 W G St, San Diego, CA 92132",
+        "avg_rating": "4.7",
+        "zip": "92132",
+        "categories": "{War memorial}",
+        "city": "San Diego"
+    },
+    "Kat\u2019s Yarn & Craft Cottage": {
+        "address": "Kat\u2019s Yarn & Craft Cottage, 4367 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "4.4",
+        "zip": "92070",
+        "categories": "{Craft store}",
+        "city": "Santa Ysabel"
+    },
+    "Coffee Amore": {
+        "address": "Coffee Amore, 35008 Pala Temecula Rd, Pala, CA 92059",
+        "avg_rating": "3.9",
+        "zip": "92059",
+        "categories": "{Bistro}",
+        "city": "Pala"
+    },
+    "Wilderness Gardens Preserve": {
+        "address": "Wilderness Gardens Preserve, 14209 CA-76, Pala, CA 92059",
+        "avg_rating": "4.6",
+        "zip": "92059",
+        "categories": "{Nature preserve,Garden,Tourist attraction}",
+        "city": "Pala"
+    },
+    "Steampunk Farms Rescue Barn 501c3 Farmed Animal Sanctuary": {
+        "address": "Steampunk Farms Rescue Barn 501c3 Farmed Animal Sanctuary, 36013 Old Wilson Rd, Ranchita, CA 92066",
+        "avg_rating": "4.8",
+        "zip": "92066",
+        "categories": "{Animal rescue service,Animal protection organization,Animal shelter}",
+        "city": "Ranchita"
+    },
+    "Jasper Trail": {
+        "address": "Jasper Trail, Ranchita, CA 92066",
+        "avg_rating": "4.8",
+        "zip": "92066",
+        "categories": "{Hiking area,Tourist attraction}",
+        "city": "Ranchita"
+    },
+    "Domelands Trailhead": {
+        "address": "Domelands Trailhead, Ocotillo, CA 92259",
+        "avg_rating": "4.7",
+        "zip": "92259",
+        "categories": "{Hiking area,Tourist attraction}",
+        "city": "Ocotillo"
+    },
+    "Stella Public House": {
+        "address": "Stella Public House, 250 N City Dr, San Marcos, CA 92096",
+        "avg_rating": "4.7",
+        "zip": "92096",
+        "categories": "{Pizza restaurant}",
+        "city": "San Marcos"
+    },
+    "Navy Jobs San Diego (NRD San Diego)": {
+        "address": "Navy Jobs San Diego (NRD San Diego), 33050 Nixie Way Building 17, San Diego, CA 92147",
+        "avg_rating": "4.1",
+        "zip": "92147",
+        "categories": "{Military recruiting office,Business administration service}",
+        "city": "San Diego"
+    },
+    "James' Place Prime Seafood Sushi": {
+        "address": "James' Place Prime Seafood Sushi, 2910 La Jolla Village Dr, La Jolla, CA 92093",
+        "avg_rating": "4.5",
+        "zip": "92093",
+        "categories": "{Sushi restaurant,Restaurant}",
+        "city": "La Jolla"
+    },
+    "Black Hall": {
+        "address": "Black Hall, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4",
+        "zip": "92093",
+        "categories": "{Student dormitory}",
+        "city": "La Jolla"
+    },
+    "64 Degrees": {
+        "address": "64 Degrees, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.9",
+        "zip": "92093",
+        "categories": "{College}",
+        "city": "La Jolla"
+    },
+    "CSUSM University Bookstore": {
+        "address": "CSUSM University Bookstore, 333 S Twin Oaks Valley Rd, San Marcos, CA 92096",
+        "avg_rating": "4.6",
+        "zip": "92096",
+        "categories": "{Book store}",
+        "city": "San Marcos"
+    },
+    "East San Digeo substation": {
+        "address": "East San Digeo substation, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "5",
+        "zip": "91934",
+        "categories": "{Electrical substation}",
+        "city": "Jacumba Hot Springs"
+    },
+    "West End Plaza": {
+        "address": "West End Plaza, West Commons, Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "4.7",
+        "zip": "92182",
+        "categories": "{Food court}",
+        "city": "San Diego"
+    },
+    "Health IQ": {
+        "address": "Health IQ, 3223 Greyling Dr # 231115, San Diego, CA 92193",
+        "avg_rating": "3.4",
+        "zip": "92193",
+        "categories": "{Insurance broker}",
+        "city": "San Diego"
+    },
+    "Consolidated Bachelor Qtrs": {
+        "address": "Consolidated Bachelor Qtrs, Schilt Ave, San Diego, CA 92145",
+        "avg_rating": "3.4",
+        "zip": "92145",
+        "categories": "{Lodging}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "James Property": {
+        "address": "James Property, Kumeyaay Hwy, Ocotillo, CA 92259",
+        "avg_rating": "5",
+        "zip": "92259",
+        "categories": "{Wedding venue}",
+        "city": "Ocotillo"
+    },
+    "Marshall Community Garden": {
+        "address": "Marshall Community Garden, San Diego, CA 92161",
+        "avg_rating": "5",
+        "zip": "92161",
+        "categories": "{Garden}",
+        "city": "San Diego"
+    },
+    "Baja-Mex Video": {
+        "address": "Baja-Mex Video, 433 Tecate Rd, Tecate, CA 91980",
+        "avg_rating": "3.8",
+        "zip": "91980",
+        "categories": "{Mailbox rental service}",
+        "city": "Tecate"
+    },
+    "Carrisito Ranch": {
+        "address": "Carrisito Ranch, 25580 CA-79, Santa Ysabel, CA 92070",
+        "avg_rating": "4.4",
+        "zip": "92070",
+        "categories": "{Ranch}",
+        "city": "Santa Ysabel"
+    },
+    "San Diego State University": {
+        "address": "San Diego State University, 5500 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "4.5",
+        "zip": "92182",
+        "categories": "{Public university,University}",
+        "city": "San Diego"
+    },
+    "Gilman Dr & Myers Dr": {
+        "address": "Gilman Dr & Myers Dr, San Diego, CA 92161",
+        "avg_rating": "4.6",
+        "zip": "92161",
+        "categories": "{Bus stop}",
+        "city": "San Diego"
+    },
+    "Oggi's Pizza Express": {
+        "address": "Oggi's Pizza Express, 5550 Campanile Dr #150, San Diego, CA 92182",
+        "avg_rating": "4.1",
+        "zip": "92182",
+        "categories": "{Pizza restaurant,Bar,Brewery,Brewpub,Family restaurant,Pizza Takeout,Restaurant,Sports bar}",
+        "city": "San Diego"
+    },
+    "Himalaya Mine": {
+        "address": "Himalaya Mine, California 92070",
+        "avg_rating": "3.4",
+        "zip": "92070",
+        "categories": "{Natural feature}",
+        "city": ""
+    },
+    "UCSD Visual Arts Facility": {
+        "address": "UCSD Visual Arts Facility, 252 Russell Ln, La Jolla, CA 92093",
+        "avg_rating": "4.7",
+        "zip": "92093",
+        "categories": "{Art school}",
+        "city": "La Jolla"
+    },
+    "Horizon Christian Fellowship": {
+        "address": "Horizon Christian Fellowship, 6365 El Apajo Rd, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.7",
+        "zip": "92091",
+        "categories": "{Church}",
+        "city": "Rancho Santa Fe"
+    },
+    "Natural Sciences Building": {
+        "address": "Natural Sciences Building, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.4",
+        "zip": "92093",
+        "categories": "{University department}",
+        "city": "La Jolla"
+    },
+    "Pine Valley Trailer Park": {
+        "address": "Pine Valley Trailer Park, 27521 Old Hwy 80, Guatay, CA 91931",
+        "avg_rating": "3.1",
+        "zip": "91931",
+        "categories": "{Lodging}",
+        "city": "Guatay"
+    },
+    "Thyme In the Ranch": {
+        "address": "Thyme In the Ranch, 16905 Avenida De Acacias, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.7",
+        "zip": "92091",
+        "categories": "{American restaurant,Bakery,Cafe,Restaurant}",
+        "city": "Rancho Santa Fe"
+    },
+    "Subway": {
+        "address": "Subway, Balboa Hospital, 34800 Bob Wilson Dr, San Diego, CA 92134",
+        "avg_rating": "4",
+        "zip": "92134",
+        "categories": "{Sandwich shop,Caterer,Fast food restaurant,Takeout Restaurant,Restaurant}",
+        "city": "San Diego"
+    },
+    "VA Medical Center-San Diego: Krupnak Michael A DDS": {
+        "address": "VA Medical Center-San Diego: Krupnak Michael A DDS, 3350 La Jolla Village Dr, San Diego, CA 92161",
+        "avg_rating": "5",
+        "zip": "92161",
+        "categories": "{Dentist}",
+        "city": "San Diego"
+    },
+    "Pepper Canyon Market": {
+        "address": "Pepper Canyon Market, 742 Eleanor Roosevelt Lane, La Jolla, CA 92093",
+        "avg_rating": "5",
+        "zip": "92093",
+        "categories": "{Grocery store}",
+        "city": "La Jolla"
+    },
+    "Lake Henshaw Resort": {
+        "address": "Lake Henshaw Resort, 26439 CA-76, Santa Ysabel, CA 92070",
+        "avg_rating": "4.1",
+        "zip": "92070",
+        "categories": "{Resort hotel}",
+        "city": "Santa Ysabel"
+    },
+    "Dunkin'": {
+        "address": "Dunkin', 8635 Obregon Ave, San Diego, CA 92145",
+        "avg_rating": "3.6",
+        "zip": "92145",
+        "categories": "{Coffee shop,Bagel shop,Bakery,Breakfast restaurant,Donut shop,Fast food restaurant,Takeout Restaurant}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Corte Madera Valley": {
+        "address": "Corte Madera Valley, California 91931",
+        "avg_rating": "5",
+        "zip": "91931",
+        "categories": "{Ravine}",
+        "city": ""
+    },
+    "Foodworx": {
+        "address": "Foodworx, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.5",
+        "zip": "92093",
+        "categories": "{Restaurant}",
+        "city": "La Jolla"
+    },
+    "The Halal Shack": {
+        "address": "The Halal Shack, East Commons, Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "4.3",
+        "zip": "92182",
+        "categories": "{Restaurant}",
+        "city": "San Diego"
+    },
+    "John Muir College": {
+        "address": "John Muir College, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.4",
+        "zip": "92093",
+        "categories": "{College,University}",
+        "city": "La Jolla"
+    },
+    "College of Education": {
+        "address": "College of Education, 5500 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "4",
+        "zip": "92182",
+        "categories": "{University}",
+        "city": "San Diego"
+    },
+    "Jackson's Hideaway RV Park": {
+        "address": "Jackson's Hideaway RV Park, 121 V\u00eda De Coyote, Ocotillo, CA 92259",
+        "avg_rating": "4.6",
+        "zip": "92259",
+        "categories": "{Campground}",
+        "city": "Ocotillo"
+    },
+    "Miramar CBQ": {
+        "address": "Miramar CBQ, 19920 Schilt Ave, San Diego, CA 92145",
+        "avg_rating": "4",
+        "zip": "92145",
+        "categories": "{Lodging}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Guatay Mountain": {
+        "address": "Guatay Mountain, California 91931",
+        "avg_rating": "5",
+        "zip": "91931",
+        "categories": "{Mountain peak}",
+        "city": ""
+    },
+    "Nano3 Cleanroom": {
+        "address": "Nano3 Cleanroom, Engineer Ln, La Jolla, CA 92093",
+        "avg_rating": "5",
+        "zip": "92093",
+        "categories": "{Laboratory}",
+        "city": "La Jolla"
+    },
+    "Chipotle Mexican Grill": {
+        "address": "Chipotle Mexican Grill, 2750 Bauer Rd, San Diego, CA 92145",
+        "avg_rating": "4.3",
+        "zip": "92145",
+        "categories": "{Mexican restaurant,Caterer,Fast food restaurant}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Coral Stone": {
+        "address": "Coral Stone, 440 Tecate Rd, Tecate, CA 91980",
+        "avg_rating": "3.3",
+        "zip": "91980",
+        "categories": "{Stone supplier}",
+        "city": "Tecate"
+    },
+    "Pala Rey Ranch Produce": {
+        "address": "Pala Rey Ranch Produce, 9461 CA-76, Pala, CA 92059",
+        "avg_rating": "4.9",
+        "zip": "92059",
+        "categories": "{Fruit and vegetable store}",
+        "city": "Pala"
+    },
+    "Art of Espresso": {
+        "address": "Art of Espresso, Mandeville Center, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.8",
+        "zip": "92093",
+        "categories": "{Coffee shop}",
+        "city": "La Jolla"
+    },
+    "Tony Gwynn Stadium": {
+        "address": "Tony Gwynn Stadium, Plaza Deportes, San Diego, CA 92182",
+        "avg_rating": "4.8",
+        "zip": "92182",
+        "categories": "{Stadium}",
+        "city": "San Diego"
+    },
+    "Palm Canyon Wash": {
+        "address": "Palm Canyon Wash, California 92259",
+        "avg_rating": "5",
+        "zip": "92259",
+        "categories": "{River}",
+        "city": ""
+    },
+    "Monument Peak": {
+        "address": "Monument Peak, Mt Laguna, CA 91948",
+        "avg_rating": "4.9",
+        "zip": "91948",
+        "categories": "{Hiking area}",
+        "city": "Mt Laguna"
+    },
+    "Kevin Viner Productions LLC": {
+        "address": "Kevin Viner Productions LLC, Carlsbad, CA 92018",
+        "avg_rating": "5",
+        "zip": "92018",
+        "categories": "{Magician}",
+        "city": "Carlsbad"
+    },
+    "Pala Casino Spa Resort": {
+        "address": "Pala Casino Spa Resort, 11154 CA-76, Pala, CA 92059",
+        "avg_rating": "4.2",
+        "zip": "92059",
+        "categories": "{Casino,Resort hotel}",
+        "city": "Pala"
+    },
+    "Marshall Upper Apartments G": {
+        "address": "Marshall Upper Apartments G, San Diego, CA 92161",
+        "avg_rating": "4.2",
+        "zip": "92161",
+        "categories": "{Student dormitory}",
+        "city": "San Diego"
+    },
+    "De Anza Springs Resort": {
+        "address": "De Anza Springs Resort, 1951 Carrizo Gorge Rd, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.4",
+        "zip": "91934",
+        "categories": "{Resort hotel}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Rubio's": {
+        "address": "Rubio's, Price Center, 9500 Gilman Dr, Food Ct, La Jolla, CA 92093",
+        "avg_rating": "4",
+        "zip": "92093",
+        "categories": "{Seafood restaurant,Caterer,Family restaurant,Mexican restaurant,Restaurant,Vegan restaurant,Vegetarian restaurant}",
+        "city": "La Jolla"
+    },
+    "Pierside Market": {
+        "address": "Pierside Market, Tuna Ln, San Diego, CA 92132",
+        "avg_rating": "5",
+        "zip": "92132",
+        "categories": "{Farmers' market}",
+        "city": "San Diego"
+    },
+    "OptumRx Mail Order Pharmacy": {
+        "address": "OptumRx Mail Order Pharmacy, San Diego, CA 92150",
+        "avg_rating": "1.4",
+        "zip": "92150",
+        "categories": "{Pharmacy}",
+        "city": "San Diego"
+    },
+    "University of California San Diego": {
+        "address": "University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.5",
+        "zip": "92093",
+        "categories": "{University}",
+        "city": "La Jolla"
+    },
+    "Pala Resort Clubhouse and Pool": {
+        "address": "Pala Resort Clubhouse and Pool, 11042 CA-76, Pala, CA 92059",
+        "avg_rating": "5",
+        "zip": "92059",
+        "categories": "{Club}",
+        "city": "Pala"
+    },
+    "The house of Worker's Compensation": {
+        "address": "The house of Worker's Compensation, 2515 Camino del Rio S #240, San Diego, CA 92198",
+        "avg_rating": "4.7",
+        "zip": "92198",
+        "categories": "{Law firm}",
+        "city": "San Diego"
+    },
+    "Lemongrass Southeast Asian Cuisine": {
+        "address": "Lemongrass Southeast Asian Cuisine, 9700 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.9",
+        "zip": "92093",
+        "categories": "{Thai restaurant}",
+        "city": "La Jolla"
+    },
+    "Pacific Sotheby's International Realty": {
+        "address": "Pacific Sotheby's International Realty, 16915 Avenida De Acacias, Rancho Santa Fe, CA 92091",
+        "avg_rating": "5",
+        "zip": "92091",
+        "categories": "{Real estate agency}",
+        "city": "Rancho Santa Fe"
+    },
+    "Palomar Observatory educational center": {
+        "address": "Palomar Observatory educational center, 35899 Canfield Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "5",
+        "zip": "92060",
+        "categories": "{Museum}",
+        "city": "Palomar Mountain"
+    },
+    "Richard J. Donovan Correctional Facility": {
+        "address": "Richard J. Donovan Correctional Facility, 480 Alta Rd, San Diego, CA 92179",
+        "avg_rating": "3",
+        "zip": "92179",
+        "categories": "{Prison}",
+        "city": "San Diego"
+    },
+    "Seed & Sprout": {
+        "address": "Seed & Sprout, University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.7",
+        "zip": "92093",
+        "categories": "{Restaurant}",
+        "city": "La Jolla"
+    },
+    "UC San Diego Police Department": {
+        "address": "UC San Diego Police Department, 2 Greenhouse Ln, La Jolla, CA 92093, United States",
+        "avg_rating": "3.4",
+        "zip": "92093",
+        "categories": "{Police department}",
+        "city": "La Jolla"
+    },
+    "067 Eatery": {
+        "address": "067 Eatery, 16236 San Dieguito Rd, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.8",
+        "zip": "92091",
+        "categories": "{Restaurant}",
+        "city": "Rancho Santa Fe"
+    },
+    "ACE Parking": {
+        "address": "ACE Parking, 960 The, San Diego, CA 92132",
+        "avg_rating": "4.4",
+        "zip": "92132",
+        "categories": "{Parking lot}",
+        "city": "San Diego"
+    },
+    "Del Rayo Village Shopping Center": {
+        "address": "Del Rayo Village Shopping Center, 16077 - 16091, San Dieguito Rd, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.6",
+        "zip": "92091",
+        "categories": "{Shopping mall}",
+        "city": "Rancho Santa Fe"
+    },
+    "Dr. Charles H. Choe, MD": {
+        "address": "Dr. Charles H. Choe, MD, 3350 La Jolla Village Dr, San Diego, CA 92161",
+        "avg_rating": "5",
+        "zip": "92161",
+        "categories": "{Doctor}",
+        "city": "San Diego"
+    },
+    "Bonner Hall": {
+        "address": "Bonner Hall, Eucalyptus Grove Ln, San Diego, CA 92161",
+        "avg_rating": "3",
+        "zip": "92161",
+        "categories": "{Research foundation}",
+        "city": "San Diego"
+    },
+    "Osterkamp Trucking, Inc.": {
+        "address": "Osterkamp Trucking, Inc., 3810 W Evan Hewes Hwy, Ocotillo, CA 92259",
+        "avg_rating": "3.7",
+        "zip": "92259",
+        "categories": "{Trucking company}",
+        "city": "Ocotillo"
+    },
+    "Naval Hospital Pharmacy": {
+        "address": "Naval Hospital Pharmacy, 34800 Bob Wilson Dr, San Diego, CA 92134",
+        "avg_rating": "1.9",
+        "zip": "92134",
+        "categories": "{Pharmacy}",
+        "city": "San Diego"
+    },
+    "Julian Wellness Center": {
+        "address": "Julian Wellness Center, 21979 CA-79, Santa Ysabel, CA 92070",
+        "avg_rating": "4.9",
+        "zip": "92070",
+        "categories": "{Wellness center,Acupuncturist,Facial spa,Massage spa,Massage therapist,Sauna,Skin care clinic}",
+        "city": "Santa Ysabel"
+    },
+    "The Bridges at Rancho Santa Fe": {
+        "address": "The Bridges at Rancho Santa Fe, 18550 Seven Bridges Road, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.7",
+        "zip": "92091",
+        "categories": "{Golf course}",
+        "city": "Rancho Santa Fe"
+    },
+    "Pala Transfer Station and Recycling": {
+        "address": "Pala Transfer Station and Recycling, 12802 CA-76, Pala, CA 92059",
+        "avg_rating": "4",
+        "zip": "92059",
+        "categories": "{Recycling center}",
+        "city": "Pala"
+    },
+    "El Prado Group Campground": {
+        "address": "El Prado Group Campground, Sunrise Hwy, Mt Laguna, CA 91948",
+        "avg_rating": "4.6",
+        "zip": "91948",
+        "categories": "{Campground}",
+        "city": "Mt Laguna"
+    },
+    "Judith A Bassett Canid Education & Conservation Center": {
+        "address": "Judith A Bassett Canid Education & Conservation Center, Santa Ysabel, CA 92070",
+        "avg_rating": "5",
+        "zip": "92070",
+        "categories": "{Animal park}",
+        "city": "Santa Ysabel"
+    },
+    "Laguna Campground": {
+        "address": "Laguna Campground, Meadow Trailer Loop, Mt Laguna, CA 91948",
+        "avg_rating": "5",
+        "zip": "91948",
+        "categories": "{Campground}",
+        "city": "Mt Laguna"
+    },
+    "Pala Casino Parking Lot": {
+        "address": "Pala Casino Parking Lot, California 92059",
+        "avg_rating": "4.5",
+        "zip": "92059",
+        "categories": "{Bus stop}",
+        "city": ""
+    },
+    "Inaja Memorial Picnic Site": {
+        "address": "Inaja Memorial Picnic Site, 30828 Julian Rd, Santa Ysabel, CA 92070",
+        "avg_rating": "4.6",
+        "zip": "92070",
+        "categories": "{Picnic ground}",
+        "city": "Santa Ysabel"
+    },
+    "California Mountain Bakery": {
+        "address": "California Mountain Bakery, 4367 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "4.9",
+        "zip": "92070",
+        "categories": "{Bakery}",
+        "city": "Santa Ysabel"
+    },
+    "Rhino Sports of San Diego": {
+        "address": "Rhino Sports of San Diego, Escondido, CA 92030",
+        "avg_rating": "3",
+        "zip": "92030",
+        "categories": "{Batting cage center}",
+        "city": "Escondido"
+    },
+    "L&L Hawaiian Barbecue": {
+        "address": "L&L Hawaiian Barbecue, 2660 Antares Dr #B, San Diego, CA 92145",
+        "avg_rating": "3.8",
+        "zip": "92145",
+        "categories": "{Hawaiian restaurant,Barbecue restaurant}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Imperial Valley Aggregates": {
+        "address": "Imperial Valley Aggregates, 1952 Shell Canyon Rd, Ocotillo, CA 92259",
+        "avg_rating": "3.8",
+        "zip": "92259",
+        "categories": "{Rock shop}",
+        "city": "Ocotillo"
+    },
+    "Price Center at UCSD": {
+        "address": "Price Center at UCSD, Price Center, La Jolla, CA 92093",
+        "avg_rating": "4.8",
+        "zip": "92093",
+        "categories": "{School center}",
+        "city": "La Jolla"
+    },
+    "Santa Ysabel Mission": {
+        "address": "Santa Ysabel Mission, 23013 CA-79, Santa Ysabel, CA 92070",
+        "avg_rating": "4.7",
+        "zip": "92070",
+        "categories": "{Religious organization}",
+        "city": "Santa Ysabel"
+    },
+    "THX Transport LLC": {
+        "address": "THX Transport LLC, 468 Alta Rd suite b, San Diego, CA 92179",
+        "avg_rating": "4",
+        "zip": "92179",
+        "categories": "{Trucking company,Logistics service,Transportation service}",
+        "city": "San Diego"
+    },
+    "Coyote Mountains Wilderness": {
+        "address": "Coyote Mountains Wilderness, California 92259",
+        "avg_rating": "3.7",
+        "zip": "92259",
+        "categories": "",
+        "city": ""
+    },
+    "Pro Air Mechanical": {
+        "address": "Pro Air Mechanical, Spring Valley, CA 91979",
+        "avg_rating": "3.7",
+        "zip": "91979",
+        "categories": "{Air conditioning contractor}",
+        "city": "Spring Valley"
+    },
+    "Doane Valley Natural Preserve": {
+        "address": "Doane Valley Natural Preserve, Palomar Mountain, CA 92060",
+        "avg_rating": "5",
+        "zip": "92060",
+        "categories": "{Park}",
+        "city": "Palomar Mountain"
+    },
+    "Laguna Mountain Visitor Center": {
+        "address": "Laguna Mountain Visitor Center, Los Huecos Rd, Mt Laguna, CA 91948",
+        "avg_rating": "4.6",
+        "zip": "91948",
+        "categories": "{Tourist information center}",
+        "city": "Mt Laguna"
+    },
+    "The Bistro at the Strand": {
+        "address": "The Bistro at the Strand, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.8",
+        "zip": "92093",
+        "categories": "{Asian fusion restaurant,Asian restaurant,Sushi restaurant}",
+        "city": "La Jolla"
+    },
+    "San Diego County Library \u2013 Potrero Branch": {
+        "address": "San Diego County Library \u2013 Potrero Branch, 24883 Potrero Valley Rd, Potrero, CA 91963",
+        "avg_rating": "4.3",
+        "zip": "91963",
+        "categories": "{Public library}",
+        "city": "Potrero"
+    },
+    "T. Denny Sanford Medical Education and Telemedicine Center": {
+        "address": "T. Denny Sanford Medical Education and Telemedicine Center, La Jolla, CA 92093",
+        "avg_rating": "5",
+        "zip": "92093",
+        "categories": "{University}",
+        "city": "La Jolla"
+    },
+    "Rancho Del Lago": {
+        "address": "Rancho Del Lago, 6606 El Camino Del N, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4",
+        "zip": "92091",
+        "categories": "{Association or organization}",
+        "city": "Rancho Santa Fe"
+    },
+    "Raney Ranch Retrievers": {
+        "address": "Raney Ranch Retrievers, 26352 Eagle Gap Rd, Santa Ysabel, CA 92070",
+        "avg_rating": "5",
+        "zip": "92070",
+        "categories": "{Dog trainer,Dog breeder,Kennel,Pet boarding service,Ranch}",
+        "city": "Santa Ysabel"
+    },
+    "Coyote's Flying Saucer Retrieval and Repair Service": {
+        "address": "Coyote's Flying Saucer Retrieval and Repair Service, 5 In-Ko-Pah Park Rd, Ocotillo, CA 92259",
+        "avg_rating": "4.6",
+        "zip": "92259",
+        "categories": "{Tourist attraction}",
+        "city": "Ocotillo"
+    },
+    "Country Squire Gifts & Linens": {
+        "address": "Country Squire Gifts & Linens, 6009 Paseo Delicias C, Rancho Santa Fe, CA 92091",
+        "avg_rating": "5",
+        "zip": "92091",
+        "categories": "{Gift shop}",
+        "city": "Rancho Santa Fe"
+    },
+    "Fry Creek Campground": {
+        "address": "Fry Creek Campground, Co Hwy S6, Palomar Mountain, CA 92060",
+        "avg_rating": "4.2",
+        "zip": "92060",
+        "categories": "{Campground}",
+        "city": "Palomar Mountain"
+    },
+    "All Star Gen Insurance": {
+        "address": "All Star Gen Insurance, San Diego, CA 92150",
+        "avg_rating": "2.2",
+        "zip": "92150",
+        "categories": "{Insurance agency}",
+        "city": "San Diego"
+    },
+    "San Luis Rey Picnic Area": {
+        "address": "San Luis Rey Picnic Area, CA-76, Santa Ysabel, CA 92070",
+        "avg_rating": "4.7",
+        "zip": "92070",
+        "categories": "{Picnic ground}",
+        "city": "Santa Ysabel"
+    },
+    "J J Septic Services": {
+        "address": "J J Septic Services, 2576, Vista, CA 92085",
+        "avg_rating": "2.1",
+        "zip": "92085",
+        "categories": "{Septic system service,Plumber,Sewage disposal service}",
+        "city": "Vista"
+    },
+    "Horse Heaven Group Campground": {
+        "address": "Horse Heaven Group Campground, Pacific Crest Trail, Mt Laguna, CA 91948",
+        "avg_rating": "4.9",
+        "zip": "91948",
+        "categories": "{Campground}",
+        "city": "Mt Laguna"
+    },
+    "Auto Skills Center": {
+        "address": "Auto Skills Center, 6673, Miramar Ct, San Diego, CA 92145",
+        "avg_rating": "4.3",
+        "zip": "92145",
+        "categories": "{Auto repair shop}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Rita Atkinson Residences": {
+        "address": "Rita Atkinson Residences, 9450 Gilman Dr, La Jolla, CA 92092",
+        "avg_rating": "4.4",
+        "zip": "92092",
+        "categories": "{Student dormitory}",
+        "city": "La Jolla"
+    },
+    "SPAWAR Systems Center Pacific": {
+        "address": "SPAWAR Systems Center Pacific, 53560 Hull St, San Diego, CA 92152",
+        "avg_rating": "4.5",
+        "zip": "92152",
+        "categories": "{Research foundation}",
+        "city": "San Diego"
+    },
+    "Pacific Soul": {
+        "address": "Pacific Soul, San Diego, CA 92132",
+        "avg_rating": "5",
+        "zip": "92132",
+        "categories": "{Sculpture}",
+        "city": "San Diego"
+    },
+    "The Zone": {
+        "address": "The Zone, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.2",
+        "zip": "92093",
+        "categories": "{Community health centre}",
+        "city": "La Jolla"
+    },
+    "Mind Magick Creations (artisan)": {
+        "address": "Mind Magick Creations (artisan), San Diego, CA 92132",
+        "avg_rating": "5",
+        "zip": "92132",
+        "categories": "{Artist,Graphic designer}",
+        "city": "San Diego"
+    },
+    "PCT Water Cache": {
+        "address": "PCT Water Cache, Ranchita, CA 92066",
+        "avg_rating": "5",
+        "zip": "92066",
+        "categories": "{Grocery store}",
+        "city": "Ranchita"
+    },
+    "Miramar International Airport": {
+        "address": "Miramar International Airport, MCAS Miramar (NKX, Sparrow Rd, San Diego, CA 92145",
+        "avg_rating": "5",
+        "zip": "92145",
+        "categories": "{Airport}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Challenge Course": {
+        "address": "Challenge Course, 9931-, 10199 Hopkins Dr, La Jolla, CA 92093",
+        "avg_rating": "4.9",
+        "zip": "92093",
+        "categories": "{Park}",
+        "city": "La Jolla"
+    },
+    "Inns of The Marine Corps": {
+        "address": "Inns of The Marine Corps, 2515, Bauer Rd, San Diego, CA 92145",
+        "avg_rating": "4.6",
+        "zip": "92145",
+        "categories": "{Hotel}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Gilman Parking Structure": {
+        "address": "Gilman Parking Structure, 252 Russell Ln, La Jolla, CA 92093",
+        "avg_rating": "3.9",
+        "zip": "92093",
+        "categories": "{Parking garage}",
+        "city": "La Jolla"
+    },
+    "Pala Band Of Mission Indians": {
+        "address": "Pala Band Of Mission Indians, 12196 Pala Mission Rd, Pala, CA 92059",
+        "avg_rating": "1.8",
+        "zip": "92059",
+        "categories": "{Tribal headquarters}",
+        "city": "Pala"
+    },
+    "Rice Canyon": {
+        "address": "Rice Canyon, California 92059",
+        "avg_rating": "5",
+        "zip": "92059",
+        "categories": "{Ravine}",
+        "city": ""
+    },
+    "Navy Marine Corps Relief Society Thrift Shop": {
+        "address": "Navy Marine Corps Relief Society Thrift Shop, 6360 Bauer Rd, San Diego, CA 92145",
+        "avg_rating": "4.4",
+        "zip": "92145",
+        "categories": "{Thrift store,Army & navy surplus shop,Marines facility}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Tapioca Express": {
+        "address": "Tapioca Express, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.8",
+        "zip": "92093",
+        "categories": "{Bubble tea store,Restaurant,Tea house}",
+        "city": "La Jolla"
+    },
+    "GROVES CAPITAL INC": {
+        "address": "GROVES CAPITAL INC, 4025 Stonebridge Ln, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.9",
+        "zip": "92091",
+        "categories": "{Mortgage lender}",
+        "city": "Rancho Santa Fe"
+    },
+    "Yuha Well": {
+        "address": "Yuha Well, California 92259",
+        "avg_rating": "4",
+        "zip": "92259",
+        "categories": "{Natural feature}",
+        "city": ""
+    },
+    "Navy Exchange": {
+        "address": "Navy Exchange, 1017 Trident Way, San Diego, CA 92155",
+        "avg_rating": "4.6",
+        "zip": "92155",
+        "categories": "{Supermarket}",
+        "city": "San Diego"
+    },
+    "Robbins Research International, Inc.": {
+        "address": "Robbins Research International, Inc., 9051 Mira Mesa Blvd, San Diego, CA 92196",
+        "avg_rating": "3.6",
+        "zip": "92196",
+        "categories": "{Business management consultant,Event ticket seller}",
+        "city": "San Diego"
+    },
+    "Salon 101": {
+        "address": "Salon 101, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.1",
+        "zip": "92093",
+        "categories": "{Beauty salon,Hair salon,Nail salon}",
+        "city": "La Jolla"
+    },
+    "Goat Canyon Trestle": {
+        "address": "Goat Canyon Trestle, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.9",
+        "zip": "91934",
+        "categories": "{Historical landmark}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Mandeville Auditorium": {
+        "address": "Mandeville Auditorium, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.9",
+        "zip": "92093",
+        "categories": "{Auditorium}",
+        "city": "La Jolla"
+    },
+    "Brown Hall": {
+        "address": "Brown Hall, Justice Ln, La Jolla, CA 92093",
+        "avg_rating": "3.9",
+        "zip": "92093",
+        "categories": "{University}",
+        "city": "La Jolla"
+    },
+    "Pines": {
+        "address": "Pines, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.8",
+        "zip": "92093",
+        "categories": "{Restaurant}",
+        "city": "La Jolla"
+    },
+    "Firestone Complete Auto Care": {
+        "address": "Firestone Complete Auto Care, Bldg 6214, Miramar Rd, San Diego, CA 92145",
+        "avg_rating": "4.1",
+        "zip": "92145",
+        "categories": "{Tire shop,Brake shop,Car battery store,Oil change service,Wheel alignment service}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Brennan Hall": {
+        "address": "Brennan Hall, Justice Ln, La Jolla, CA 92093",
+        "avg_rating": "4.3",
+        "zip": "92093",
+        "categories": "{University,Hall}",
+        "city": "La Jolla"
+    },
+    "Heavenly Oaks Residential": {
+        "address": "Heavenly Oaks Residential, 26835 Old Hwy 80, Guatay, CA 91931",
+        "avg_rating": "4.1",
+        "zip": "91931",
+        "categories": "{Mobile home park}",
+        "city": "Guatay"
+    },
+    "Revelle College": {
+        "address": "Revelle College, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.2",
+        "zip": "92093",
+        "categories": "{College}",
+        "city": "La Jolla"
+    },
+    "Miramar Nail Spa": {
+        "address": "Miramar Nail Spa, inside Miramar Base, 2257 Elrod Ave, San Diego, CA 92145",
+        "avg_rating": "4.1",
+        "zip": "92145",
+        "categories": "{Nail salon}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Veladora Coastal Ranch": {
+        "address": "Veladora Coastal Ranch, 5921 Valencia Cir, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.6",
+        "zip": "92091",
+        "categories": "{Californian restaurant,Restaurant}",
+        "city": "Rancho Santa Fe"
+    },
+    "The Loft at UC San Diego": {
+        "address": "The Loft at UC San Diego, Lyman Ln, La Jolla, CA 92093",
+        "avg_rating": "4.6",
+        "zip": "92093",
+        "categories": "{Live music venue}",
+        "city": "La Jolla"
+    },
+    "Dezert Adventures": {
+        "address": "Dezert Adventures, 1182 N Imperial Hwy, Ocotillo, CA 92259",
+        "avg_rating": "4.8",
+        "zip": "92259",
+        "categories": "{ATV rental service}",
+        "city": "Ocotillo"
+    },
+    "Price Center Theater": {
+        "address": "Price Center Theater, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.2",
+        "zip": "92093",
+        "categories": "{Movie theater}",
+        "city": "La Jolla"
+    },
+    "Pala Learning Center": {
+        "address": "Pala Learning Center, 2003 Pala Mission Cir, Pala, CA 92059",
+        "avg_rating": "5",
+        "zip": "92059",
+        "categories": "{Business administration service}",
+        "city": "Pala"
+    },
+    "Donovan's Cafe": {
+        "address": "Donovan's Cafe, 480 Alta Rd, San Diego, CA 92179",
+        "avg_rating": "4.7",
+        "zip": "92179",
+        "categories": "{Mexican restaurant,Delivery Restaurant}",
+        "city": "San Diego"
+    },
+    "The InfoDome": {
+        "address": "The InfoDome, 70 Centennial Plaza, San Diego, CA 92182",
+        "avg_rating": "1",
+        "zip": "92182",
+        "categories": "{Public library}",
+        "city": "San Diego"
+    },
+    "Goldberg Hall": {
+        "address": "Goldberg Hall, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4",
+        "zip": "92093",
+        "categories": "{Student housing center}",
+        "city": "La Jolla"
+    },
+    "Jamie M. Sorenson, NP": {
+        "address": "Jamie M. Sorenson, NP, 34800 Bob Wilson Dr, San Diego, CA 92134",
+        "avg_rating": "5",
+        "zip": "92134",
+        "categories": "{Doctor}",
+        "city": "San Diego"
+    },
+    "NEX Navy Exchange": {
+        "address": "NEX Navy Exchange, 32444 Echo Ln, San Diego, CA 92147",
+        "avg_rating": "4.4",
+        "zip": "92147",
+        "categories": "{Grocery store}",
+        "city": "San Diego"
+    },
+    "Audrey's Caf\u00e9": {
+        "address": "Audrey's Caf\u00e9, Geisel Library, San Diego, CA 92161",
+        "avg_rating": "4.3",
+        "zip": "92161",
+        "categories": "{Cafe}",
+        "city": "San Diego"
+    },
+    "Aztec Aquaplex": {
+        "address": "Aztec Aquaplex, 5375 Remington Rd, San Diego, CA 92182",
+        "avg_rating": "4.7",
+        "zip": "92182",
+        "categories": "{Swimming pool,Public swimming pool,Recreation center,Tennis court}",
+        "city": "San Diego"
+    },
+    "AMERI MEX GROCERY": {
+        "address": "AMERI MEX GROCERY, 447 Tecate Rd, Tecate, CA 91980",
+        "avg_rating": "2.9",
+        "zip": "91980",
+        "categories": "{Gas station}",
+        "city": "Tecate"
+    },
+    "Warren Mall": {
+        "address": "Warren Mall, San Diego, CA 92161",
+        "avg_rating": "4.3",
+        "zip": "92161",
+        "categories": "{Park}",
+        "city": "San Diego"
+    },
+    "College Area Community Garden": {
+        "address": "College Area Community Garden, Zura Way, San Diego, CA 92182",
+        "avg_rating": "4.8",
+        "zip": "92182",
+        "categories": "{Community garden}",
+        "city": "San Diego"
+    },
+    "Canyon Vista": {
+        "address": "Canyon Vista, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.4",
+        "zip": "92093",
+        "categories": "{Diner}",
+        "city": "La Jolla"
+    },
+    "Target": {
+        "address": "Target, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "2.6",
+        "zip": "92093",
+        "categories": "{Department store,Baby store,Clothing store,Electronics store,Furniture store,Grocery store,Toy store}",
+        "city": "La Jolla"
+    },
+    "Palomar Christian Conference Center": {
+        "address": "Palomar Christian Conference Center, 34764 Doane Valley Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.8",
+        "zip": "92060",
+        "categories": "{Camp}",
+        "city": "Palomar Mountain"
+    },
+    "University of California, San Diego Graduate Division": {
+        "address": "University of California, San Diego Graduate Division, Student Services Center, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "5",
+        "zip": "92093",
+        "categories": "{Education center}",
+        "city": "La Jolla"
+    },
+    "Sun God Lounge": {
+        "address": "Sun God Lounge, 9500 Gilman Dr, San Diego, CA 92161",
+        "avg_rating": "4.3",
+        "zip": "92161",
+        "categories": "{Lounge}",
+        "city": "San Diego"
+    },
+    "Bench Depot\u2122": {
+        "address": "Bench Depot\u2122, 23949 Tecate Mission Rd, Tecate, CA 91980",
+        "avg_rating": "4.7",
+        "zip": "91980",
+        "categories": "{Industrial equipment supplier,Manufacturer}",
+        "city": "Tecate"
+    },
+    "MCX Autoport Gas Station": {
+        "address": "MCX Autoport Gas Station, Schilt Ave, San Diego, CA 92145",
+        "avg_rating": "5",
+        "zip": "92145",
+        "categories": "{Gas station}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Peterson Gym": {
+        "address": "Peterson Gym, Plaza Deportes, San Diego, CA 92182",
+        "avg_rating": "4.2",
+        "zip": "92182",
+        "categories": "{Arena}",
+        "city": "San Diego"
+    },
+    "Birch Hill": {
+        "address": "Birch Hill, California 92070",
+        "avg_rating": "5",
+        "zip": "92070",
+        "categories": "{Mountain peak}",
+        "city": ""
+    },
+    "Sunset Trailhead": {
+        "address": "Sunset Trailhead, Sunrise Hwy, Mt Laguna, CA 91948",
+        "avg_rating": "4.8",
+        "zip": "91948",
+        "categories": "{Park}",
+        "city": "Mt Laguna"
+    },
+    "Payless ShoeSource": {
+        "address": "Payless ShoeSource, 406 Tecate Rd, Tecate, CA 91980",
+        "avg_rating": "4.2",
+        "zip": "91980",
+        "categories": "{Shoe store,Fashion accessories store,Fashion designer}",
+        "city": "Tecate"
+    },
+    "Ranch Market & Deli": {
+        "address": "Ranch Market & Deli, 16236 San Dieguito Rd # 213, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.2",
+        "zip": "92091",
+        "categories": "{Deli,Beer hall,Takeout Restaurant,Restaurant,Wine bar}",
+        "city": "Rancho Santa Fe"
+    },
+    "Concord Equestrian Center": {
+        "address": "Concord Equestrian Center, 18547 Aliso Canyon Rd, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.5",
+        "zip": "92091",
+        "categories": "{Horse trainer}",
+        "city": "Rancho Santa Fe"
+    },
+    "Event and Conference Services at CSUSM": {
+        "address": "Event and Conference Services at CSUSM, 333 S Twin Oaks Valley Rd, San Marcos, CA 92096",
+        "avg_rating": "3",
+        "zip": "92096",
+        "categories": "{Wedding venue,Conference center,Event planner,Event venue,Meeting room,Retreat center}",
+        "city": "San Marcos"
+    },
+    "Vinnie\u2019s Pizza & Pasta Bar": {
+        "address": "Vinnie\u2019s Pizza & Pasta Bar, San Diego, CA 92182",
+        "avg_rating": "3.8",
+        "zip": "92182",
+        "categories": "{Restaurant}",
+        "city": "San Diego"
+    },
+    "Rancho Cielo Estates": {
+        "address": "Rancho Cielo Estates, 18029 Calle Ambiente, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.1",
+        "zip": "92091",
+        "categories": "{Real estate agency,Real estate developer}",
+        "city": "Rancho Santa Fe"
+    },
+    "Imperial Highway Monument": {
+        "address": "Imperial Hwy Monument, Ocotillo, CA 92259",
+        "avg_rating": "3.8",
+        "zip": "92259",
+        "categories": "",
+        "city": "Ocotillo"
+    },
+    "Fairbanks Coffee": {
+        "address": "Fairbanks Coffee, Gilman Dr, San Diego, CA 92161",
+        "avg_rating": "3.3",
+        "zip": "92161",
+        "categories": "{Cafe}",
+        "city": "San Diego"
+    },
+    "Hubbell Studios / Ilan-Lael Foundation": {
+        "address": "Hubbell Studios / Ilan-Lael Foundation, 930 Orchard Ln, Santa Ysabel, CA 92070",
+        "avg_rating": "5",
+        "zip": "92070",
+        "categories": "{Non-profit organization,Historical landmark}",
+        "city": "Santa Ysabel"
+    },
+    "Aladdin Wireless": {
+        "address": "Aladdin Wireless, 6822 El Cajon Blvd, San Diego, CA 92155",
+        "avg_rating": "3",
+        "zip": "92155",
+        "categories": "{Computer repair service}",
+        "city": "San Diego"
+    },
+    "Navy Federal Credit Union - ATM": {
+        "address": "Navy Federal Credit Union - ATM, Matthew Ave Bldg 2660, San Diego, CA 92145",
+        "avg_rating": "5",
+        "zip": "92145",
+        "categories": "{ATM,Loan agency}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Morgan Run Club & Resort": {
+        "address": "Morgan Run Club & Resort, 5690 Cancha de Golf, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.2",
+        "zip": "92091",
+        "categories": "{Golf course,Event venue,Fitness center,Gym,Swimming pool,Tennis court,Wedding venue}",
+        "city": "Rancho Santa Fe"
+    },
+    "MC Miramar Veterinary Clinic": {
+        "address": "MC Miramar Veterinary Clinic, 6360 Bauer Rd, San Diego, CA 92145",
+        "avg_rating": "4.4",
+        "zip": "92145",
+        "categories": "{Veterinary care}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Aztec Racing": {
+        "address": "Aztec Racing, Campanile Mall, San Diego, CA 92182",
+        "avg_rating": "3.7",
+        "zip": "92182",
+        "categories": "{Engineering school,Association or organization,Club}",
+        "city": "San Diego"
+    },
+    "SDSU Recreational Turf Field": {
+        "address": "SDSU Recreational Turf Field, San Diego, CA 92182",
+        "avg_rating": "4.8",
+        "zip": "92182",
+        "categories": "{Soccer field}",
+        "city": "San Diego"
+    },
+    "Potrero County Park": {
+        "address": "Potrero County Park, 24800 Potrero Park Dr, Potrero, CA 91963",
+        "avg_rating": "4.5",
+        "zip": "91963",
+        "categories": "{Park}",
+        "city": "Potrero"
+    },
+    "Chase ATM": {
+        "address": "Chase ATM, 5300 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "2.3",
+        "zip": "92182",
+        "categories": "{ATM}",
+        "city": "San Diego"
+    },
+    "A1 Soils": {
+        "address": "A1 Soils, 9229 Harris Plant Rd, San Diego, CA 92145",
+        "avg_rating": "4.5",
+        "zip": "92145",
+        "categories": "{Landscaping supply store}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Hardy Tower": {
+        "address": "Hardy Tower, 5799 Campanile Mall, San Diego, CA 92182",
+        "avg_rating": "4.6",
+        "zip": "92182",
+        "categories": "{Historical landmark}",
+        "city": "San Diego"
+    },
+    "Julian Weaving Works": {
+        "address": "Julian Weaving Works, 30352 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "5",
+        "zip": "92070",
+        "categories": "{Store,Clothing store,Monogramming service,Rug store}",
+        "city": "Santa Ysabel"
+    },
+    "Muir Woods Coffee House": {
+        "address": "Muir Woods Coffee House, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.6",
+        "zip": "92093",
+        "categories": "{Coffee shop}",
+        "city": "La Jolla"
+    },
+    "UCSD Mail Services": {
+        "address": "UCSD Mail Services, Greenhouse Ln, La Jolla, CA 92093",
+        "avg_rating": "3.4",
+        "zip": "92093",
+        "categories": "{University}",
+        "city": "La Jolla"
+    },
+    "Emerald's Lighthouse": {
+        "address": "Emerald's Lighthouse, 946 Donax Ave, Imperial Beach, CA 91933",
+        "avg_rating": "3",
+        "zip": "91933",
+        "categories": "{Association or organization}",
+        "city": "Imperial Beach"
+    },
+    "T3": {
+        "address": "T3, 1017A, Building, Trident Way, San Diego, CA 92155",
+        "avg_rating": "4.3",
+        "zip": "92155",
+        "categories": "{Outdoor sports store}",
+        "city": "San Diego"
+    },
+    "Pala Cafe": {
+        "address": "Pala Cafe, Casino Spa & Resort, 11154 CA-76, Pala, CA 92059",
+        "avg_rating": "3",
+        "zip": "92059",
+        "categories": "{Cafe}",
+        "city": "Pala"
+    },
+    "Sunshine Market": {
+        "address": "Sunshine Market, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.2",
+        "zip": "92093",
+        "categories": "{Convenience store}",
+        "city": "La Jolla"
+    },
+    "Croutons": {
+        "address": "Croutons, 400 Rupertus Ln, La Jolla, CA 92093",
+        "avg_rating": "4.4",
+        "zip": "92093",
+        "categories": "{Salad shop,Restaurant}",
+        "city": "La Jolla"
+    },
+    "Hopkins Parking Structure": {
+        "address": "Hopkins Parking Structure, Voigt Dr, La Jolla, CA 92093",
+        "avg_rating": "3.8",
+        "zip": "92093",
+        "categories": "{Parking garage}",
+        "city": "La Jolla"
+    },
+    "Lucky Pup Dog Rescue of San DIego": {
+        "address": "Lucky Pup Dog Rescue of San DIego, Box 3484, San Diego, CA 92163",
+        "avg_rating": "4.2",
+        "zip": "92163",
+        "categories": "{Animal rescue service}",
+        "city": "San Diego"
+    },
+    "Miramar Gas Station": {
+        "address": "Miramar Gas Station, San Diego, CA 92145",
+        "avg_rating": "4.5",
+        "zip": "92145",
+        "categories": "{Gas station}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "SDSU Bookstore": {
+        "address": "SDSU Bookstore, East Commons, Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "4.5",
+        "zip": "92182",
+        "categories": "{Book store}",
+        "city": "San Diego"
+    },
+    "UC San Diego Imprints Main Production Center": {
+        "address": "UC San Diego Imprints Main Production Center, Campus Services Complex - Building A, 1 Greenhouse Ln Ste 120, La Jolla, CA 92093",
+        "avg_rating": "4.7",
+        "zip": "92093",
+        "categories": "{Digital printing service}",
+        "city": "La Jolla"
+    },
+    "Amazon Hub Locker+ (La Jolla Campus)": {
+        "address": "Amazon Hub Locker+ (La Jolla Campus), 9500 Gilman Dr #0102, La Jolla, CA 92093",
+        "avg_rating": "2.5",
+        "zip": "92093",
+        "categories": "{Shipping service}",
+        "city": "La Jolla"
+    },
+    "Pala Tribal Tanf": {
+        "address": "Pala Tribal Tanf, 36146 Pala Temecula Rd, Pala, CA 92059",
+        "avg_rating": "4.6",
+        "zip": "92059",
+        "categories": "{Social services organization}",
+        "city": "Pala"
+    },
+    "Al Bahr Shrine Camp": {
+        "address": "Al Bahr Shrine Camp, 11670 Sunrise Hwy, Mt Laguna, CA 91948",
+        "avg_rating": "4.6",
+        "zip": "91948",
+        "categories": "{Campground}",
+        "city": "Mt Laguna"
+    },
+    "Jacumba United Methodist Church": {
+        "address": "Jacumba United Methodist Church, 1242 Heber St, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "5",
+        "zip": "91934",
+        "categories": "{Methodist church}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Dunkin": {
+        "address": "Dunkin, 34800 Bob Wilson Dr Bldg 1, San Diego, CA 92134",
+        "avg_rating": "3.9",
+        "zip": "92134",
+        "categories": "{Coffee shop,Bagel shop,Bakery,Breakfast restaurant,Donut shop,Fast food restaurant,Takeout Restaurant}",
+        "city": "San Diego"
+    },
+    "Desert View Trail": {
+        "address": "Desert View Trail, Pacific Crest Trail, Mt Laguna, CA 91948",
+        "avg_rating": "4.8",
+        "zip": "91948",
+        "categories": "{Hiking area,Tourist attraction}",
+        "city": "Mt Laguna"
+    },
+    "Hayes Peak": {
+        "address": "Hayes Peak, Mt Laguna, CA 91948",
+        "avg_rating": "5",
+        "zip": "91948",
+        "categories": "{Hiking area}",
+        "city": "Mt Laguna"
+    },
+    "Navy Federal Credit Union": {
+        "address": "Navy Federal Credit Union, 200 Catalina Blvd, San Diego, CA 92152",
+        "avg_rating": "4",
+        "zip": "92152",
+        "categories": "{Credit union,ATM,Bank,Mortgage lender}",
+        "city": "San Diego"
+    },
+    "Raku Potteryworks": {
+        "address": "Raku Potteryworks, 24024 Humphries Rd, Tecate, CA 91980",
+        "avg_rating": "4.4",
+        "zip": "91980",
+        "categories": "{Wholesaler}",
+        "city": "Tecate"
+    },
+    "Northview Tennis Courts": {
+        "address": "Northview Tennis Courts, North Point Ln, La Jolla, CA 92093",
+        "avg_rating": "4.6",
+        "zip": "92093",
+        "categories": "{Tennis court,Entertainment}",
+        "city": "La Jolla"
+    },
+    "Rancho Santa Fe Farmers Market": {
+        "address": "Rancho Santa Fe Farmers Market, 16079 San Dieguito Rd Suite A3, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.6",
+        "zip": "92091",
+        "categories": "{Farmers' market}",
+        "city": "Rancho Santa Fe"
+    },
+    "Doane Valley Campground": {
+        "address": "Doane Valley Campground, Palomar Mountain, CA 92060",
+        "avg_rating": "4.5",
+        "zip": "92060",
+        "categories": "{Campground}",
+        "city": "Palomar Mountain"
+    },
+    "The Round Up Grill": {
+        "address": "The Round Up Grill, 26439 CA-76, Santa Ysabel, CA 92070",
+        "avg_rating": "4.3",
+        "zip": "92070",
+        "categories": "{American restaurant,Barbecue restaurant,Hamburger restaurant}",
+        "city": "Santa Ysabel"
+    },
+    "Dlush": {
+        "address": "Dlush, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "3.5",
+        "zip": "92093",
+        "categories": "{Restaurant}",
+        "city": "La Jolla"
+    },
+    "Laguna Recreation Area": {
+        "address": "Laguna Recreation Area, Mt Laguna, CA 91948",
+        "avg_rating": "4.5",
+        "zip": "91948",
+        "categories": "{Park,Tourist attraction}",
+        "city": "Mt Laguna"
+    },
+    "Silver Horse Retreat": {
+        "address": "Silver Horse Retreat, 28091 Old Mine Rd, Ranchita, CA 92066",
+        "avg_rating": "5",
+        "zip": "92066",
+        "categories": "{Equestrian facility,Alternative medicine practitioner,Retreat center}",
+        "city": "Ranchita"
+    },
+    "Cabin Fever Views": {
+        "address": "Cabin Fever Views, 22119 Crestline Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.7",
+        "zip": "92060",
+        "categories": "{Mountain cabin}",
+        "city": "Palomar Mountain"
+    },
+    "Lilac's Cabin": {
+        "address": "Lilac's Cabin, 33574 Cold Springs Trail, Palomar Mountain, CA 92060",
+        "avg_rating": "4.6",
+        "zip": "92060",
+        "categories": "{Lodging}",
+        "city": "Palomar Mountain"
+    },
+    "Pine Creek Trailhead": {
+        "address": "Pine Creek Trailhead, Secret Canyon Trail, Pine Valley-Las Bancas Rd, Guatay, CA 91931",
+        "avg_rating": "4.7",
+        "zip": "91931",
+        "categories": "{Hiking area}",
+        "city": "Guatay"
+    },
+    "Fairbanks Village Plaza": {
+        "address": "Fairbanks Village Plaza, 16236 San Dieguito Rd Suite 4-25, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.4",
+        "zip": "92091",
+        "categories": "{Property management company,Business center,Business park}",
+        "city": "Rancho Santa Fe"
+    },
+    "Redtailed Roost Trailhead": {
+        "address": "Redtailed Roost Trailhead, Red Tail Roost Trail, 10403 County Rte S1, Mt Laguna, CA 91948",
+        "avg_rating": "4.8",
+        "zip": "91948",
+        "categories": "{Hiking area}",
+        "city": "Mt Laguna"
+    },
+    "Myers Creek": {
+        "address": "Myers Creek, Kumeyaay Hwy, Ocotillo, CA 92259",
+        "avg_rating": "4.1",
+        "zip": "92259",
+        "categories": "{Historical landmark}",
+        "city": "Ocotillo"
+    },
+    "Mountain Sage Market": {
+        "address": "Mountain Sage Market, 44475 Old Hwy 80, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.1",
+        "zip": "91934",
+        "categories": "{Grocery store}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Kat's Yarn and Craft Cottage": {
+        "address": "Kat's Yarn and Craft Cottage, 4367 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "5",
+        "zip": "92070",
+        "categories": "{Store}",
+        "city": "Santa Ysabel"
+    },
+    "Parking Jacumba": {
+        "address": "Parking Jacumba, Unnamed Road, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.4",
+        "zip": "91934",
+        "categories": "{Parking lot}",
+        "city": "Jacumba Hot Springs"
+    },
+    "SDSU Parking Structure 12": {
+        "address": "SDSU Parking Structure 12, Aztec Bowl, San Diego, CA 92182",
+        "avg_rating": "3.8",
+        "zip": "92182",
+        "categories": "{Parking garage}",
+        "city": "San Diego"
+    },
+    "Water Of The Woods": {
+        "address": "Water Of The Woods, Mt Laguna, CA 91948",
+        "avg_rating": "4.9",
+        "zip": "91948",
+        "categories": "{Hiking area}",
+        "city": "Mt Laguna"
+    },
+    "Mataguay Scout Ranch": {
+        "address": "Mataguay Scout Ranch, 27955 CA-79, Santa Ysabel, CA 92070",
+        "avg_rating": "4.6",
+        "zip": "92070",
+        "categories": "{Camp,Youth organization}",
+        "city": "Santa Ysabel"
+    },
+    "The Lodge on Palomar Mountain": {
+        "address": "The Lodge on Palomar Mountain, 22228 Crestline Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.8",
+        "zip": "92060",
+        "categories": "{Lodge,Mountain cabin,Vacation home rental agency}",
+        "city": "Palomar Mountain"
+    },
+    "Red Feather Off-Road Market & Cafe": {
+        "address": "Red Feather Off-Road Market & Cafe, 1182 N Imperial Hwy, Ocotillo, CA 92259",
+        "avg_rating": "4.6",
+        "zip": "92259",
+        "categories": "{Market,Cafe,Coffee shop,Firewood supplier,Gift shop,Ice cream shop,Motorcycle parts store,Off roading area,Parking lot for bicycles,Restaurant}",
+        "city": "Ocotillo"
+    },
+    "Palomar Mountain State Park": {
+        "address": "Palomar Mountain State Park, 19952 State Park Drive, Palomar Mountain, CA 92060",
+        "avg_rating": "4.7",
+        "zip": "92060",
+        "categories": "{State park,Tourist attraction}",
+        "city": "Palomar Mountain"
+    },
+    "Palomar County Park": {
+        "address": "Palomar County Park, 21820 Crestline Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.6",
+        "zip": "92060",
+        "categories": "{Park,Tourist attraction}",
+        "city": "Palomar Mountain"
+    },
+    "Tekate JR Border Wall Art": {
+        "address": "Tekate JR Border Wall Art, Humphries Rd, Tecate, CA 91980",
+        "avg_rating": "4.1",
+        "zip": "91980",
+        "categories": "{Historical landmark}",
+        "city": "Tecate"
+    },
+    "Admiral Kidd Catering & Conference Center": {
+        "address": "Admiral Kidd Catering & Conference Center, 33050 Mc Donough Rd, San Diego, CA 92147",
+        "avg_rating": "4.4",
+        "zip": "92147",
+        "categories": "{Conference center,Wedding venue}",
+        "city": "San Diego"
+    },
+    "Wooded Hill Nature Trail": {
+        "address": "Wooded Hill Nature Trail, Wooded Hill Rd, Mt Laguna, CA 91948",
+        "avg_rating": "4.8",
+        "zip": "91948",
+        "categories": "{Hiking area,Tourist attraction}",
+        "city": "Mt Laguna"
+    },
+    "Fort Cross Old Timey Adventures": {
+        "address": "Fort Cross Old Timey Adventures, 4425 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "4.8",
+        "zip": "92070",
+        "categories": "{Farm household tour,Event venue,Farm,Tourist attraction}",
+        "city": "Santa Ysabel"
+    },
+    "Zanzibar Cafe At the Loft": {
+        "address": "Zanzibar Cafe At the Loft, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.3",
+        "zip": "92093",
+        "categories": "{Gastropub,American restaurant,Cafe,Deli,Espresso bar,Restaurant,Wine bar}",
+        "city": "La Jolla"
+    },
+    "Goat Canyon Trestle Trailhead": {
+        "address": "Goat Canyon Trestle Trailhead, Unnamed Road, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.8",
+        "zip": "91934",
+        "categories": "{Hiking area}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Great Hall": {
+        "address": "Great Hall, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.5",
+        "zip": "92093",
+        "categories": "{Event venue}",
+        "city": "La Jolla"
+    },
+    "Pine House Cafe & Tavern": {
+        "address": "Pine House Cafe & Tavern, 9849 Sunrise Hwy, Mt Laguna, CA 91948",
+        "avg_rating": "4.2",
+        "zip": "91948",
+        "categories": "{Cafe,Beer hall,Restaurant}",
+        "city": "Mt Laguna"
+    },
+    "Electric Vehicle Charging Station": {
+        "address": "Electric Vehicle Charging Station, Osler Ln, La Jolla, CA 92093",
+        "avg_rating": "4",
+        "zip": "92093",
+        "categories": "{Electrician}",
+        "city": "La Jolla"
+    },
+    "Campus Services Complex": {
+        "address": "Campus Services Complex, La Jolla, CA 92093",
+        "avg_rating": "4.9",
+        "zip": "92093",
+        "categories": "{Construction and maintenance office}",
+        "city": "La Jolla"
+    },
+    "Chevron Jacumba": {
+        "address": "Chevron Jacumba, 1496 Carrizo Gorge Rd, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "3.6",
+        "zip": "91934",
+        "categories": "{Gas station,Auto repair shop,Convenience store,Diesel fuel supplier,Fuel pump,Truck stop}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Burger King": {
+        "address": "Burger King, 9500 Gilman Dr, San Diego, CA 92093",
+        "avg_rating": "3.3",
+        "zip": "92093",
+        "categories": "{Restaurant,Fast food restaurant}",
+        "city": "San Diego"
+    },
+    "Porter's Pub": {
+        "address": "Porter's Pub, San Diego, CA 92161",
+        "avg_rating": "3.7",
+        "zip": "92161",
+        "categories": "{Pub}",
+        "city": "San Diego"
+    },
+    "Henry A. Ferreyra, MD": {
+        "address": "Henry A. Ferreyra, MD, 9415 Campus Point Dr, La Jolla, CA 92093",
+        "avg_rating": "3.3",
+        "zip": "92093",
+        "categories": "{Ophthalmologist}",
+        "city": "La Jolla"
+    },
+    "Denny's": {
+        "address": "Denny's, 3750 Anderson Ave Bldg 3750, San Diego, CA 92145",
+        "avg_rating": "4.3",
+        "zip": "92145",
+        "categories": "{Diner,American restaurant,Breakfast restaurant}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Observatory Trailhead": {
+        "address": "Observatory Trailhead, 1121301800, Palomar Mountain, CA 92060",
+        "avg_rating": "4.5",
+        "zip": "92060",
+        "categories": "{Hiking area}",
+        "city": "Palomar Mountain"
+    },
+    "Blick Art Materials": {
+        "address": "Blick Art Materials, 5500 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "3.9",
+        "zip": "92182",
+        "categories": "{Art supply store,Craft store}",
+        "city": "San Diego"
+    },
+    "Price Center Loop": {
+        "address": "Price Center Loop, Matthews Ln, La Jolla, CA 92093",
+        "avg_rating": "4.3",
+        "zip": "92093",
+        "categories": "{School bus service}",
+        "city": "La Jolla"
+    },
+    "Rhapsody Hall (M113)": {
+        "address": "Rhapsody Hall (M113), Campanile Mall, San Diego, CA 92182",
+        "avg_rating": "4.3",
+        "zip": "92182",
+        "categories": "{Concert hall}",
+        "city": "San Diego"
+    },
+    "Storm Canyon Vista Trailhead": {
+        "address": "Storm Canyon Vista Trailhead, 11631-11737, County Rte S1, Mt Laguna, CA 91948",
+        "avg_rating": "4.8",
+        "zip": "91948",
+        "categories": "{Hiking area}",
+        "city": "Mt Laguna"
+    },
+    "Raceway Electric & Solar": {
+        "address": "Raceway Electric & Solar, Santee, CA 92072",
+        "avg_rating": "5",
+        "zip": "92072",
+        "categories": "{Electrician,Solar energy contractor}",
+        "city": "Santee"
+    },
+    "Pala Casino Gas Station": {
+        "address": "Pala Casino Gas Station, 11154 CA-76, Pala, CA 92059",
+        "avg_rating": "4.2",
+        "zip": "92059",
+        "categories": "{Gas station}",
+        "city": "Pala"
+    },
+    "Paroli Homesite Campground": {
+        "address": "Paroli Homesite Campground, Ranchita, CA 92066",
+        "avg_rating": "5",
+        "zip": "92066",
+        "categories": "{Campground}",
+        "city": "Ranchita"
+    },
+    "Chico Ravine": {
+        "address": "Chico Ravine, California 91948",
+        "avg_rating": "5",
+        "zip": "91948",
+        "categories": "{Ravine}",
+        "city": ""
+    },
+    "In-Ko-Pah Co Park": {
+        "address": "In-Ko-Pah Co Park, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.6",
+        "zip": "91934",
+        "categories": "{Park}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Veterans Memorial Garden Air Section": {
+        "address": "Veterans Memorial Garden Air Section, San Diego, CA 92134",
+        "avg_rating": "4.7",
+        "zip": "92134",
+        "categories": "{Veterans organization}",
+        "city": "San Diego"
+    },
+    "SDSU Sports Deck": {
+        "address": "SDSU Sports Deck, 5200 55th St, San Diego, CA 92182",
+        "avg_rating": "4.8",
+        "zip": "92182",
+        "categories": "{Stadium}",
+        "city": "San Diego"
+    },
+    "Montezuma Hall": {
+        "address": "Montezuma Hall, Aztec Student Union, San Diego, CA 92182",
+        "avg_rating": "4.7",
+        "zip": "92182",
+        "categories": "{Live music venue,Conference center}",
+        "city": "San Diego"
+    },
+    "Art South": {
+        "address": "Art South, 5500 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "3",
+        "zip": "92182",
+        "categories": "{University}",
+        "city": "San Diego"
+    },
+    "Broadway Pier": {
+        "address": "Broadway Pier, San Diego, CA 92132",
+        "avg_rating": "4.7",
+        "zip": "92132",
+        "categories": "{Pedestrian zone}",
+        "city": "San Diego"
+    },
+    "NMCSD Laboratory": {
+        "address": "NMCSD Laboratory, 34800 Bob Wilson Dr, San Diego, CA 92134",
+        "avg_rating": "4.3",
+        "zip": "92134",
+        "categories": "{Laboratory}",
+        "city": "San Diego"
+    },
+    "El Prado Group Campground - Big Sage": {
+        "address": "El Prado Group Campground - Big Sage, Laguna Meadow Rd, Mt Laguna, CA 91948",
+        "avg_rating": "4.6",
+        "zip": "91948",
+        "categories": "{Campground}",
+        "city": "Mt Laguna"
+    },
+    "Diva Nails": {
+        "address": "Diva Nails, 5533 Cancha de Golf, Rancho Santa Fe, CA 92091",
+        "avg_rating": "5",
+        "zip": "92091",
+        "categories": "{Beauty salon}",
+        "city": "Rancho Santa Fe"
+    },
+    "Farmhouse 78": {
+        "address": "Farmhouse 78, 30270 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "4.3",
+        "zip": "92070",
+        "categories": "{Restaurant}",
+        "city": "Santa Ysabel"
+    },
+    "UCSD-RIMAC ARENA": {
+        "address": "UCSD-RIMAC ARENA, 9730 Hopkins Dr, La Jolla, CA 92093",
+        "avg_rating": "4.6",
+        "zip": "92093",
+        "categories": "{Arena}",
+        "city": "La Jolla"
+    },
+    "Blue Jay Lodge": {
+        "address": "Blue Jay Lodge, 10600 Sunrise Hwy, Mt Laguna, CA 91948",
+        "avg_rating": "3.4",
+        "zip": "91948",
+        "categories": "{Lodge,Cabin rental agency}",
+        "city": "Mt Laguna"
+    },
+    "Naval Mine & Anti-Submarine Warfare Command Complex": {
+        "address": "Naval Mine & Anti-Submarine Warfare Command Complex, 32444 Echo Ln, San Diego, CA 92147",
+        "avg_rating": "4.5",
+        "zip": "92147",
+        "categories": "{Naval base}",
+        "city": "San Diego"
+    },
+    "Mountain Valley Retreat": {
+        "address": "Mountain Valley Retreat, 35690 Montezuma Valley Rd, Ranchita, CA 92066",
+        "avg_rating": "5",
+        "zip": "92066",
+        "categories": "{Hiking area,Massage therapist,Yoga instructor}",
+        "city": "Ranchita"
+    },
+    "Conrad Prebys Music Center Experimental Theater": {
+        "address": "Conrad Prebys Music Center Experimental Theater, 9500 Gilman Dr, San Diego, CA 92161",
+        "avg_rating": "5",
+        "zip": "92161",
+        "categories": "{University}",
+        "city": "San Diego"
+    },
+    "Natatorium": {
+        "address": "Natatorium, San Diego, CA 92161",
+        "avg_rating": "4.4",
+        "zip": "92161",
+        "categories": "{Swimming pool,Swimming}",
+        "city": "San Diego"
+    },
+    "Old Bathhouse": {
+        "address": "Old Bathhouse, 44450 Old Hwy 80, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4",
+        "zip": "91934",
+        "categories": "{Historical landmark}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Wilson Peak Trailhead": {
+        "address": "Wilson Peak Trailhead, Unnamed Road, Ranchita, CA 92066",
+        "avg_rating": "4",
+        "zip": "92066",
+        "categories": "{Hiking area}",
+        "city": "Ranchita"
+    },
+    "The Habit Burger Grill": {
+        "address": "The Habit Burger Grill, 5500 Campanile Dr STE 120, San Diego, CA 92182",
+        "avg_rating": "4.4",
+        "zip": "92182",
+        "categories": "{Hamburger restaurant,Fast food restaurant,Takeout Restaurant}",
+        "city": "San Diego"
+    },
+    "MoneyGram": {
+        "address": "MoneyGram, 875 E H St, Chula Vista, CA 91909",
+        "avg_rating": "1",
+        "zip": "91909",
+        "categories": "{Money transfer service}",
+        "city": "Chula Vista"
+    },
+    "Henshaw Scenic Vista Observation Site": {
+        "address": "Henshaw Scenic Vista Observation Site, Forest Rte 10S05 - Henshaw Scenic Vista, 27475 E Grade Rd, Santa Ysabel, CA 92070",
+        "avg_rating": "4.7",
+        "zip": "92070",
+        "categories": "{Scenic spot}",
+        "city": "Santa Ysabel"
+    },
+    "Dudley's Famous Bakery and Deli": {
+        "address": "Dudley's Famous Bakery and Deli, 30218 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "4.6",
+        "zip": "92070",
+        "categories": "{Bakery,Sandwich shop}",
+        "city": "Santa Ysabel"
+    },
+    "Smith Recital Hall": {
+        "address": "Smith Recital Hall, San Diego State University, 5500 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "4.7",
+        "zip": "92182",
+        "categories": "{Performing arts theater,Live music venue,Musician}",
+        "city": "San Diego"
+    },
+    "DJ's Pizza Express": {
+        "address": "DJ's Pizza Express, Pala, CA 92059",
+        "avg_rating": "4.7",
+        "zip": "92059",
+        "categories": "{Pizza restaurant}",
+        "city": "Pala"
+    },
+    "Marshall College Field": {
+        "address": "Marshall College Field, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.6",
+        "zip": "92093",
+        "categories": "{Athletic field}",
+        "city": "La Jolla"
+    },
+    "Fool's Errand Films": {
+        "address": "Fool's Errand Films, 9051 Mira Mesa Blvd unit 262262, San Diego, CA 92196",
+        "avg_rating": "5",
+        "zip": "92196",
+        "categories": "{Video production service,Business to business service,Film production company}",
+        "city": "San Diego"
+    },
+    "Passport Acceptance Office": {
+        "address": "Passport Acceptance Office, 1 Greenhouse Ln, La Jolla, CA 92093",
+        "avg_rating": "4.6",
+        "zip": "92093",
+        "categories": "{Passport office}",
+        "city": "La Jolla"
+    },
+    "Aztec Shops Terrace": {
+        "address": "Aztec Shops Terrace, Scripps Terrace, San Diego, CA 92182",
+        "avg_rating": "4",
+        "zip": "92182",
+        "categories": "{Breakfast restaurant}",
+        "city": "San Diego"
+    },
+    "Jacumba Hot Springs Resort": {
+        "address": "Jacumba Hot Springs Resort, 44500 Old Hwy 80, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.2",
+        "zip": "91934",
+        "categories": "{Resort hotel,Massage spa}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Taco Villa": {
+        "address": "Taco Villa, Eucalyptus Grove Ln, San Diego, CA 92161",
+        "avg_rating": "4",
+        "zip": "92161",
+        "categories": "{Mexican restaurant,Restaurant}",
+        "city": "San Diego"
+    },
+    "Center for U.S.-Mexican Studies": {
+        "address": "Center for U.S.-Mexican Studies, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "5",
+        "zip": "92093",
+        "categories": "{Research institute}",
+        "city": "La Jolla"
+    },
+    "JULIAN WEDDING VENUE": {
+        "address": "JULIAN WEDDING VENUE, 5049 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "4.2",
+        "zip": "92070",
+        "categories": "{Wedding venue}",
+        "city": "Santa Ysabel"
+    },
+    "Lolitas Mexican Food": {
+        "address": "Lolitas Mexican Food, College Ave, San Diego, CA 92182",
+        "avg_rating": "4.4",
+        "zip": "92182",
+        "categories": "{Restaurant}",
+        "city": "San Diego"
+    },
+    "Indian Health Council Santa Ysabel Clinic": {
+        "address": "Indian Health Council Santa Ysabel Clinic, 110 1/2 School House Canyon Rd, Santa Ysabel, CA 92070",
+        "avg_rating": "4.7",
+        "zip": "92070",
+        "categories": "{Doctor}",
+        "city": "Santa Ysabel"
+    },
+    "Pioneer Mail Picnic Site": {
+        "address": "Pioneer Mail Picnic Site, Mile Marker 29, Sunrise Hwy, Mt Laguna, CA 91948",
+        "avg_rating": "4.5",
+        "zip": "91948",
+        "categories": "{Picnic ground}",
+        "city": "Mt Laguna"
+    },
+    "Price Center Plaza": {
+        "address": "Price Center Plaza, University Of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.4",
+        "zip": "92093",
+        "categories": "{Business center,Plaza}",
+        "city": "La Jolla"
+    },
+    "Fiddler's Cove Marina & RV Park (Navy MWR)": {
+        "address": "Fiddler's Cove Marina & RV Park (Navy MWR), 3205 CA-75, San Diego, CA 92155",
+        "avg_rating": "4.6",
+        "zip": "92155",
+        "categories": "{Marina,RV park}",
+        "city": "San Diego"
+    },
+    "CHP San Onofre Inspection Facility": {
+        "address": "CHP San Onofre Inspection Facility, I-5, Oceanside, CA 92051",
+        "avg_rating": "3.4",
+        "zip": "92051",
+        "categories": "{Weigh station,Car inspection station,Police department}",
+        "city": "Oceanside"
+    },
+    "Lemongrass Fresh Farm Plates": {
+        "address": "Lemongrass Fresh Farm Plates, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "5",
+        "zip": "92093",
+        "categories": "{Restaurant,Restaurant supply store}",
+        "city": "La Jolla"
+    },
+    "Whispering Oaks Terrace": {
+        "address": "Whispering Oaks Terrace, 39417 Pala Temecula Rd, Pala, CA 92059",
+        "avg_rating": "4.6",
+        "zip": "92059",
+        "categories": "{Wedding venue}",
+        "city": "Pala"
+    },
+    "VA Medical [WEST DIV] Center: La Jolla, California": {
+        "address": "VA Medical [WEST DIV] Center: La Jolla, California, 3350 La Jolla Village Dr, San Diego, CA 92161",
+        "avg_rating": "3.5",
+        "zip": "92161",
+        "categories": "{Hospital}",
+        "city": "San Diego"
+    },
+    "Navy Gateway Inn": {
+        "address": "Navy Gateway Inn, 3628 Tulagi Rd bldg 504, San Diego, CA 92155",
+        "avg_rating": "3.9",
+        "zip": "92155",
+        "categories": "{Hotel}",
+        "city": "San Diego"
+    },
+    "Shell": {
+        "address": "Shell, 1494 Carrizo Gorge Rd, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "3.8",
+        "zip": "91934",
+        "categories": "{Gas station,ATM,Convenience store,Restaurant}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Rose Quartz Mine": {
+        "address": "Rose Quartz Mine, California 92070",
+        "avg_rating": "4.8",
+        "zip": "92070",
+        "categories": "{Natural feature}",
+        "city": ""
+    },
+    "Arco Car Wash": {
+        "address": "Arco Car Wash, 2130921700, Carlsbad, CA 92011",
+        "avg_rating": "3.2",
+        "zip": "92170",
+        "categories": "{Car wash}",
+        "city": "Carlsbad"
+    },
+    "Potrero Campground": {
+        "address": "Potrero Campground, 24800 Potrero Park Dr, Potrero, CA 91963",
+        "avg_rating": "4.6",
+        "zip": "91963",
+        "categories": "{Campground}",
+        "city": "Potrero"
+    },
+    "Lake Henshaw": {
+        "address": "Lake Henshaw, California 92070",
+        "avg_rating": "4.5",
+        "zip": "92070",
+        "categories": "{Lake}",
+        "city": ""
+    },
+    "Northpoint Visitor Information Center": {
+        "address": "Northpoint Visitor Information Center, 2 John Jay Hopkins Dr, La Jolla, CA 92093",
+        "avg_rating": "4.1",
+        "zip": "92093",
+        "categories": "{Visitor center}",
+        "city": "La Jolla"
+    },
+    "Earl\u2019s Place and Market": {
+        "address": "Earl\u2019s Place and Market, 9500 Gilman Drive 0981, Above Canyon Vista in Earl Warren College, La Jolla, CA 92093",
+        "avg_rating": "4.1",
+        "zip": "92093",
+        "categories": "{Market,Grocery store}",
+        "city": "La Jolla"
+    },
+    "The Great Escape Food & Spirits": {
+        "address": "The Great Escape Food & Spirits, 1147 N Imperial Hwy, Ocotillo, CA 92259",
+        "avg_rating": "4.7",
+        "zip": "92259",
+        "categories": "{Cocktail bar}",
+        "city": "Ocotillo"
+    },
+    "RIMAC Complex": {
+        "address": "RIMAC Complex, La Jolla, CA 92093",
+        "avg_rating": "4.2",
+        "zip": "92093",
+        "categories": "{Gym}",
+        "city": "La Jolla"
+    },
+    "UCSD Canyonview Aquatic and Climbing Wall Facility": {
+        "address": "UCSD Canyonview Aquatic and Climbing Wall Facility, La Jolla, CA 92093",
+        "avg_rating": "4.9",
+        "zip": "92093",
+        "categories": "{Sports activity location}",
+        "city": "La Jolla"
+    },
+    "La Orilla Trailhead": {
+        "address": "La Orilla Trailhead, 16398 El Camino Real, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.5",
+        "zip": "92091",
+        "categories": "{Park,Tourist attraction}",
+        "city": "Rancho Santa Fe"
+    },
+    "Pacific Crest Trail - Barrel Spring trailhead": {
+        "address": "Pacific Crest Trail - Barrel Spring trailhead, 34387 Co Hwy S22, Ranchita, CA 92066",
+        "avg_rating": "4.6",
+        "zip": "92066",
+        "categories": "{Hiking area}",
+        "city": "Ranchita"
+    },
+    "Pala Store and Deli": {
+        "address": "Pala Store and Deli, 3000 Pala Mission Rd, Pala, CA 92059",
+        "avg_rating": "4.7",
+        "zip": "92059",
+        "categories": "{Grocery store}",
+        "city": "Pala"
+    },
+    "Rancho Santa Fe Field": {
+        "address": "Rancho Santa Fe Field, Rambla De Las Flores, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.2",
+        "zip": "92091",
+        "categories": "{Park}",
+        "city": "Rancho Santa Fe"
+    },
+    "Fairbanks Ranch Association Security": {
+        "address": "Fairbanks Ranch Association Security, 16567 Circa Del N # B, Rancho Santa Fe, CA 92091",
+        "avg_rating": "5",
+        "zip": "92091",
+        "categories": "{Security service}",
+        "city": "Rancho Santa Fe"
+    },
+    "Sandip P. Patel, MD": {
+        "address": "Sandip P. Patel, MD, 3855 Health Sciences Dr, La Jolla, CA 92093",
+        "avg_rating": "5",
+        "zip": "92093",
+        "categories": "{Oncologist}",
+        "city": "La Jolla"
+    },
+    "Josie's Hideout Saloon": {
+        "address": "Josie's Hideout Saloon, 27413 CA-76, Santa Ysabel, CA 92070",
+        "avg_rating": "4.7",
+        "zip": "92070",
+        "categories": "{Bar & grill}",
+        "city": "Santa Ysabel"
+    },
+    "Specialties Caf\u00e9 and Bakery": {
+        "address": "Specialties Caf\u00e9 and Bakery, 4330 La Jolla Village Dr, San Diego, CA 92112",
+        "avg_rating": "4.2",
+        "zip": "92112",
+        "categories": "{Coffee shop,Cafe,Espresso bar,Tea house}",
+        "city": "San Diego"
+    },
+    "Gems of Pala Inc": {
+        "address": "Gems of Pala Inc, 35940 Magee Rd, Pala, CA 92059",
+        "avg_rating": "4.8",
+        "zip": "92059",
+        "categories": "{Mining company,Rock shop}",
+        "city": "Pala"
+    },
+    "Mountain Source Dispensary": {
+        "address": "Mountain Source Dispensary, 25575 CA-79, Santa Ysabel, CA 92070",
+        "avg_rating": "4.7",
+        "zip": "92070",
+        "categories": "{Cannabis store}",
+        "city": "Santa Ysabel"
+    },
+    "Balboa Athletic Complex Pool": {
+        "address": "Balboa Athletic Complex Pool, San Diego, CA 92134",
+        "avg_rating": "4.5",
+        "zip": "92134",
+        "categories": "{Swimming pool}",
+        "city": "San Diego"
+    },
+    "Mataguay Scout Ranch Trading Post": {
+        "address": "Mataguay Scout Ranch Trading Post, Mataguay Rd, Santa Ysabel, CA 92070",
+        "avg_rating": "4.4",
+        "zip": "92070",
+        "categories": "{General store}",
+        "city": "Santa Ysabel"
+    },
+    "Lazy Lizard Saloon": {
+        "address": "Lazy Lizard Saloon, 1194 N Imperial Hwy, Ocotillo, CA 92259",
+        "avg_rating": "4.7",
+        "zip": "92259",
+        "categories": "{Night club,Bar}",
+        "city": "Ocotillo"
+    },
+    "Manzanita Supply": {
+        "address": "Manzanita Supply, 30275 CA-78, Santa Ysabel, CA 92070",
+        "avg_rating": "4.8",
+        "zip": "92070",
+        "categories": "{Hardware store,Antique store,Garden center,General store,Historical landmark,Sewing shop,Tourist attraction}",
+        "city": "Santa Ysabel"
+    },
+    "Fox Raceway": {
+        "address": "Fox Raceway, 12799 CA-76, Pala, CA 92059",
+        "avg_rating": "4.7",
+        "zip": "92059",
+        "categories": "{Off-road race track}",
+        "city": "Pala"
+    },
+    "Leucadia Pizzeria Rancho Sante Fe": {
+        "address": "Leucadia Pizzeria Rancho Sante Fe, 16085 San Dieguito Rd, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.4",
+        "zip": "92091",
+        "categories": "{Pizza restaurant,Catering food and drink supplier,Italian restaurant,Pizza delivery,Pizza Takeout}",
+        "city": "Rancho Santa Fe"
+    },
+    "Choices, The Buffet": {
+        "address": "Choices, The Buffet, 11154 CA-76, Pala, CA 92059",
+        "avg_rating": "4.3",
+        "zip": "92059",
+        "categories": "{Buffet restaurant,American restaurant,Seafood restaurant}",
+        "city": "Pala"
+    },
+    "Bar Meets Grill": {
+        "address": "Bar Meets Grill, 11154 CA-76, Pala, CA 92059",
+        "avg_rating": "3.5",
+        "zip": "92059",
+        "categories": "{Restaurant,Bar}",
+        "city": "Pala"
+    },
+    "MCAS Miramar": {
+        "address": "MCAS Miramar, Miramar Way, San Diego, CA 92145",
+        "avg_rating": "4.7",
+        "zip": "92145",
+        "categories": "{Military base,Air force base,United States Armed Forces Base}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Happy Spa Dogs Mobile Grooming": {
+        "address": "Happy Spa Dogs Mobile Grooming, 16236 San Dieguito Rd Suite 8476, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.9",
+        "zip": "92091",
+        "categories": "{Pet groomer}",
+        "city": "Rancho Santa Fe"
+    },
+    "PC Campsite": {
+        "address": "PC Campsite, Ocotillo, CA 92259",
+        "avg_rating": "4.7",
+        "zip": "92259",
+        "categories": "{Hotel}",
+        "city": "Ocotillo"
+    },
+    "Bel Mondo Condominiums": {
+        "address": "Bel Mondo Condominiums, 5533 Cancha de Golf #102, Rancho Santa Fe, CA 92091",
+        "avg_rating": "3.8",
+        "zip": "92091",
+        "categories": "{Condominium complex}",
+        "city": "Rancho Santa Fe"
+    },
+    "Palomar Mountain": {
+        "address": "Palomar Mountain, CA 92060",
+        "avg_rating": "4.7",
+        "zip": "92060",
+        "categories": "{Mountain peak}",
+        "city": ""
+    },
+    "Aztec Lanes": {
+        "address": "Aztec Lanes, 6075 Aztec Cir Dr, San Diego, CA 92182",
+        "avg_rating": "4.6",
+        "zip": "92182",
+        "categories": "{Bowling alley}",
+        "city": "San Diego"
+    },
+    "George F Bailey Detention": {
+        "address": "George F Bailey Detention, 446 Alta Rd #5300, San Diego, CA 92158",
+        "avg_rating": "3.1",
+        "zip": "92158",
+        "categories": "{Detention center,Prison}",
+        "city": "San Diego"
+    },
+    "Cal Coast Credit Union Amphitheater": {
+        "address": "Cal Coast Credit Union Amphitheater, 5500 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "4.6",
+        "zip": "92182",
+        "categories": "{Amphitheater,Event ticket seller,Live music venue,Performing arts theater}",
+        "city": "San Diego"
+    },
+    "Pala Tubs": {
+        "address": "Pala Tubs, 2992 Pala Mission Rd, Pala, CA 92059",
+        "avg_rating": "3.3",
+        "zip": "92059",
+        "categories": "{Laundromat}",
+        "city": "Pala"
+    },
+    "The HUB": {
+        "address": "The HUB, 5305 Miramar Way, San Diego, CA 92145",
+        "avg_rating": "4.6",
+        "zip": "92145",
+        "categories": "{Educational consultant}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Soda & Swine": {
+        "address": "Soda & Swine, 105 Eucalyptus Grove Ln, San Diego, CA 92161",
+        "avg_rating": "4.1",
+        "zip": "92161",
+        "categories": "{American restaurant,Restaurant}",
+        "city": "San Diego"
+    },
+    "Coronado Navy Exchange": {
+        "address": "Coronado Navy Exchange, 3238 Guadalcanal Rd Building No. 18, San Diego, CA 92155",
+        "avg_rating": "4.6",
+        "zip": "92155",
+        "categories": "{Department store,Military base,Shopping mall,Store}",
+        "city": "San Diego"
+    },
+    "Highland Farms Quarter Horses": {
+        "address": "Highland Farms Quarter Horses, 6685 Lago Lindo, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4",
+        "zip": "92091",
+        "categories": "{Horse breeder}",
+        "city": "Rancho Santa Fe"
+    },
+    "Lemon Grove Historical Society": {
+        "address": "Lemon Grove Historical Society, 3185 Olive St, Lemon Grove, CA 91946",
+        "avg_rating": "4.9",
+        "zip": "91946",
+        "categories": "{Historical society,Local history museum,Tourist attraction}",
+        "city": "Lemon Grove"
+    },
+    "parking area": {
+        "address": "parking area, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.2",
+        "zip": "91934",
+        "categories": "{Parking lot}",
+        "city": "Jacumba Hot Springs"
+    },
+    "UCSD Cross Cultural Center": {
+        "address": "UCSD Cross Cultural Center, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.8",
+        "zip": "92093",
+        "categories": "{Cultural center}",
+        "city": "La Jolla"
+    },
+    "McDonald's": {
+        "address": "McDonald's, 511 Hercules Rd, San Diego, CA 92145",
+        "avg_rating": "3.8",
+        "zip": "92145",
+        "categories": "{Fast food restaurant,Breakfast restaurant,Coffee shop,Hamburger restaurant,Restaurant,Sandwich shop}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Hanson": {
+        "address": "Hanson, 9229 Harris Plant Rd Miramar RMC, San Diego, CA 92145",
+        "avg_rating": "4.3",
+        "zip": "92145",
+        "categories": "{Ready mix concrete supplier,Sand & gravel supplier}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "School of Global Policy and Strategy": {
+        "address": "School of Global Policy and Strategy, La Jolla, CA 92093",
+        "avg_rating": "4.4",
+        "zip": "92093",
+        "categories": "{University department}",
+        "city": "La Jolla"
+    },
+    "The Basement": {
+        "address": "The Basement, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.5",
+        "zip": "92093",
+        "categories": "{Consultant}",
+        "city": "La Jolla"
+    },
+    "Chase Bank": {
+        "address": "Chase Bank, 9700 Gilman Dr PMB 275, La Jolla, CA 92093",
+        "avg_rating": "3",
+        "zip": "92093",
+        "categories": "{Bank,ATM}",
+        "city": "La Jolla"
+    },
+    "Mount Laguna": {
+        "address": "Mount Laguna, Monument Peak Rd, Mt Laguna, CA 91948",
+        "avg_rating": "4.8",
+        "zip": "91948",
+        "categories": "{Landmark}",
+        "city": "Mt Laguna"
+    },
+    "Harbor Drive Annex Fitness Center": {
+        "address": "Harbor Drive Annex Fitness Center, Bldg 30, NBPL, Harbor Drive Annex, San Diego, CA 92147",
+        "avg_rating": "4.4",
+        "zip": "92147",
+        "categories": "{Gym}",
+        "city": "San Diego"
+    },
+    "Big Laguna Lake": {
+        "address": "Big Laguna Lake, California 91948",
+        "avg_rating": "4.9",
+        "zip": "91948",
+        "categories": "{Lake}",
+        "city": ""
+    },
+    "Jewel Valley Ranch": {
+        "address": "Jewel Valley Ranch, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.5",
+        "zip": "91934",
+        "categories": "{Hotel}",
+        "city": "Jacumba Hot Springs"
+    },
+    "ATV Rentals and Tours": {
+        "address": "ATV Rentals and Tours, 1070 N Imperial Hwy, Ocotillo, CA 92259",
+        "avg_rating": "4.7",
+        "zip": "92259",
+        "categories": "{ATV rental service}",
+        "city": "Ocotillo"
+    },
+    "International Student Center": {
+        "address": "International Student Center, 5500 Canyon Crest Dr, San Diego, CA 92182",
+        "avg_rating": "4.1",
+        "zip": "92182",
+        "categories": "{University department}",
+        "city": "San Diego"
+    },
+    "Don's Market": {
+        "address": "Don's Market, 30250 CA-79, Santa Ysabel, CA 92070",
+        "avg_rating": "4.4",
+        "zip": "92070",
+        "categories": "{Shopping mall,Grocery store}",
+        "city": "Santa Ysabel"
+    },
+    "J's Southern Cafe": {
+        "address": "J's Southern Cafe, 44475 Old Hwy 80, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.5",
+        "zip": "91934",
+        "categories": "{Soul food restaurant}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Mis Cuates Taco Shop": {
+        "address": "Mis Cuates Taco Shop, 1777 Pala Mission Rd, Pala, CA 92059",
+        "avg_rating": "4.2",
+        "zip": "92059",
+        "categories": "{Mexican restaurant,Restaurant}",
+        "city": "Pala"
+    },
+    "Viejas Arena": {
+        "address": "Viejas Arena, 5500 Canyon Crest Dr, San Diego, CA 92182",
+        "avg_rating": "4.5",
+        "zip": "92182",
+        "categories": "{Arena,Event venue}",
+        "city": "San Diego"
+    },
+    "Mission San Antonio De Pala": {
+        "address": "Mission San Antonio De Pala, 3015 Pala Mission Rd, Pala, CA 92059",
+        "avg_rating": "4.7",
+        "zip": "92059",
+        "categories": "{Catholic church,Mission,Pilgrimage place,Tourist attraction}",
+        "city": "Pala"
+    },
+    "Palomar Mtn. General Store": {
+        "address": "Palomar Mtn. General Store, 33120 Canfield Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.5",
+        "zip": "92060",
+        "categories": "{General store}",
+        "city": "Palomar Mountain"
+    },
+    "Gonzales Mess Hall": {
+        "address": "Gonzales Mess Hall, 5500 Miramar Way, San Diego, CA 92145",
+        "avg_rating": "3.4",
+        "zip": "92145",
+        "categories": "{Restaurant}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Foster Point": {
+        "address": "Foster Point, Mt Laguna, CA 91948",
+        "avg_rating": "4.8",
+        "zip": "91948",
+        "categories": "{Hiking area,Tourist attraction}",
+        "city": "Mt Laguna"
+    },
+    "Parker Pool": {
+        "address": "Parker Pool, Mataguay Rd, Santa Ysabel, CA 92070",
+        "avg_rating": "4.3",
+        "zip": "92070",
+        "categories": "{Swimming pool,Swimming}",
+        "city": "Santa Ysabel"
+    },
+    "University House SDSU": {
+        "address": "University House SDSU, 4545 Yerba Santa Dr, San Diego, CA 92182",
+        "avg_rating": "1",
+        "zip": "92182",
+        "categories": "{Event venue,Guest house,Manor house}",
+        "city": "San Diego"
+    },
+    "Oceanview Gem Mine & Pala Chief Mine": {
+        "address": "Oceanview Gem Mine & Pala Chief Mine, Palomar-Julian, Reservation, 37304 Magee Rd, Pala, CA 92059",
+        "avg_rating": "4.5",
+        "zip": "92059",
+        "categories": "{Tourist attraction}",
+        "city": "Pala"
+    },
+    "Flying Leatherneck Aviation Museum": {
+        "address": "Flying Leatherneck Aviation Museum, 4203 Anderson Ave, San Diego, CA 92145",
+        "avg_rating": "4.7",
+        "zip": "92145",
+        "categories": "{Museum,Heritage museum,History museum,Tourist attraction}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Hellhole Palms": {
+        "address": "Hellhole Palms, Anza-Borrego Desert State Park, Palm Canyon Dr, Ranchita, CA 92066",
+        "avg_rating": "4.7",
+        "zip": "92066",
+        "categories": "{State park}",
+        "city": "Ranchita"
+    },
+    "Ida and Cecil Green Faculty Club": {
+        "address": "Ida and Cecil Green Faculty Club, 9500 Gilman Drive MC 0121, La Jolla, CA 92093",
+        "avg_rating": "4.2",
+        "zip": "92093",
+        "categories": "{Event venue,Caterer}",
+        "city": "La Jolla"
+    },
+    "Valley of the Moon Trailhead": {
+        "address": "Valley of the Moon Trailhead, 48549 Old Hwy 80, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.7",
+        "zip": "91934",
+        "categories": "{Hiking area}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Crestline Group Campground": {
+        "address": "Crestline Group Campground, Summit Cir, E Grade Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.5",
+        "zip": "92060",
+        "categories": "{Campground}",
+        "city": "Palomar Mountain"
+    },
+    "Structural and Materials Engineering": {
+        "address": "Structural and Materials Engineering, Matthews Ln, La Jolla, CA 92093",
+        "avg_rating": "4.8",
+        "zip": "92093",
+        "categories": "{University department,University}",
+        "city": "La Jolla"
+    },
+    "California State University San Marcos": {
+        "address": "California State University San Marcos, 333 S Twin Oaks Valley Rd, San Marcos, CA 92096",
+        "avg_rating": "3.9",
+        "zip": "92096",
+        "categories": "{Public university,University}",
+        "city": "San Marcos"
+    },
+    "Maya Residence Hall": {
+        "address": "Maya Residence Hall, San Diego State University, San Diego, CA 92182",
+        "avg_rating": "3.3",
+        "zip": "92182",
+        "categories": "{Student dormitory,Apartment building}",
+        "city": "San Diego"
+    },
+    "Harrison Serenity Ranch": {
+        "address": "Harrison Serenity Ranch, 18187 Nate Harrison Rd, Palomar Mountain, CA 92060",
+        "avg_rating": "4.9",
+        "zip": "92060",
+        "categories": "{Lodging}",
+        "city": "Palomar Mountain"
+    },
+    "Santa Ysabel Nature Center": {
+        "address": "Santa Ysabel Nature Center, 22135 CA-79, Santa Ysabel, CA 92070",
+        "avg_rating": "4.8",
+        "zip": "92070",
+        "categories": "{Visitor center}",
+        "city": "Santa Ysabel"
+    },
+    "Noodles - Authentic Asian Cuisine": {
+        "address": "Noodles - Authentic Asian Cuisine, 11154 CA-76, Pala, CA 92059",
+        "avg_rating": "4",
+        "zip": "92059",
+        "categories": "{Restaurant}",
+        "city": "Pala"
+    },
+    "Stan's Carpet Care & Cleaning": {
+        "address": "Stan's Carpet Care & Cleaning, 27454 Old Hwy 80, Guatay, CA 91931",
+        "avg_rating": "5",
+        "zip": "91931",
+        "categories": "{Carpet cleaning service}",
+        "city": "Guatay"
+    },
+    "Rancho Roasters": {
+        "address": "Rancho Roasters, 16950 Via De Santa Fe, Rancho Santa Fe, CA 92091",
+        "avg_rating": "4.8",
+        "zip": "92091",
+        "categories": "{Cafe}",
+        "city": "Rancho Santa Fe"
+    },
+    "Potrero General Store": {
+        "address": "Potrero General Store, 25125 CA-94, Potrero, CA 91963",
+        "avg_rating": "4.1",
+        "zip": "91963",
+        "categories": "{Grocery store}",
+        "city": "Potrero"
+    },
+    "Laguna Mountain Sports & Supply": {
+        "address": "Laguna Mountain Sports & Supply, 10545 Sunrise Hwy, Mt Laguna, CA 91948",
+        "avg_rating": "4.4",
+        "zip": "91948",
+        "categories": "{Sporting goods store}",
+        "city": "Mt Laguna"
+    },
+    "Starlight Theater": {
+        "address": "Starlight Theater, 11154 CA-76, Pala, CA 92059",
+        "avg_rating": "4.6",
+        "zip": "92059",
+        "categories": "{Performing arts theater}",
+        "city": "Pala"
+    },
+    "Devils Canyon": {
+        "address": "Devils Canyon, California 92259",
+        "avg_rating": "4.7",
+        "zip": "92259",
+        "categories": "{Ravine}",
+        "city": ""
+    },
+    "3rd MAW Band": {
+        "address": "3rd MAW Band, 3379 Anderson Ave, San Diego, CA 92145",
+        "avg_rating": "5",
+        "zip": "92145",
+        "categories": "{Federal government office}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Round Mountain": {
+        "address": "Round Mountain, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "5",
+        "zip": "91934",
+        "categories": "{Mountain peak}",
+        "city": "Jacumba Hot Springs"
+    },
+    "San Diego Hospital Navy Exchange Gift Store": {
+        "address": "San Diego Hospital Navy Exchange Gift Store, 34800 Bob Wilson Dr, San Diego, CA 92134",
+        "avg_rating": "4.6",
+        "zip": "92134",
+        "categories": "{Department store}",
+        "city": "San Diego"
+    },
+    "Experimental Theatre": {
+        "address": "Experimental Theatre, Drama Building, School of Theatre, Television, and Film,, 5500 Campanile Dr, San Diego, CA 92182",
+        "avg_rating": "4.3",
+        "zip": "92182",
+        "categories": "{Performing arts theater}",
+        "city": "San Diego"
+    },
+    "Jewel Valley Campground": {
+        "address": "Jewel Valley Campground, 1519 Jewel Valley Rd, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "3.6",
+        "zip": "91934",
+        "categories": "{Campground}",
+        "city": "Jacumba Hot Springs"
+    },
+    "San Diego Dune Tours": {
+        "address": "San Diego Dune Tours, 6 W Evan Hewes Hwy, Ocotillo, CA 92259",
+        "avg_rating": "4.7",
+        "zip": "92259",
+        "categories": "{Tour operator}",
+        "city": "Ocotillo"
+    },
+    "VMFAT-101": {
+        "address": "VMFAT-101, San Diego, CA 92145",
+        "avg_rating": "4.4",
+        "zip": "92145",
+        "categories": "{Corporate office}",
+        "city": "San Diego",
+        "json_group": 2
+    },
+    "Hepner Hall": {
+        "address": "Hepner Hall, Campanile Mall, San Diego, CA 92182",
+        "avg_rating": "4.6",
+        "zip": "92182",
+        "categories": "{Historical landmark}",
+        "city": "San Diego"
+    },
+    "Three Sisters Falls Trailhead": {
+        "address": "Three Sisters Falls Trailhead, Boulder Creek Rd, Santa Ysabel, CA 92070",
+        "avg_rating": "4.7",
+        "zip": "92070",
+        "categories": "{Hiking area,Tourist attraction}",
+        "city": "Santa Ysabel"
+    },
+    "International House": {
+        "address": "International House, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "4.2",
+        "zip": "92093",
+        "categories": "{Student housing center}",
+        "city": "La Jolla"
+    },
+    "Silent Tree": {
+        "address": "Silent Tree, University of California San Diego, San Diego, CA 92161",
+        "avg_rating": "5",
+        "zip": "92161",
+        "categories": "{Sculpture}",
+        "city": "San Diego"
+    },
+    "Susan Tapert": {
+        "address": "Susan Tapert, 9500 Gilman Dr, La Jolla, CA 92093",
+        "avg_rating": "5",
+        "zip": "92093",
+        "categories": "{Psychiatrist}",
+        "city": "La Jolla"
+    },
+    "Dept of Homeland Security": {
+        "address": "Dept of Homeland Security, San Diego, CA 92155",
+        "avg_rating": "5",
+        "zip": "92155",
+        "categories": "{Military base}",
+        "city": "San Diego"
+    },
+    "Don Powell Theatre": {
+        "address": "Don Powell Theatre, 5400 Campanile Mall, San Diego, CA 92182",
+        "avg_rating": "4.3",
+        "zip": "92182",
+        "categories": "{Performing arts theater}",
+        "city": "San Diego"
+    },
+    "De Anza Spring Resort - Goat Canyon Trestle Trailhead": {
+        "address": "De Anza Spring Resort - Goat Canyon Trestle Trailhead, 1945-1999 Carrizo Gorge Rd, Jacumba Hot Springs, CA 91934",
+        "avg_rating": "4.3",
+        "zip": "91934",
+        "categories": "{Hiking area}",
+        "city": "Jacumba Hot Springs"
+    },
+    "Round Table Pizza": {
+        "address": "Round Table Pizza, University of California San Diego, Price Center, La Jolla, CA 92093",
+        "avg_rating": "4",
+        "zip": "92093",
+        "categories": "{Pizza restaurant,Caterer,Chicken wings restaurant,Family restaurant,Italian restaurant,Pizza Takeout}",
+        "city": "La Jolla"
+    }
+}
